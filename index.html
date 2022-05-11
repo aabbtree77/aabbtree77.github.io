@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="w3.css">
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap" rel="stylesheet">
+
+<link href="qube.min.css" rel="stylesheet" type="text/css">
+<link href="qube.add.css" rel="stylesheet" type="text/css">
+
+<title>Ramunas Girdziusas</title>
+<body>
+
+<div class="w3-row w3-dark-grey">
+  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+  <div class="w3-col s10 m6 l6 w3-center w3-xxlarge w3-text-blue" style="text-shadow:4px 4px 0 #444"><b>Ramūnas Girdziušas</b></div>
+  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+</div>
+
+<div class="w3-row w3-dark-grey">
+  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+  <div class="w3-col s10 m6 l6 w3-center w3-xlarge" style="text-shadow:2px 2px 0 #444">
+  <a class="w3-monospace w3-text-yellow" href="https://github.com/aabbtree77?tab=repositories">github</a>
+  <a class="w3-monospace w3-text-yellow" href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">resume</a>
+  <a class="w3-monospace w3-text-yellow" href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">cv</a>
+  <a class="w3-monospace w3-text-yellow" href="https://github.com/aabbtree77/aabbtree77.github.io">meta</a> 
+  </div>
+  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+</div>
+
+<div class="w3-row w3-dark-grey">
+  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+  <div class="w3-col s10 m6 l6 w3-justify w3-large w3-dark-grey w3-text-black w3-petitfscript"><p><br></p>
+<table align="center">
+    <tr>
+    <th align="center"> Volumetric Lighting in Max Payne (2008)</th>
+    </tr>
+    <tr>
+    <td>
+    <img src="./imgs/lifetime.jpg"  alt="Olga Kurylenko as Natasha - Max Payne (2008)" width="100%" >
+    </td>
+    </tr>
+</table>
+
+<p><br></p>
+<h1 id="selected-projects">Selected Projects</h1>
+<p><br> </p>
+<h3 id="httpsgithubcomaabbtree77adast"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/adast">https://github.com/aabbtree77/adast</a></h3>
+<p>Sometimes I help Saulius Rakauskas (Infovega) to repair electronic devices. He dissects hardware and designs a board/program/requirement, I write codes. 
+This is one such marvel machine repaired by us, still in operation (2022).</p>
+<p><br></p>
+<h3 id="httpsgithubcomaabbtree77esp32-mqtt-experiments"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/esp32-mqtt-experiments">https://github.com/aabbtree77/esp32-mqtt-experiments</a></h3>
+<p>Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience. It is a better (cheaper and more hassle-free) technology than <a href="https://github.com/aabbtree77/atmega88-enc28j60-ethernet">AVR</a> or <a href="https://jaycarlson.net/embedded-linux/">embedded Linux</a>, but only for this exact minimal purpose. ESP32 together with MicroPython is not that good as a server or retro/mini computer, but this is a step in the right direction, albeit 40 years later. Dan Ingalls: "An operating system is a collection of things that don't fit into a language. There shouldn't be one.", 1981.</p>
+<p><br> </p>
+<h3 id="httpsgithubcomaabbtree77twinpeekz"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/twinpeekz">https://github.com/aabbtree77/twinpeekz</a></h3>
+<p>Inspired by the work of <strong><a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a></strong> 
+ and <strong><a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a></strong>, as well as <strong><a href="https://en.wikipedia.org/wiki/Inside_(video_game)">INSIDE 2016</a></strong> and <strong><a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a></strong>. The code exposes a realistic (multi-pass) OpenGL 
+pipeline in a single Go file and studies the impact of Go's GC. </p>
+<p>I would now ditch <strong><a href="https://github.com/luk4z7/go-concurrency-guide">Go</a></strong> for 
+<strong><a href="https://github.com/guzba/gltfviewer">Nim</a></strong> or even go for <strong><a href="https://github.com/hexops/mach-gpu-dawn">Zig</a></strong>+<strong><a href="https://surma.dev/things/webgpu/">WebGPU</a></strong>, but there are no good 3D backends to build a minimal reliable 3D engine at the moment. The unsung hero here is Baldur Karlsson, the creator of <strong><a href="https://renderdoc.org/">RenderDoc</a></strong>.</p>
+<p><br> </p>
+<div class="w3-container">
+  <table align="center">
+  <tr>
+  <td><div class="w3-xlarge w3-serif w3-text-orange"> “Now if you want to do this little dance here for old times sake, Jack, bring it.<br> 
+     You're gonna end up like a one-legged man in an ass-kicking contest.”</div></td>
+  </tr>
+  <tr>
+  <td colspan="1" style="text-align:right"><div class="w3-xlarge w3-serif w3-text-orange">- Get Carter, 2000</div></td>
+  </tr>
+  </table>
+</div>
+
+<p><br></p>
+<h3 id="httpsgithubcomaabbtree77mnist-017"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/MNIST-0.17">https://github.com/aabbtree77/MNIST-0.17</a></h3>
+<p>Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in my own investigation.</p>
+<p><br> </p>
+<h3 id="httpsdiglibegorghandle1023123dor20141044009-015"><a class="w3-monospace w3-text-blue" href="https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015">https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015</a></h3>
+<p>PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to electrostatics + approximate 
+constraint handling via simple projections ala Karmarkar and Cimmino in linear algebra. Davide Boscaini handled the constraint gradient exactly, 
+pushed the error rates, and we got a publication.
+Davide Eynard should have been there as the coauthor too, we were all working side by side. A 3D guru Randolf Schärfig bent those finger meshes for us in Blender.</p>
+<p><br></p>
+<h3 id="httpshalarchives-ouvertesfrhal-00723427"><a class="w3-monospace w3-text-blue" href="https://hal.archives-ouvertes.fr/hal-00723427">https://hal.archives-ouvertes.fr/hal-00723427</a></h3>
+<p>PostDoc Chronicles 2: Saint-Étienne, 2012-2013. One of my best research experiences. The project had literally 
+everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing case where so much comes together. A niche problem and so much complexity though!</p>
+<p>To describe the optimization approach/problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet. One can see how this is resolved in the report, but it is not proven if we are always getting what we want: A synchronous progress just running faster/asynchronously.</p>
+<p><br> </p>
+<h3 id="unpublished"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/ucla2009.pdf">Unpublished</a></h3>
+<p>PostDoc Chronicles 1: Los Angeles, 2008-2009. A failure, though rank arguments and Eq. 30 came up somewhat unexpectedly. 
+The ability to linearize a problem and investigate its Jacobian structure 
+is underrated, but I could not make it into a bigger program.
+The modified Thomson problem looks hopeless, but these highly elegant problems are given to us for a reason, take a look.</p>
+<p><br> </p>
+<table align="center">
+    <tr>
+    <th align="center"> Ramunas Girdziusas, D.Sc. (Tech.)</th>
+    </tr>
+    <tr>
+    <td>
+    <img src="./imgs/rg.jpg"  alt="Ramunas Girdziusas, 2008" width="100%" >
+    </td>
+    </tr>
+</table>
+
+<p><br> </p>
+<h3 id="httpsaaltodocaaltofihandle1234567892999"><a class="w3-monospace w3-text-blue" href="https://aaltodoc.aalto.fi/handle/123456789/2999">https://aaltodoc.aalto.fi/handle/123456789/2999</a></h3>
+<p>My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this <strong><a href="https://ieeexplore.ieee.org/document/1555991">IJCNN-2005</a></strong> paper corrected/improved in 
+ <strong><a href="https://ieeexplore.ieee.org/document/4408895">ICCV2007</a></strong> and <strong><a href="https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77">ACCV2007</a></strong>. A good test case could have been the bilateral upscaling stage in volumetric light rendering (in 3D engines). </p>
+<p>These days one can pytorch these spaces, e.g. wrap filters into transformer networks. 
+<strong><a href="https://twitter.com/mmbronstein/status/1407260749295239168">Learn the diffusivities as well.</a></strong>, though such ideas feel more like some missed opportunities of 2000s.</p>
+<div class="w3-panel w3-pale-orange w3-bottombar w3-border-black w3-border">
+  <div class="w3-xlarge w3-serif w3-text-black">
+
+  R.I.P.
+  <br>
+
+  Daffertshofer-Haken-1994 as a strategically wrong, but inspiring paper,
+  Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
+  Mykola Ivanchenko, <strong>Elia Liitiäinen</strong>, Jan-Hendrik Schleimer, Jarrod Creado, <strong>Leo Michael</strong>, 
+  <strong>Jaakko Martti Johannes Miettinen</strong>, Ville Rantamaula, Dexter He, 
+  Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis, 
+  Anita Bisi, Sergej Doudorov, Maxim Govtva, Paola Huaynate... I remember you.
+  </div>
+</div>
+
+<p><br> </p>
+<div class="w3-container">
+  <table align="center">
+  <tr>
+  <td><div class="w3-xlarge w3-serif w3-text-orange"> “You're a picture on a piano.”</div></td>
+  </tr>
+  <tr>
+  <td colspan="1" style="text-align:right"><div class="w3-xlarge w3-serif w3-text-orange">- Get Carter, 2000</div></td>
+  </tr>
+  </table>
+</div>
+
+<p><br></p>
+<div class="qube-perspective spin03">
+  <div class="sq-50 qube-preserve3d">
+    <ul class="qube cube03">
+      <li class="front"></li>
+      <li class="left"></li>
+      <li class="back"></li>
+      <li class="right"></li>
+      <li class="top"></li>
+      <li class="bottom"></li>
+    </ul>
+  </div>
+</div>
+
+<p><br></p>
+<p><br></p>
+<h1 id="big-programs-and-underrated-stuff">Big Programs and Underrated Stuff</h1>
+<div class="w3-container">
+  <table align="center">
+  <tr>
+  <td><div class="w3-xlarge w3-serif w3-text-orange"> “It's just a trick.”</div></td>
+  </tr>
+  <tr>
+  <td colspan="1" style="text-align:right"><div class="w3-xlarge w3-serif w3-text-orange">- La grande bellezza, 2013</div></td>
+  </tr>
+  </table>
+</div>
+
+<p><br></p>
+<p><a class="w3-monospace w3-text-blue" href="https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411">L. Gatto, P. Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://arxiv.org/abs/1706.07371">G. Pastras. Four Lectures on Weierstrass Elliptic Function... 2017</a></p>
+<p><a class="w3-monospace w3-text-blue" href="http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf">P.A. Zhilin. Symmetries and Orthogonal Invariants in Oriented Space, 2005</a></p>
+<p><a class="w3-monospace w3-text-blue" href="http://home.cc.umanitoba.ca/~lovetrij/cECE7810/Papers/Yee%201966%20HiRes.pdf">Kane S. Yee. Numerical Solution of... Maxwell's Equations... 1966</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034">D.H. Eberly. Game Physics, 2010</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://github.com/RandyGaul/qu3e">R. Gaul: "... light-weight and fast 3D physics engine in C++", 2014-2020</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://github.com/search?q=Writing+An+Interpreter+In+Go">T. Ball. Writing An Interpreter In Go, 2016</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://www.youtube.com/watch?v=VlxBgklwheE&amp;list=PLVV0r6CmEsFxJatFYBb7P4NZscvJw1f0r&amp;index=18">M. Minsky: "The 2nd best mathematician is really a waste of resources", 2011</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://www.destroyallsoftware.com/talks/wat">G. Bernhardt. Wat, 2012</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://www.youtube.com/watch?v=SFIEA_sAPhc&amp;list=PLtJO6NYRwAWVQyQoyH8IUt5u4mzahQdHR&amp;index=6">Все о современном искусстве за полтора часа. Лекция Дмитрия Гутова, 2016</a></p>
+<p><a class="w3-monospace w3-text-yellow" href="https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)">Ф. Достоевский. Бесы, 1872</a> </p>
+<p><a class="w3-monospace w3-text-yellow" href="https://en.wikipedia.org/wiki/The_Royal_Game">S. Zweig. Chess Story, 1941</a> </p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0073540/">Picnic at Hanging Rock, 1975</a> </p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0086410/">Tales of Ordinary Madness, 1981</a> </p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0143614/">Marie Baie des Anges, 1997</a></p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.youtube.com/watch?v=X_nZetx6ejU">Я хочу ехать в лифте один! 2016</a> </p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt8613070/">Portrait de la jeune fille en feu, 2019</a></p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt10288566/">Druk (Another Round), 2020</a></p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt13044528/">La Révolution, 2020</a></p>
+<p>...</p>
+<table align="center">
+    <tr>
+    <th align="center">Ilja Kabakov. The Man who Flew Into Space from His Apartment, 1986</th>
+    </tr>
+    <tr>
+    <td>
+    <img src="./imgs/IljaKabakov1986.png"  alt="Modern art, USSR" width="100%" >
+    </td>
+    </tr>
+</table>
+
+<p><br></p></div>
+  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+</div>
+
+</body>
+</html>

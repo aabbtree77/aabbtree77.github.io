@@ -1,0 +1,82 @@
+.hover-spin .qube {
+	-webkit-transition: -webkit-transform 1500ms ease;
+	-moz-transition: -moz-transform 1500ms ease;
+	transition: transform 1500ms ease;
+}
+
+	.hover-spin:hover .qube {
+		-webkit-transform: rotateY(359deg);
+		-moz-transform: rotateY(359deg);
+		transform: rotateY(359deg);
+	}
+
+.spin01 .qube {
+	-webkit-animation-name: animation01;
+    -webkit-animation-timing-function: ease-in-out;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-duration: 6s;
+}
+
+@-webkit-keyframes animation01
+{
+from,to{}
+33% { -webkit-transform: rotateY(-180deg);}
+66% { -webkit-transform: rotateY(-360deg);}
+}
+
+.spin03 .qube {
+	-webkit-animation-name: animation03;
+    -webkit-animation-timing-function: ease-in-out;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-duration: 6s;
+}
+
+@-webkit-keyframes animation03
+{
+from,to{}
+16% { -webkit-transform: rotateY(-90deg);}
+33% { -webkit-transform: rotateY(-180deg);}
+50% { -webkit-transform: rotateY(-270deg);}
+66% { -webkit-transform: rotateX(-90deg);}
+83% { -webkit-transform: rotateX(90deg);}
+}
+
+@keyframes rotateY {
+    from {
+        transform: rotateX(0);
+    }
+    to {
+        transform: rotateX(359.99deg);
+    }
+}
+
+.sq-25 {
+	position: relative;
+	left: 0; right: 0; top: 0; bottom: 0;
+	margin: auto;
+	width: 25%;
+}
+
+.sq-50 {
+	position: relative;
+	left: 0; right: 0; top: 0; bottom: 0;
+	margin: auto;
+	width: 40%;
+}
+
+.cube01 { padding-top: 100%; }
+.cube01 > .front:after { background-image: url(./imgs/IMG_20200720_205944_sq.jpg); background-size: cover;}
+.cube01 > .back:after { background-image: url(./imgs/IMG_20201008_200429_sq.jpg); background-size: cover;}
+.cube01 > .left:after { background-image: url(./imgs/rg.jpg); background-size: cover;}
+.cube01 > .right:after { background-image: url(./imgs/IMG_4960_sq.jpg); background-size: cover;}
+
+/*.cube03 { width: 100%; height: 100%; padding-top: 100%; }*/
+.cube03 { padding-top: 100%; }
+.cube03 > .front:after { background-image: url(./imgs/IMAG0859_1sq.jpg); background-size: cover;}
+.cube03 > .back:after { background-image: url(./imgs/IMG_5498_sq.jpg); background-size: cover;}
+.cube03 > .left:after { background-image: url(./imgs/IMG_4991_sq768.jpg); background-size: cover;}
+.cube03 > .right:after { background-image: url(./imgs/IMAG0859_2sq.jpg); background-size: cover;}
+.cube03 > .top:after { background-image: url(./imgs/IMG_3787_sq.jpg); background-size: cover;}
+.cube03 > .bottom:after { background-image: url(./imgs/IMAG0116_sq.jpg); background-size: cover;}
+
+
