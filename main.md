@@ -22,26 +22,22 @@ Selected Projects
 
 ### <https://github.com/aabbtree77/adast>{: class="w3-monospace w3-text-blue"}
 
-Sometimes I help Saulius Rakauskas (Infovega) to repair electronic devices. He dissects hardware and designs a board/program/requirement, I write codes. 
-This is one such marvel machine repaired by us, still in operation (2022).
+A joint work with Saulius Rakauskas (Infovega) to repair an old factory machine (the paper guillotine). He dissected hardware, designed the board and set up the software requirements, I wrote the microcontroller code in C (avr-gcc). This marvel machine (repaired by us in 2020) is still in operation (2022).
 
 <br>
 
 ### <https://github.com/aabbtree77/esp32-mqtt-experiments>{: class="w3-monospace w3-text-blue"}
 
-Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience. It is a better (cheaper and more hassle-free) technology than [AVR](https://github.com/aabbtree77/atmega88-enc28j60-ethernet) or [embedded Linux](https://jaycarlson.net/embedded-linux/), but only for this exact minimal purpose. ESP32 together with MicroPython is not that good as a server or retro/mini computer, but this is a step in the right direction, albeit 40 years later. Dan Ingalls: "An operating system is a collection of things that don't fit into a language. There shouldn't be one.", 1981.
-
+Experiments with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience. It is a better (cheaper and more hassle-free) technology than [AVR](https://github.com/aabbtree77/atmega88-enc28j60-ethernet) or [embedded Linux](https://jaycarlson.net/embedded-linux/), but only for this exact minimal purpose. ESP32 is suboptimal as a server or retro/mini computer, but this is a step in the right direction, albeit 40 years later. Dan Ingalls: "An operating system is a collection of things that don't fit into a language. There shouldn't be one.", 1981.
 
 <br> 
 
 ### <https://github.com/aabbtree77/twinpeekz>{: class="w3-monospace w3-text-blue"}
 
-Inspired by the work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** 
- and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**, as well as **[INSIDE 2016](https://en.wikipedia.org/wiki/Inside_(video_game))** and **[Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)**. The code exposes a realistic (multi-pass) OpenGL 
-pipeline in a single Go file and studies the impact of Go's GC. 
+A full volumetric lighting in Go, following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**, as well as admiring **[INSIDE 2016](https://en.wikipedia.org/wiki/Inside_(video_game))** and **[Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)**. The code exposes a realistic (multi-pass) OpenGL pipeline in a single Go file and studies the impact of Go's GC. 
 
 I would now ditch **[Go](https://github.com/luk4z7/go-concurrency-guide)** for 
-**[Nim](https://github.com/guzba/gltfviewer)** or even go for **[Zig](https://github.com/hexops/mach-gpu-dawn)**+**[WebGPU](https://surma.dev/things/webgpu/)**, but there are no good 3D backends to build a minimal reliable 3D engine at the moment. The unsung hero here is Baldur Karlsson, the creator of **[RenderDoc](https://renderdoc.org/)**.
+**[Nim](https://github.com/guzba/gltfviewer)** or even go for **[Zig](https://github.com/hexops/mach-gpu-dawn)**+**[WebGPU](https://surma.dev/things/webgpu/)** some day, but these systems still do not solve the most glaring problem of error handling in a 3D backend. The unsung hero here is Baldur Karlsson, the creator of **[RenderDoc](https://renderdoc.org/)**.
 
 <br> 
 
@@ -61,7 +57,7 @@ I would now ditch **[Go](https://github.com/luk4z7/go-concurrency-guide)** for
  
 ### <https://github.com/aabbtree77/MNIST-0.17>{: class="w3-monospace w3-text-blue"}
 
-Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in my own investigation.
+Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in my own fork of his git repo.
 
 <br> 
 
@@ -77,7 +73,7 @@ Davide Eynard should have been there as the coauthor too, we were all working si
 ### <https://hal.archives-ouvertes.fr/hal-00723427>{: class="w3-monospace w3-text-blue"}
 
 PostDoc Chronicles 2: Saint-Étienne, 2012-2013. One of my best research experiences. The project had literally 
-everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing case where so much comes together. A niche problem and so much complexity though!
+everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together. A niche problem and so much complexity though!
 
 To describe the optimization approach/problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet. One can see how this is resolved in the report, but it is not proven if we are always getting what we want: A synchronous progress just running faster/asynchronously.
 
@@ -191,13 +187,13 @@ Big Programs and Underrated Stuff
 
   [R. Gaul: "... light-weight and fast 3D physics engine in C++", 2014-2020](https://github.com/RandyGaul/qu3e){: class="w3-monospace w3-text-blue"}
 
-  [T. Ball. Writing An Interpreter In Go, 2016](https://github.com/search?q=Writing+An+Interpreter+In+Go){: class="w3-monospace w3-text-blue"}
+  [N. Wheeler. Schrödinger's train of thought, 2006](https://www.reed.edu/physics/faculty/wheeler/documents/Quantum%20Mechanics/Miscellaneous%20Essays/Schrodinger's%20Argument.pdf){: class="w3-monospace w3-text-blue"}
 
   [M. Minsky: "The 2nd best mathematician is really a waste of resources", 2011](https://www.youtube.com/watch?v=VlxBgklwheE&list=PLVV0r6CmEsFxJatFYBb7P4NZscvJw1f0r&index=18){: class="w3-monospace w3-text-blue"}
   
   [G. Bernhardt. Wat, 2012](https://www.destroyallsoftware.com/talks/wat){: class="w3-monospace w3-text-blue"}
 
-  [Все о современном искусстве за полтора часа. Лекция Дмитрия Гутова, 2016](https://www.youtube.com/watch?v=SFIEA_sAPhc&list=PLtJO6NYRwAWVQyQoyH8IUt5u4mzahQdHR&index=6){: class="w3-monospace w3-text-blue"}
+  [T. Ball. Writing An Interpreter In Go, 2016](https://github.com/search?q=Writing+An+Interpreter+In+Go){: class="w3-monospace w3-text-blue"} 
 
   [Ф. Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace w3-text-yellow"} 
 
@@ -210,6 +206,8 @@ Big Programs and Underrated Stuff
   [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace w3-text-yellow"}
 
   [Я хочу ехать в лифте один! 2016](https://www.youtube.com/watch?v=X_nZetx6ejU){: class="w3-monospace w3-text-yellow"} 
+
+  [Все о современном искусстве за полтора часа. Лекция Дмитрия Гутова, 2016](https://www.youtube.com/watch?v=SFIEA_sAPhc&list=PLtJO6NYRwAWVQyQoyH8IUt5u4mzahQdHR&index=6){: class="w3-monospace w3-text-yellow"} 
   
   [Portrait de la jeune fille en feu, 2019](https://www.imdb.com/title/tt8613070/){: class="w3-monospace w3-text-yellow"}
 
