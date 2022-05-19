@@ -68,10 +68,10 @@ MathJax = {
 <p>A joint work with Saulius Rakauskas (Infovega). He dissected hardware, designed the board and prepared factory requirements, I wrote microcontroller code in C (avr-gcc). This marvel machine (repaired by us in 2020) is still in operation (2022).</p>
 <p><br></p>
 <h3 id="httpsgithubcomaabbtree77esp32-mqtt-experiments"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/esp32-mqtt-experiments">https://github.com/aabbtree77/esp32-mqtt-experiments</a></h3>
-<p>Experiments with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience. It is a better (cheaper and more hassle-free) technology than <a href="https://github.com/aabbtree77/atmega88-enc28j60-ethernet">AVR</a> or <a href="https://jaycarlson.net/embedded-linux/">embedded Linux</a>, but only for this exact minimal purpose. ESP32 is suboptimal as a server, retro/mini computer or a generic minimal non-Wi-Fi microcontroller, but this is a step in the right direction, albeit 40 years later. Dan Ingalls: "An operating system is a collection of things that don't fit into a language. There shouldn't be one.", 1981.</p>
+<p>IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience. It is a better (cheaper and more hassle-free) technology than <strong><a href="https://github.com/aabbtree77/atmega88-enc28j60-ethernet">AVR</a></strong> or <strong><a href="https://jaycarlson.net/embedded-linux/">embedded Linux</a></strong>, but only for this exact minimal purpose. ESP32 is suboptimal as a server, retro/mini computer or a generic minimal non-Wi-Fi microcontroller, but this is a step in the right direction, albeit 40 years later. Dan Ingalls: "An operating system is a collection of things that don't fit into a language. There shouldn't be one.", 1981.</p>
 <p><br> </p>
 <h3 id="httpsgithubcomaabbtree77twinpeekz"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/twinpeekz">https://github.com/aabbtree77/twinpeekz</a></h3>
-<p>A full volumetric lighting in Go, following the C/C++ work of <strong><a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a></strong> and <strong><a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a></strong>, keeping an eye on <strong><a href="https://en.wikipedia.org/wiki/Inside_(video_game)">INSIDE 2016</a></strong> and <strong><a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a></strong>. The code exposes the impact of Go's GC in a realistic (multi-pass, PBR-based) OpenGL render pipeline.</p>
+<p>A full volumetric lighting in Go (forward rendering) following the C/C++ work of <strong><a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a></strong> and <strong><a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a></strong>, keeping an eye on <strong><a href="https://en.wikipedia.org/wiki/Inside_(video_game)">INSIDE 2016</a></strong> and <strong><a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a></strong>. The code exposes the impact of Go's GC in a realistic (multi-pass, PBR-based) OpenGL render pipeline.</p>
 <p>I would now ditch <strong><a href="https://github.com/luk4z7/go-concurrency-guide">Go</a></strong> for 
 <strong><a href="https://github.com/guzba/gltfviewer">Nim</a></strong> or even go for <strong><a href="https://github.com/hexops/mach-gpu-dawn">Zig</a></strong>+<strong><a href="https://surma.dev/things/webgpu/">WebGPU</a></strong> some day, but these systems still do not solve the most glaring problem of error handling in a 3D backend. The unsung hero is Baldur Karlsson, the creator of <strong><a href="https://renderdoc.org/">RenderDoc</a></strong>.</p>
 <p><br> </p>
@@ -105,8 +105,7 @@ everything: An automotive industry simulation implemented before me with OpenFOA
 <h3 id="unpublished"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/ucla2009.pdf">Unpublished</a></h3>
 <p>PostDoc Chronicles 1: Los Angeles, 2008-2009. A failure, though rank arguments and Eq. 30 came up somewhat unexpectedly. 
 The ability to linearize a problem and investigate its Jacobian structure 
-is underrated, but I could not make it into a bigger program. One had to branch out into mathematics, but neurobiology was impeding the way, and vice versa.
-The modified Thomson problem looks hopeless, but these highly elegant problems are given to us for a reason, take a look.</p>
+is underrated, but I could not make it into a bigger program. The modified Thomson problem looks hopeless, but these highly elegant problems are given to us for a reason.</p>
 <p><br> </p>
 <table align="center">
     <tr>
@@ -121,10 +120,9 @@ The modified Thomson problem looks hopeless, but these highly elegant problems a
 
 <p><br> </p>
 <h3 id="httpsaaltodocaaltofihandle1234567892999"><a class="w3-monospace w3-text-blue" href="https://aaltodoc.aalto.fi/handle/123456789/2999">https://aaltodoc.aalto.fi/handle/123456789/2999</a></h3>
-<p>My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this <strong><a href="https://ieeexplore.ieee.org/document/1555991">IJCNN-2005</a></strong> paper corrected/improved in 
- <strong><a href="https://ieeexplore.ieee.org/document/4408895">ICCV2007</a></strong> and <strong><a href="https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77">ACCV2007</a></strong>. A good test case could have been the bilateral upscaling stage in volumetric light rendering (in 3D engines). </p>
-<p>These days one can pytorch these spaces, e.g. wrap filters into transformer networks. 
-<strong><a href="https://twitter.com/mmbronstein/status/1407260749295239168">Learn the diffusivities as well.</a></strong>, though such ideas feel more like some missed opportunities of 2000s.</p>
+<p>My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this <strong><a href="https://ieeexplore.ieee.org/document/1555991">IJCNN-2005</a></strong> paper slightly improved with <strong><a href="https://ieeexplore.ieee.org/document/4408895">ICCV2007</a></strong> and <strong><a href="https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77">ACCV2007</a></strong>. A good test case could have been the bilateral upscaling stage in volumetric light rendering. </p>
+<p>These days one pytorches these models, e.g. by wrapping filters into transformer networks. 
+<strong><a href="https://twitter.com/mmbronstein/status/1407260749295239168">One may optimize the diffusivities as well</a></strong>.</p>
 <div class="w3-panel w3-pale-orange w3-bottombar w3-border-black w3-border">
   <div class="w3-xlarge w3-serif w3-text-black">
 
@@ -168,7 +166,7 @@ The modified Thomson problem looks hopeless, but these highly elegant problems a
 
 <p><br></p>
 <p><br></p>
-<h1 id="selected-bookmarks">Selected Bookmarks</h1>
+<h1 id="bookmarks">Bookmarks</h1>
 <div class="w3-container">
   <table align="center">
   <tr>
@@ -185,22 +183,16 @@ The modified Thomson problem looks hopeless, but these highly elegant problems a
 <p><a class="w3-monospace w3-text-blue" href="https://arxiv.org/abs/1706.07371">G. Pastras. Four Lectures on Weierstrass Elliptic Function... 2017</a></p>
 <p><a class="w3-monospace w3-text-blue" href="http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf">P.A. Zhilin. Symmetries and Orthogonal Invariants in Oriented Space, 2005</a></p>
 <p><a class="w3-monospace w3-text-blue" href="http://home.cc.umanitoba.ca/~lovetrij/cECE7810/Papers/Yee%201966%20HiRes.pdf">Kane S. Yee. Numerical Solution of... Maxwell's Equations... 1966</a></p>
-<p><a class="w3-monospace w3-text-blue" href="https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034">D.H. Eberly. Game Physics, 2010</a></p>
-<p><a class="w3-monospace w3-text-blue" href="https://github.com/RandyGaul/qu3e">R. Gaul: "... light-weight and fast 3D physics engine in C++", 2014-2020</a></p>
+<p><a class="w3-monospace w3-text-blue" href="https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034">D.H. Eberly. Game Physics, Sect. 6.6, 2010</a></p>
 <p><a class="w3-monospace w3-text-blue" href="https://www.reed.edu/physics/faculty/wheeler/documents/Quantum%20Mechanics/Miscellaneous%20Essays/Schrodinger's%20Argument.pdf">N. Wheeler. Schrödinger's train of thought, 2006</a></p>
-<p><a class="w3-monospace w3-text-blue" href="https://www.youtube.com/watch?v=VlxBgklwheE&amp;list=PLVV0r6CmEsFxJatFYBb7P4NZscvJw1f0r&amp;index=18">M. Minsky: "The 2nd best mathematician is really a waste of resources", 2011</a></p>
-<p><a class="w3-monospace w3-text-blue" href="https://www.destroyallsoftware.com/talks/wat">G. Bernhardt. Wat, 2012</a></p>
 <p><a class="w3-monospace w3-text-blue" href="https://github.com/search?q=Writing+An+Interpreter+In+Go">T. Ball. Writing An Interpreter In Go, 2016</a> </p>
 <p><a class="w3-monospace w3-text-yellow" href="https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)">Ф. Достоевский. Бесы, 1872</a> </p>
 <p><a class="w3-monospace w3-text-yellow" href="https://en.wikipedia.org/wiki/The_Royal_Game">S. Zweig. Chess Story, 1941</a> </p>
 <p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0073540/">Picnic at Hanging Rock, 1975</a> </p>
-<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0086410/">Tales of Ordinary Madness, 1981</a> </p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0086410/">Tales of Ordinary Madness, 1981</a></p>
+<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0107653/">Naked, 1993</a> </p>
 <p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0143614/">Marie Baie des Anges, 1997</a></p>
-<p><a class="w3-monospace w3-text-yellow" href="https://www.youtube.com/watch?v=X_nZetx6ejU">Я хочу ехать в лифте один! 2016</a> </p>
-<p><a class="w3-monospace w3-text-yellow" href="https://www.youtube.com/watch?v=SFIEA_sAPhc&amp;list=PLtJO6NYRwAWVQyQoyH8IUt5u4mzahQdHR&amp;index=6">Все о современном искусстве за полтора часа. Лекция Дмитрия Гутова, 2016</a> </p>
 <p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt8613070/">Portrait de la jeune fille en feu, 2019</a></p>
-<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt10288566/">Druk (Another Round), 2020</a></p>
-<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt13044528/">La Révolution, 2020</a></p>
 <p>...</p>
 <table align="center">
     <tr>
