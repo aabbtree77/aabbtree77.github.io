@@ -158,7 +158,7 @@ These days one pytorches these models, e.g. by wrapping filters into transformer
 
 
 Bookmarks
-==================
+=========
 
 <div class="w3-container">
   <table align="center">
@@ -173,35 +173,29 @@ Bookmarks
 
 <br>
 
-  [L. Gatto, P. Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411){: class="w3-monospace w3-text-blue"}
+  [Ф. Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace w3-text-blue"} 
 
-  [G. Pastras. Four Lectures on Weierstrass Elliptic Function... 2017](https://arxiv.org/abs/1706.07371){: class="w3-monospace w3-text-blue"}
-  
+  [S. Zweig. Chess Story, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace w3-text-blue"} 
+
   [P.A. Zhilin. Symmetries and Orthogonal Invariants in Oriented Space, 2005](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf){: class="w3-monospace w3-text-blue"}
-
-  [Kane S. Yee. Numerical Solution of... Maxwell's Equations... 1966](http://home.cc.umanitoba.ca/~lovetrij/cECE7810/Papers/Yee%201966%20HiRes.pdf){: class="w3-monospace w3-text-blue"}
-
-  [D.H. Eberly. Game Physics, Sect. 6.6, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034){: class="w3-monospace w3-text-blue"}
 
   [N. Wheeler. Schrödinger's train of thought, 2006](https://www.reed.edu/physics/faculty/wheeler/documents/Quantum%20Mechanics/Miscellaneous%20Essays/Schrodinger's%20Argument.pdf){: class="w3-monospace w3-text-blue"}
 
   [T. Ball. Writing An Interpreter In Go, 2016](https://github.com/search?q=Writing+An+Interpreter+In+Go){: class="w3-monospace w3-text-blue"} 
 
-  [Ф. Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace w3-text-yellow"} 
-
-  [S. Zweig. Chess Story, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace w3-text-yellow"} 
-
   [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-yellow"} 
 
   [Tales of Ordinary Madness, 1981](https://www.imdb.com/title/tt0086410/){: class="w3-monospace w3-text-yellow"}
 
-  [Naked, 1993](https://www.imdb.com/title/tt0107653/){: class="w3-monospace w3-text-yellow"} 
+  [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace w3-text-yellow"} 
   
   [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace w3-text-yellow"}
   
   [Portrait de la jeune fille en feu, 2019](https://www.imdb.com/title/tt8613070/){: class="w3-monospace w3-text-yellow"}
 
   ...
+
+<br>
 
 <table align="center">
     <tr>

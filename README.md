@@ -14,6 +14,8 @@ This web page uses the following tools (the list will grow):
 
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/) to draw diagrams.
 
+- MathJax.
+
 - When in doubt, use plain HTML, Markdown allows it, purity sucks. 
 
 - [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/).
