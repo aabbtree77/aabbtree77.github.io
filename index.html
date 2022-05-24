@@ -71,9 +71,9 @@ MathJax = {
 <p>IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience. It is a better (cheaper and more hassle-free) technology than <strong><a href="https://github.com/aabbtree77/atmega88-enc28j60-ethernet">AVR</a></strong> or <strong><a href="https://jaycarlson.net/embedded-linux/">embedded Linux</a></strong>, but only for this exact minimal purpose. ESP32 is suboptimal as a server, retro/mini computer or a generic minimal non-Wi-Fi microcontroller, but this is a step in the right direction, albeit 40 years later. Dan Ingalls: "An operating system is a collection of things that don't fit into a language. There shouldn't be one.", 1981.</p>
 <p><br> </p>
 <h3 id="httpsgithubcomaabbtree77twinpeekz"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/twinpeekz">https://github.com/aabbtree77/twinpeekz</a></h3>
-<p>A full volumetric lighting in Go (forward rendering) following the C/C++ work of <strong><a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a></strong> and <strong><a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a></strong>, keeping an eye on <strong><a href="https://en.wikipedia.org/wiki/Inside_(video_game)">INSIDE 2016</a></strong> and <strong><a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a></strong>. The code exposes the impact of Go's GC in a realistic (multi-pass, PBR-based) OpenGL render pipeline.</p>
+<p>A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of <strong><a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a></strong> and <strong><a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a></strong>, keeping an eye on <strong><a href="https://en.wikipedia.org/wiki/Inside_(video_game)">INSIDE 2016</a></strong> and <strong><a href="https://en.wikipedia.org/wiki/Red_Dead_Redemption_2">Red Dead Redemption 2</a></strong>. The code exposes the impact of Go's GC in a realistic (multi-pass, PBR-based) OpenGL render pipeline.</p>
 <p>I would now ditch <strong><a href="https://github.com/luk4z7/go-concurrency-guide">Go</a></strong> for 
-<strong><a href="https://github.com/guzba/gltfviewer">Nim</a></strong> or even go for <strong><a href="https://github.com/hexops/mach-gpu-dawn">Zig</a></strong>+<strong><a href="https://surma.dev/things/webgpu/">WebGPU</a></strong> some day, but these systems still do not solve the most glaring problem of error handling in a 3D backend. The unsung hero is Baldur Karlsson, the creator of <strong><a href="https://renderdoc.org/">RenderDoc</a></strong>.</p>
+<strong><a href="https://github.com/guzba/gltfviewer">Nim</a></strong> or even go for <strong><a href="https://github.com/hexops/mach-gpu-dawn">Zig</a></strong>+<strong><a href="https://surma.dev/things/webgpu/">WebGPU</a></strong>, some day. The unsung hero is Baldur Karlsson, the creator of <strong><a href="https://renderdoc.org/">RenderDoc</a></strong>.</p>
 <p><br> </p>
 <div class="w3-container">
   <table align="center">
@@ -89,7 +89,7 @@ MathJax = {
 
 <p><br></p>
 <h3 id="httpsgithubcomaabbtree77mnist-017"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/MNIST-0.17">https://github.com/aabbtree77/MNIST-0.17</a></h3>
-<p>Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in my own git fork.</p>
+<p>Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in this git fork.</p>
 <p><br> </p>
 <h3 id="httpsdiglibegorghandle1023123dor20141044009-015"><a class="w3-monospace w3-text-blue" href="https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015">https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015</a></h3>
 <p>PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to electrostatics + approximate 
@@ -99,13 +99,13 @@ Davide Eynard should have been there as the coauthor too, we were all working si
 <p><br></p>
 <h3 id="httpshalarchives-ouvertesfrhal-00723427"><a class="w3-monospace w3-text-blue" href="https://hal.archives-ouvertes.fr/hal-00723427">https://hal.archives-ouvertes.fr/hal-00723427</a></h3>
 <p>PostDoc Chronicles 2: Saint-Étienne, 2012-2013. One of my best research experiences. The project had literally 
-everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together. A niche problem and so much complexity though!</p>
+everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together. A niche problem and so much complexity though.</p>
 <p>To describe the optimization approach/problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.</p>
 <p><br> </p>
 <h3 id="unpublished"><a class="w3-monospace w3-text-blue" href="https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/ucla2009.pdf">Unpublished</a></h3>
 <p>PostDoc Chronicles 1: Los Angeles, 2008-2009. A failure, though rank arguments and Eq. 30 came up somewhat unexpectedly. 
 The ability to linearize a problem and investigate its Jacobian structure 
-is underrated, but I could not make it into a bigger program. The modified Thomson problem looks hopeless, but these highly elegant problems are given to us for a reason.</p>
+is underrated, but I could not make it into a bigger program.</p>
 <p><br> </p>
 <table align="center">
     <tr>
@@ -167,25 +167,11 @@ is underrated, but I could not make it into a bigger program. The modified Thoms
 <p><br></p>
 <p><br></p>
 <h1 id="bookmarks">Bookmarks</h1>
-<div class="w3-container">
-  <table align="center">
-  <tr>
-  <td><div class="w3-xlarge w3-serif w3-text-orange"> “It's just a trick.”</div></td>
-  </tr>
-  <tr>
-  <td colspan="1" style="text-align:right"><div class="w3-xlarge w3-serif w3-text-orange">- La grande bellezza, 2013</div></td>
-  </tr>
-  </table>
-</div>
-
-<p><br></p>
 <p><a class="w3-monospace w3-text-blue" href="https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)">Ф. Достоевский. Бесы, 1872</a> </p>
 <p><a class="w3-monospace w3-text-blue" href="https://en.wikipedia.org/wiki/The_Royal_Game">S. Zweig. Chess Story, 1941</a> </p>
 <p><a class="w3-monospace w3-text-blue" href="http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf">P.A. Zhilin. Symmetries and Orthogonal Invariants in Oriented Space, 2005</a></p>
 <p><a class="w3-monospace w3-text-blue" href="https://www.reed.edu/physics/faculty/wheeler/documents/Quantum%20Mechanics/Miscellaneous%20Essays/Schrodinger's%20Argument.pdf">N. Wheeler. Schrödinger's train of thought, 2006</a></p>
-<p><a class="w3-monospace w3-text-blue" href="https://github.com/search?q=Writing+An+Interpreter+In+Go">T. Ball. Writing An Interpreter In Go, 2016</a> </p>
 <p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0073540/">Picnic at Hanging Rock, 1975</a> </p>
-<p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0086410/">Tales of Ordinary Madness, 1981</a></p>
 <p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0083658/">Blade Runner, 1982</a> </p>
 <p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt0143614/">Marie Baie des Anges, 1997</a></p>
 <p><a class="w3-monospace w3-text-yellow" href="https://www.imdb.com/title/tt8613070/">Portrait de la jeune fille en feu, 2019</a></p>

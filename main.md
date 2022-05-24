@@ -34,10 +34,10 @@ IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited softwar
 
 ### <https://github.com/aabbtree77/twinpeekz>{: class="w3-monospace w3-text-blue"}
 
-A full volumetric lighting in Go (forward rendering) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**, keeping an eye on **[INSIDE 2016](https://en.wikipedia.org/wiki/Inside_(video_game))** and **[Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)**. The code exposes the impact of Go's GC in a realistic (multi-pass, PBR-based) OpenGL render pipeline.
+A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**, keeping an eye on **[INSIDE 2016](https://en.wikipedia.org/wiki/Inside_(video_game))** and **[Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)**. The code exposes the impact of Go's GC in a realistic (multi-pass, PBR-based) OpenGL render pipeline.
 
 I would now ditch **[Go](https://github.com/luk4z7/go-concurrency-guide)** for 
-**[Nim](https://github.com/guzba/gltfviewer)** or even go for **[Zig](https://github.com/hexops/mach-gpu-dawn)**+**[WebGPU](https://surma.dev/things/webgpu/)** some day, but these systems still do not solve the most glaring problem of error handling in a 3D backend. The unsung hero is Baldur Karlsson, the creator of **[RenderDoc](https://renderdoc.org/)**.
+**[Nim](https://github.com/guzba/gltfviewer)** or even go for **[Zig](https://github.com/hexops/mach-gpu-dawn)**+**[WebGPU](https://surma.dev/things/webgpu/)**, some day. The unsung hero is Baldur Karlsson, the creator of **[RenderDoc](https://renderdoc.org/)**.
 
 <br> 
 
@@ -57,7 +57,7 @@ I would now ditch **[Go](https://github.com/luk4z7/go-concurrency-guide)** for
  
 ### <https://github.com/aabbtree77/MNIST-0.17>{: class="w3-monospace w3-text-blue"}
 
-Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in my own git fork.
+Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in this git fork.
 
 <br> 
 
@@ -73,7 +73,7 @@ Davide Eynard should have been there as the coauthor too, we were all working si
 ### <https://hal.archives-ouvertes.fr/hal-00723427>{: class="w3-monospace w3-text-blue"}
 
 PostDoc Chronicles 2: Saint-Étienne, 2012-2013. One of my best research experiences. The project had literally 
-everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together. A niche problem and so much complexity though!
+everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together. A niche problem and so much complexity though.
 
 To describe the optimization approach/problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.
 
@@ -83,7 +83,7 @@ To describe the optimization approach/problem, a simple analogy will suffice: Im
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. A failure, though rank arguments and Eq. 30 came up somewhat unexpectedly. 
 The ability to linearize a problem and investigate its Jacobian structure 
-is underrated, but I could not make it into a bigger program. The modified Thomson problem looks hopeless, but these highly elegant problems are given to us for a reason.
+is underrated, but I could not make it into a bigger program.
 
 <br> 
 
@@ -160,19 +160,6 @@ These days one pytorches these models, e.g. by wrapping filters into transformer
 Bookmarks
 =========
 
-<div class="w3-container">
-  <table align="center">
-  <tr>
-  <td><div class="w3-xlarge w3-serif w3-text-orange"> “It's just a trick.”</div></td>
-  </tr>
-  <tr>
-  <td colspan="1" style="text-align:right"><div class="w3-xlarge w3-serif w3-text-orange">- La grande bellezza, 2013</div></td>
-  </tr>
-  </table>
-</div>
-
-<br>
-
   [Ф. Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace w3-text-blue"} 
 
   [S. Zweig. Chess Story, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace w3-text-blue"} 
@@ -181,11 +168,7 @@ Bookmarks
 
   [N. Wheeler. Schrödinger's train of thought, 2006](https://www.reed.edu/physics/faculty/wheeler/documents/Quantum%20Mechanics/Miscellaneous%20Essays/Schrodinger's%20Argument.pdf){: class="w3-monospace w3-text-blue"}
 
-  [T. Ball. Writing An Interpreter In Go, 2016](https://github.com/search?q=Writing+An+Interpreter+In+Go){: class="w3-monospace w3-text-blue"} 
-
   [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-yellow"} 
-
-  [Tales of Ordinary Madness, 1981](https://www.imdb.com/title/tt0086410/){: class="w3-monospace w3-text-yellow"}
 
   [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace w3-text-yellow"} 
   
