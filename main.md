@@ -164,9 +164,9 @@ Bookmarks
 
   [S. Zweig. Chess Story, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace w3-text-blue"} 
 
-  [P.A. Zhilin. Symmetries and Orthogonal Invariants in Oriented Space, 2005](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf){: class="w3-monospace w3-text-blue"}
+   [E.A. Coddington, R. Carlson. Linear Ordinary Differential Equations, 1997](http://gibbs.if.usp.br/~marchett/fismat2/linear-ode_coddington-carlson.pdf){: class="w3-monospace w3-text-blue"}
 
-  [N. Wheeler. Schrödinger's train of thought, 2006](https://www.reed.edu/physics/faculty/wheeler/documents/Quantum%20Mechanics/Miscellaneous%20Essays/Schrodinger's%20Argument.pdf){: class="w3-monospace w3-text-blue"}
+  [П.А. Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace w3-text-blue"}
 
   [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-yellow"} 
 
