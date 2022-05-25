@@ -28,16 +28,13 @@ A joint work with Saulius Rakauskas (Infovega). He dissected hardware, designed 
 
 ### <https://github.com/aabbtree77/esp32-mqtt-experiments>{: class="w3-monospace w3-text-blue"}
 
-IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience. It is a better (cheaper and more hassle-free) technology than **[AVR](https://github.com/aabbtree77/atmega88-enc28j60-ethernet)** or **[embedded Linux](https://jaycarlson.net/embedded-linux/)**, but only for this exact minimal purpose. ESP32 is suboptimal as a server, retro/mini computer or a generic minimal non-Wi-Fi microcontroller, but this is a step in the right direction, albeit 40 years later. Dan Ingalls: "An operating system is a collection of things that don't fit into a language. There shouldn't be one.", 1981.
+IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience.
 
 <br> 
 
 ### <https://github.com/aabbtree77/twinpeekz>{: class="w3-monospace w3-text-blue"}
 
-A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**, keeping an eye on **[INSIDE 2016](https://en.wikipedia.org/wiki/Inside_(video_game))** and **[Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2)**. The code exposes the impact of Go's GC in a realistic (multi-pass, PBR-based) OpenGL render pipeline.
-
-I would now ditch **[Go](https://github.com/luk4z7/go-concurrency-guide)** for 
-**[Nim](https://github.com/guzba/gltfviewer)** or even go for **[Zig](https://github.com/hexops/mach-gpu-dawn)**+**[WebGPU](https://surma.dev/things/webgpu/)**, some day. The unsung hero is Baldur Karlsson, the creator of **[RenderDoc](https://renderdoc.org/)**.
+A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code quantifies the problem of Go's GC in a realistic (multi-pass, PBR-based) OpenGL pipeline.
 
 <br> 
 
@@ -57,7 +54,7 @@ I would now ditch **[Go](https://github.com/luk4z7/go-concurrency-guide)** for
  
 ### <https://github.com/aabbtree77/MNIST-0.17>{: class="w3-monospace w3-text-blue"}
 
-Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition. You can find some further details in this git fork.
+A confirmation that Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition.
 
 <br> 
 
@@ -72,10 +69,9 @@ Davide Eynard should have been there as the coauthor too, we were all working si
 
 ### <https://hal.archives-ouvertes.fr/hal-00723427>{: class="w3-monospace w3-text-blue"}
 
-PostDoc Chronicles 2: Saint-Étienne, 2012-2013. One of my best research experiences. The project had literally 
-everything: An automotive industry simulation implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView running on the ProActive PACA Grid (INRIA) cloud via a Scilab-to-Java bridge managed by Fabien Viale. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together. A niche problem and so much complexity though.
+PostDoc Chronicles 2: Saint-Étienne, 2012-2013. A simulation within a simulation... This engineering optimization project had a very fancy optimization cost and an even more sophisticated optimization strategy. The cost was a pressure drop simulated with the Navier-Stokes flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid (INRIA) cloud via Scilab-to-Java bridge managed by Fabien Viale. Optimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together.
 
-To describe the optimization approach/problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.
+To describe the actual research problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet to make a movement. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.
 
 <br> 
  
@@ -103,10 +99,9 @@ is underrated, but I could not make it into a bigger program.
  
 ### <https://aaltodoc.aalto.fi/handle/123456789/2999>{: class="w3-monospace w3-text-blue"}
 
-My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)** paper slightly improved with **[ICCV2007](https://ieeexplore.ieee.org/document/4408895)** and **[ACCV2007](https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77)**. A good test case could have been the bilateral upscaling stage in volumetric light rendering. 
+My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)** paper polished in **[ICCV2007](https://ieeexplore.ieee.org/document/4408895)** and **[ACCV2007](https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77)**. A good test case could have been the bilateral upscaling stage in volumetric light rendering. 
  
-These days one pytorches these models, e.g. by wrapping filters into transformer networks. 
-**[One may optimize the diffusivities as well](https://twitter.com/mmbronstein/status/1407260749295239168)**.
+One could further pytorch these models by wrapping them into transformer networks or making a leap into **[convolutions](https://distill.pub/2021/understanding-gnns/)** **[on](https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes)** **[graphs](https://twitter.com/mmbronstein/status/1407260749295239168)**, but the baseline CNN might be tough to beat.
  
 <div class="w3-panel w3-pale-orange w3-bottombar w3-border-black w3-border">
   <div class="w3-xlarge w3-serif w3-text-black">
