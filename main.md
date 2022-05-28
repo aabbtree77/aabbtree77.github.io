@@ -2,11 +2,11 @@
 
 <table align="center">
     <tr>
-    <th align="center"> Volumetric Lighting in Max Payne (2008)</th>
+    <th align="center">Ilja Kabakov. The Man who Flew Into Space from His Apartment, 1986</th>
     </tr>
     <tr>
     <td>
-    <img src="./imgs/lifetime.jpg"  alt="Olga Kurylenko as Natasha - Max Payne (2008)" width="100%" >
+    <img src="./imgs/IljaKabakov1986.png"  alt="Modern art, USSR" width="100%" >
     </td>
     </tr>
 </table>
@@ -38,40 +38,24 @@ A full volumetric lighting in Go (forward rendering, shadow mapping) following t
 
 <br> 
 
-<div class="w3-container">
-  <table align="center">
-  <tr>
-  <td><div class="w3-xlarge w3-serif w3-text-orange"> “Now if you want to do this little dance here for old times sake, Jack, bring it.<br> 
-     You're gonna end up like a one-legged man in an ass-kicking contest.”</div></td>
-  </tr>
-  <tr>
-  <td colspan="1" style="text-align:right"><div class="w3-xlarge w3-serif w3-text-orange">- Get Carter, 2000</div></td>
-  </tr>
-  </table>
-</div>
-
-<br>
- 
 ### <https://github.com/aabbtree77/MNIST-0.17>{: class="w3-monospace w3-text-blue"}
 
-A confirmation that Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition.
+A confirmation that Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition so far (2022).
 
 <br> 
 
 ### <https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015>{: class="w3-monospace w3-text-blue"}
 
 PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to electrostatics + approximate 
-constraint handling via simple projections ala Karmarkar and Cimmino in linear algebra. Davide Boscaini handled the constraint gradient exactly, 
-pushed the error rates, and we got a publication.
-Davide Eynard should have been there as the coauthor too, we were all working side by side. A 3D guru Randolf Schärfig bent those finger meshes for us in Blender.
+constraint handling via simple projections ala Karmarkar and Cimmino in linear algebra. Davide Boscaini handled the constraint gradient exactly and pushed the error rates.
 
 <br>
 
 ### <https://hal.archives-ouvertes.fr/hal-00723427>{: class="w3-monospace w3-text-blue"}
 
-PostDoc Chronicles 2: Saint-Étienne, 2012-2013. A simulation within a simulation... This engineering optimization project had a very fancy optimization cost and an even more sophisticated optimization strategy. The cost was a pressure drop simulated with the Navier-Stokes flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid (INRIA) cloud via Scilab-to-Java bridge managed by Fabien Viale. Optimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement. There was plenty of Gaussian modeling with some low hanging fruit in the form of the MC integration. An amazing long chain of ideas where so much comes together.
+PostDoc Chronicles 2: Saint-Étienne, 2012-2013. Optimization of geometry to minimize a pressure drop simulated with the Navier-Stokes flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid (INRIA) cloud via Scilab-to-Java bridge managed by Fabien Viale. Minimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform.
 
-To describe the actual research problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet to make a movement. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.
+To describe the parallelization part of the problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet to make a movement. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.
 
 <br> 
  
@@ -101,7 +85,7 @@ is underrated, but I could not make it into a bigger program.
 
 My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)** paper polished in **[ICCV2007](https://ieeexplore.ieee.org/document/4408895)** and **[ACCV2007](https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77)**. A good test case could have been the bilateral upscaling stage in volumetric light rendering. 
  
-One could further pytorch these models by wrapping them into transformer networks or making a leap into **[convolutions](https://distill.pub/2021/understanding-gnns/)** **[on](https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes)** **[graphs](https://twitter.com/mmbronstein/status/1407260749295239168)**, but the baseline CNN might be tough to beat.
+One could further pytorch these models by wrapping them into transformer networks or making a leap into **[convolutions](https://distill.pub/2021/understanding-gnns/)** **[on](https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes)** **[graphs](https://twitter.com/mmbronstein/status/1407260749295239168)**, but the state of the art CNN might be tough to beat.
  
 <div class="w3-panel w3-pale-orange w3-bottombar w3-border-black w3-border">
   <div class="w3-xlarge w3-serif w3-text-black">
@@ -174,18 +158,4 @@ Bookmarks
   ...
 
 <br>
-
-<table align="center">
-    <tr>
-    <th align="center">Ilja Kabakov. The Man who Flew Into Space from His Apartment, 1986</th>
-    </tr>
-    <tr>
-    <td>
-    <img src="./imgs/IljaKabakov1986.png"  alt="Modern art, USSR" width="100%" >
-    </td>
-    </tr>
-</table>
-
-<br>
-
 
