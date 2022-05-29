@@ -143,9 +143,9 @@ Bookmarks
 
   [S. Zweig. Chess Story, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace w3-text-blue"} 
 
-  [П.А. Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace w3-text-blue"}
+  [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-blue"}
 
-  [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-yellow"} 
+  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace w3-text-yellow"} 
 
   [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace w3-text-yellow"} 
   
