@@ -143,13 +143,25 @@ Bookmarks
 
   [S. Zweig. Chess Story, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace w3-text-blue"} 
 
+  [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
+
   [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-blue"}
 
-  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace w3-text-yellow"} 
+  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace w3-text-blue"} 
 
-  [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace w3-text-yellow"} 
+  [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace w3-text-blue"} 
+
+  [The Cure. Fascination Street, 1989](https://www.youtube.com/watch?v=7ZsQdLlvuk4){: class="w3-monospace w3-text-yellow"}  
+
+  [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
+
+  [Linn Berggren. Lapponia, 1997](https://www.youtube.com/watch?v=h-Ch7BYiqvk&list=RDEMn7k33J47oypPqkQTAawmog&index=3){: class="w3-monospace w3-text-yellow"}
   
   [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace w3-text-yellow"}
+
+  [Anita Doth. Universe, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A){: class="w3-monospace w3-text-yellow"}
+
+  [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
 
 <br>
 
