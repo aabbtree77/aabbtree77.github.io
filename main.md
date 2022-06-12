@@ -147,11 +147,15 @@ Bookmarks
 
   [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-blue"}
 
-  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace w3-text-blue"} 
+  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace w3-text-blue"}
+
+  [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace w3-text-blue"} 
 
   [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace w3-text-blue"} 
 
-  [The Cure. Fascination Street, 1989](https://www.youtube.com/watch?v=7ZsQdLlvuk4){: class="w3-monospace w3-text-yellow"}  
+  [The Cure. Fascination Street, 1989](https://www.youtube.com/watch?v=7ZsQdLlvuk4){: class="w3-monospace w3-text-yellow"}
+
+  [Desireless. Hari ôm Ramakrishna, 1989](https://www.youtube.com/watch?v=18rZv8qWZqA){: class="w3-monospace w3-text-yellow"}
 
   [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
 
