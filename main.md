@@ -134,34 +134,162 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-
+<br>
 
 Bookmarks
 =========
 
-  [Ф. Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace w3-text-blue"} 
+<br>
 
-  [S. Zweig. Chess Story, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace w3-text-blue"} 
+Novel $\longrightarrow$ Film
+----------------------------
+
+  [Ф.М. Достоевский, 1869](https://en.wikipedia.org/wiki/The_Idiot){: class="w3-monospace"} $\longrightarrow$ 
+  [Идиот, 2003](https://www.imdb.com/title/tt0366028/){: class="w3-monospace"}
+
+  [А.П. Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Мой ласковый и нежный зверь, 1978](https://www.imdb.com/title/tt0172812/){: class="w3-monospace"}
+
+  [А.П. Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
+  [Три сестры, 1994](https://www.imdb.com/title/tt0111487/){: class="w3-monospace"}
+
+  [А.Р. Беляев, 1928](https://en.wikipedia.org/wiki/Amphibian_Man_(film)){: class="w3-monospace"} $\longrightarrow$
+  [Человек-амфибия, 1962](https://www.imdb.com/title/tt0055844/){: class="w3-monospace"}
+
+  [A. Christie, 1939](https://en.wikipedia.org/wiki/And_Then_There_Were_None){: class="w3-monospace"} $\longrightarrow$ 
+  [Десять негритят, 1987](https://www.imdb.com/title/tt0092879/){: class="w3-monospace"} 
+
+  [R. Chandler, 1939](https://en.wikipedia.org/wiki/The_Big_Sleep){: class="w3-monospace"} $\longrightarrow$ 
+  [The Big Sleep, 1946](https://www.imdb.com/title/tt0038355/){: class="w3-monospace"} 
+
+  [S. Zweig, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace"} $\longrightarrow$ 
+  [Brainwashed, 1960](https://www.imdb.com/title/tt0054272/){: class="w3-monospace"}
+
+  [A. Camus, 1942](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace"}
+
+  [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
+  [28 Days Later..., 2002](https://www.imdb.com/title/tt0289043/){: class="w3-monospace"}
+
+  [R. Chandler, 1953](https://en.wikipedia.org/wiki/The_Long_Goodbye_(novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [The Long Goodbye, 1973](https://www.imdb.com/title/tt0070334/){: class="w3-monospace"} 
+
+  [J.H. Chase, 1959](https://en.wikipedia.org/wiki/The_World_in_My_Pocket_(novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
+
+  [S. Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Солярис, 1972](https://www.imdb.com/title/tt0069293/){: class="w3-monospace"} $\longrightarrow$ 
+  [Solaris, 2002](https://www.imdb.com/title/tt0307479/){: class="w3-monospace"} 
+
+  [J. Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace"}
+
+  [P.K. Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\longrightarrow$ 
+  [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace"} 
+
+  [C. Bukowski, 1972](https://en.wikipedia.org/wiki/Erections,_Ejaculations,_Exhibitions,_and_General_Tales_of_Ordinary_Madness){: class="w3-monospace"} $\longrightarrow$ 
+  [Tales of Ordinary Madness, 1981](https://www.imdb.com/title/tt0086410/){: class="w3-monospace"}
+
+  [C. M. Palahniuk, 1996](https://en.wikipedia.org/wiki/Fight_Club_(novel)){: class="w3-monospace"} $\longrightarrow$
+  [Fight Club, 1999](https://www.theminimalists.com/fc/){: class="w3-monospace"} 
+
+<br>
+
+
+Original $\longrightarrow$ Remake
+---------------------------------
+
+  [Rodgers and Hammerstein, 1959](https://en.wikipedia.org/wiki/My_Favorite_Things_(song)){: class="w3-monospace"} $\longrightarrow$
+  [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
+
+  [C. C. Catch, 1985](https://www.youtube.com/watch?v=IOElIXM523I){: class="w3-monospace"} $\longrightarrow$
+  [C. C. Catch, 1999](https://youtu.be/ZcoP3-ProLE?t=238){: class="w3-monospace"} 
+
+<br>
+
+
+Tensor $\longrightarrow$ Algebra
+--------------------------------
+
+  [Am. J. Phys. 38, 1239 (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1){: class="w3-monospace"}
+
+  [Phys. Rev. D 64, 125013 (2001)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.125013){: class="w3-monospace"}
+
+  [Phys. Rev. D 67, 085021 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.085021){: class="w3-monospace"}
+
+  [Phys. Rev. D 67, 125011 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.125011){: class="w3-monospace"}
+
+<br>
+
+
+Functional Equation $\longrightarrow$ PDE
+-----------------------------------------
+
+  [Жилин П.А. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace"}
+
+<br>
+
+
+KdV $\longrightarrow$ Elliptic Curve
+------------------------------------
+
+  [L. Gatto, P. Salehyan. Hasse-Schmidt Derivations ... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411){: class="w3-monospace"}
+
+  [G. Pastras. Four Lectures on Weierstrass Elliptic Function ... 2017](https://arxiv.org/abs/1706.07371){: class="w3-monospace"}
+
+<br>
+
+
+Age of Empires 1997 in a Nutshell
+----------------------------------
+
+  [Amelia Clarke, towerdefense, 2017](https://github.com/rsaihe/towerdefense){: class="w3-monospace"}
+
+<br>
+
+
+Classical Mechanics (Done Right)
+--------------------------------
+
+  [D.H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034){: class="w3-monospace"}
+
+  [R. Gaul: "... light-weight and fast 3D physics engine in C++", 2014-2020](https://github.com/RandyGaul/qu3e){: class="w3-monospace"}
+
+<br>
+
+
+Classical Nonmechanics
+----------------------
+
+  [Ф. Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace"} 
+
+  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace"}
+
+  [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace"}
+
+  [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
+
+  [Twin Peaks, 1990-1991](https://www.imdb.com/title/tt0098936/){: class="w3-monospace"}
+
+  [Portrait de la jeune fille en feu, 2019](https://www.imdb.com/title/tt8613070/){: class="w3-monospace"}
+
+<br>
+
+
+
+
+Favourite Music
+---------------
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
 
-  [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace w3-text-blue"}
+  [The Cure. Fascination Street, 1989](https://www.youtube.com/watch?v=7ZsQdLlvuk4){: class="w3-monospace w3-text-blue"}
 
-  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace w3-text-blue"}
+  [Desireless. Hari ôm Ramakrishna, 1989](https://www.youtube.com/watch?v=18rZv8qWZqA){: class="w3-monospace w3-text-blue"}
 
-  [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace w3-text-blue"} 
-
-  [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace w3-text-blue"} 
-
-  [The Cure. Fascination Street, 1989](https://www.youtube.com/watch?v=7ZsQdLlvuk4){: class="w3-monospace w3-text-yellow"}
-
-  [Desireless. Hari ôm Ramakrishna, 1989](https://www.youtube.com/watch?v=18rZv8qWZqA){: class="w3-monospace w3-text-yellow"}
-
-  [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
+  [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-blue"}
 
   [Linn Berggren. Lapponia, 1997](https://www.youtube.com/watch?v=h-Ch7BYiqvk&list=RDEMn7k33J47oypPqkQTAawmog&index=3){: class="w3-monospace w3-text-yellow"}
-  
-  [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace w3-text-yellow"}
 
   [Anita Doth. Universe, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A){: class="w3-monospace w3-text-yellow"}
 
