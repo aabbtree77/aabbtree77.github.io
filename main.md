@@ -144,51 +144,48 @@ Bookmarks
 Novel $\longrightarrow$ Film
 ----------------------------
 
+  [J. Verne, 1868](https://fr.wikipedia.org/wiki/Les_Enfants_du_capitaine_Grant){: class="w3-monospace"} $\longrightarrow$ 
+  [В поисках капитана Гранта, 1985](https://www.youtube.com/watch?v=RYFZbm7ZJfw&t=1959s){: class="w3-monospace"}
+
   [Ф.М. Достоевский, 1869](https://en.wikipedia.org/wiki/The_Idiot){: class="w3-monospace"} $\longrightarrow$ 
-  [Идиот, 2003](https://www.imdb.com/title/tt0366028/){: class="w3-monospace"}
+  [Идиот, 2003](https://youtu.be/ouPEq_19cDA?list=PL66DIGaegedphHwUTNFlj0xwT89LyZ4ht&t=2089){: class="w3-monospace"}
 
   [А.П. Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Мой ласковый и нежный зверь, 1978](https://www.imdb.com/title/tt0172812/){: class="w3-monospace"}
+  [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
 
   [А.П. Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
-  [Три сестры, 1994](https://www.imdb.com/title/tt0111487/){: class="w3-monospace"}
+  [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
 
   [А.Р. Беляев, 1928](https://en.wikipedia.org/wiki/Amphibian_Man_(film)){: class="w3-monospace"} $\longrightarrow$
-  [Человек-амфибия, 1962](https://www.imdb.com/title/tt0055844/){: class="w3-monospace"}
+  [Человек-амфибия, 1962](https://www.youtube.com/watch?v=UMjwsbqghN8){: class="w3-monospace"}
 
   [A. Christie, 1939](https://en.wikipedia.org/wiki/And_Then_There_Were_None){: class="w3-monospace"} $\longrightarrow$ 
-  [Десять негритят, 1987](https://www.imdb.com/title/tt0092879/){: class="w3-monospace"} 
+  [Десять негритят, 1987](https://www.youtube.com/watch?v=dhZ8Q-ORJ9A){: class="w3-monospace"} 
 
   [R. Chandler, 1939](https://en.wikipedia.org/wiki/The_Big_Sleep){: class="w3-monospace"} $\longrightarrow$ 
-  [The Big Sleep, 1946](https://www.imdb.com/title/tt0038355/){: class="w3-monospace"} 
+  [The Big Sleep, 1946](https://www.youtube.com/watch?v=BvsCQ4epa7w){: class="w3-monospace"} 
 
   [S. Zweig, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace"} $\longrightarrow$ 
   [Brainwashed, 1960](https://www.imdb.com/title/tt0054272/){: class="w3-monospace"}
 
-  [A. Camus, 1942](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace"}
-
   [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
-  [28 Days Later..., 2002](https://www.imdb.com/title/tt0289043/){: class="w3-monospace"}
-
-  [R. Chandler, 1953](https://en.wikipedia.org/wiki/The_Long_Goodbye_(novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [The Long Goodbye, 1973](https://www.imdb.com/title/tt0070334/){: class="w3-monospace"} 
+  [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"}
 
   [J.H. Chase, 1959](https://en.wikipedia.org/wiki/The_World_in_My_Pocket_(novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
 
   [S. Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Солярис, 1972](https://www.imdb.com/title/tt0069293/){: class="w3-monospace"} $\longrightarrow$ 
-  [Solaris, 2002](https://www.imdb.com/title/tt0307479/){: class="w3-monospace"} 
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
+  [Solaris, 2002](https://www.youtube.com/watch?v=xX-PXjzcopo){: class="w3-monospace"} 
 
   [J. Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Picnic at Hanging Rock, 1975](https://www.imdb.com/title/tt0073540/){: class="w3-monospace"}
+  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"}
 
   [P.K. Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\longrightarrow$ 
-  [Blade Runner, 1982](https://www.imdb.com/title/tt0083658/){: class="w3-monospace"} 
+  [Blade Runner, 1982](https://www.youtube.com/watch?v=g-DkoGvcEBw){: class="w3-monospace"} 
 
   [C. Bukowski, 1972](https://en.wikipedia.org/wiki/Erections,_Ejaculations,_Exhibitions,_and_General_Tales_of_Ordinary_Madness){: class="w3-monospace"} $\longrightarrow$ 
-  [Tales of Ordinary Madness, 1981](https://www.imdb.com/title/tt0086410/){: class="w3-monospace"}
+  [Tales of Ordinary Madness, 1981](https://www.youtube.com/watch?v=upL99XQ5_jQ){: class="w3-monospace"}
 
   [C. M. Palahniuk, 1996](https://en.wikipedia.org/wiki/Fight_Club_(novel)){: class="w3-monospace"} $\longrightarrow$
   [Fight Club, 1999](https://www.theminimalists.com/fc/){: class="w3-monospace"} 
@@ -199,10 +196,24 @@ Novel $\longrightarrow$ Film
 Original $\longrightarrow$ Remake
 ---------------------------------
 
-  [Rodgers and Hammerstein, 1959](https://en.wikipedia.org/wiki/My_Favorite_Things_(song)){: class="w3-monospace"} $\longrightarrow$
+  [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\longrightarrow$
+  [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
+
+  [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\longrightarrow$
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
 
-  [C. C. Catch, 1985](https://www.youtube.com/watch?v=IOElIXM523I){: class="w3-monospace"} $\longrightarrow$
+  [Э.Н. Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
+  [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"} 
+
+  [Eurythmics, 1985](https://www.youtube.com/watch?v=RCdneDxFRYQ){: class="w3-monospace"} $\longrightarrow$
+  [P. Scotti, L. Bowen, 2014](https://www.youtube.com/watch?v=DvXGQibTP4M){: class="w3-monospace"} 
+
+<br>
+
+
+Stereo Sound Test
+---------------------------------
+
   [C. C. Catch, 1999](https://youtu.be/ZcoP3-ProLE?t=238){: class="w3-monospace"} 
 
 <br>
@@ -269,7 +280,9 @@ Classical Nonmechanics
 
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
 
-  [Twin Peaks, 1990-1991](https://www.imdb.com/title/tt0098936/){: class="w3-monospace"}
+  [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=9_tJskJqWWs){: class="w3-monospace"}
+
+  [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace"}
 
   [Portrait de la jeune fille en feu, 2019](https://www.imdb.com/title/tt8613070/){: class="w3-monospace"}
 
@@ -278,8 +291,8 @@ Classical Nonmechanics
 
 
 
-Favourite Music
----------------
+Crème de la crème
+-----------------
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
 
@@ -294,6 +307,8 @@ Favourite Music
   [Anita Doth. Universe, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A){: class="w3-monospace w3-text-yellow"}
 
   [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
+
+  [Muse 2009, Guy Ritchie 2010](https://www.youtube.com/watch?v=fZd9mKJcOR0){: class="w3-monospace w3-text-yellow"}
 
 <br>
 
