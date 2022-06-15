@@ -144,9 +144,6 @@ Bookmarks
 Novel $\longrightarrow$ Film
 ----------------------------
 
-  [J. Verne, 1868](https://fr.wikipedia.org/wiki/Les_Enfants_du_capitaine_Grant){: class="w3-monospace"} $\longrightarrow$ 
-  [В поисках капитана Гранта, 1985](https://www.youtube.com/watch?v=RYFZbm7ZJfw&t=1959s){: class="w3-monospace"}
-
   [Ф.М. Достоевский, 1869](https://en.wikipedia.org/wiki/The_Idiot){: class="w3-monospace"} $\longrightarrow$ 
   [Идиот, 2003](https://youtu.be/ouPEq_19cDA?list=PL66DIGaegedphHwUTNFlj0xwT89LyZ4ht&t=2089){: class="w3-monospace"}
 
@@ -158,9 +155,6 @@ Novel $\longrightarrow$ Film
 
   [А.Р. Беляев, 1928](https://en.wikipedia.org/wiki/Amphibian_Man_(film)){: class="w3-monospace"} $\longrightarrow$
   [Человек-амфибия, 1962](https://www.youtube.com/watch?v=UMjwsbqghN8){: class="w3-monospace"}
-
-  [A. Christie, 1939](https://en.wikipedia.org/wiki/And_Then_There_Were_None){: class="w3-monospace"} $\longrightarrow$ 
-  [Десять негритят, 1987](https://www.youtube.com/watch?v=dhZ8Q-ORJ9A){: class="w3-monospace"} 
 
   [R. Chandler, 1939](https://en.wikipedia.org/wiki/The_Big_Sleep){: class="w3-monospace"} $\longrightarrow$ 
   [The Big Sleep, 1946](https://www.youtube.com/watch?v=BvsCQ4epa7w){: class="w3-monospace"} 
@@ -185,10 +179,7 @@ Novel $\longrightarrow$ Film
   [Blade Runner, 1982](https://www.youtube.com/watch?v=g-DkoGvcEBw){: class="w3-monospace"} 
 
   [C. Bukowski, 1972](https://en.wikipedia.org/wiki/Erections,_Ejaculations,_Exhibitions,_and_General_Tales_of_Ordinary_Madness){: class="w3-monospace"} $\longrightarrow$ 
-  [Tales of Ordinary Madness, 1981](https://www.youtube.com/watch?v=upL99XQ5_jQ){: class="w3-monospace"}
-
-  [C. M. Palahniuk, 1996](https://en.wikipedia.org/wiki/Fight_Club_(novel)){: class="w3-monospace"} $\longrightarrow$
-  [Fight Club, 1999](https://www.theminimalists.com/fc/){: class="w3-monospace"} 
+  [Tales of Ordinary Madness, 1981](https://www.youtube.com/watch?v=upL99XQ5_jQ){: class="w3-monospace"} 
 
 <br>
 
@@ -291,8 +282,8 @@ Classical Nonmechanics
 
 
 
-Crème de la crème
------------------
+Music
+-----
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
 
