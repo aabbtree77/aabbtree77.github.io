@@ -147,8 +147,14 @@ Novel $\longrightarrow$ Film
   [Ф.М. Достоевский, 1869](https://en.wikipedia.org/wiki/The_Idiot){: class="w3-monospace"} $\longrightarrow$ 
   [Идиот, 2003](https://youtu.be/ouPEq_19cDA?list=PL66DIGaegedphHwUTNFlj0xwT89LyZ4ht&t=2089){: class="w3-monospace"}
 
+  [А.П. Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\longrightarrow$ 
+  [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5557){: class="w3-monospace"}
+
   [А.П. Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
+
+  [А.П. Чехов, 1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\longrightarrow$ 
+  [Черный монах, 1988](https://www.youtube.com/watch?v=yPBIRUv_LHw){: class="w3-monospace"}
 
   [А.П. Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
@@ -157,10 +163,10 @@ Novel $\longrightarrow$ Film
   [Человек-амфибия, 1962](https://www.youtube.com/watch?v=UMjwsbqghN8){: class="w3-monospace"}
 
   [R. Chandler, 1939](https://en.wikipedia.org/wiki/The_Big_Sleep){: class="w3-monospace"} $\longrightarrow$ 
-  [The Big Sleep, 1946](https://www.youtube.com/watch?v=BvsCQ4epa7w){: class="w3-monospace"} 
+  [The Big Sleep, 1946](https://youtu.be/BvsCQ4epa7w?t=51){: class="w3-monospace"} 
 
   [S. Zweig, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace"} $\longrightarrow$ 
-  [Brainwashed, 1960](https://www.imdb.com/title/tt0054272/){: class="w3-monospace"}
+  [Schachnovelle, 1960](https://www.imdb.com/title/tt0054272/){: class="w3-monospace"}
 
   [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
   [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"}
@@ -271,19 +277,23 @@ Classical Nonmechanics
 
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
 
+  [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"} 
+
   [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=9_tJskJqWWs){: class="w3-monospace"}
-
-  [Marie Baie des Anges, 1997](https://www.imdb.com/title/tt0143614/){: class="w3-monospace"}
-
-  [Portrait de la jeune fille en feu, 2019](https://www.imdb.com/title/tt8613070/){: class="w3-monospace"}
 
 <br>
 
 
+Never Mind the Camus
+--------------------
+
+  [Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
+
+<br>
 
 
-Music
------
+Music++
+-------
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
 
