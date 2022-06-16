@@ -166,7 +166,7 @@ Novel $\longrightarrow$ Film
   [The Big Sleep, 1946](https://youtu.be/BvsCQ4epa7w?t=51){: class="w3-monospace"} 
 
   [S. Zweig, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace"} $\longrightarrow$ 
-  [Schachnovelle, 1960](https://www.imdb.com/title/tt0054272/){: class="w3-monospace"}
+  [Schachnovelle, 2021](https://www.imdb.com/title/tt12058584/){: class="w3-monospace"}
 
   [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
   [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"}
@@ -190,8 +190,8 @@ Novel $\longrightarrow$ Film
 <br>
 
 
-Original $\longrightarrow$ Remake
----------------------------------
+Make $\longrightarrow$ Remake
+-----------------------------
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\longrightarrow$
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
@@ -281,19 +281,29 @@ Classical Nonmechanics
 
   [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=9_tJskJqWWs){: class="w3-monospace"}
 
+  [Closer, 2004](https://en.wikipedia.org/wiki/Closer_(2004_film)#/media/File:AliceAyres.jpg){: class="w3-monospace"}
+
 <br>
 
 
-Never Mind the Camus
---------------------
+French Films
+------------
+
+  [Les Bonnes Femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
+
+  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"} 
 
   [Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
 
+  [L'annulaire, 2005](https://www.imdb.com/title/tt0411117/){: class="w3-monospace"}
+
+  [Un moment d'égarement, 2015](https://www.youtube.com/watch?v=RbVJ9A2U37M){: class="w3-monospace"}
+
 <br>
 
 
-Music++
--------
+One of a Kind
+-------------
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
 
