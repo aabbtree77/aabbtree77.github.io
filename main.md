@@ -141,11 +141,8 @@ Bookmarks
 
 <br>
 
-Novel $\longrightarrow$ Film
+Novel $\longrightarrow$ Film/Soundtrack
 ----------------------------
-
-  [Ф.М. Достоевский, 1869](https://en.wikipedia.org/wiki/The_Idiot){: class="w3-monospace"} $\longrightarrow$ 
-  [Идиот, 2003](https://youtu.be/ouPEq_19cDA?list=PL66DIGaegedphHwUTNFlj0xwT89LyZ4ht&t=2089){: class="w3-monospace"}
 
   [А.П. Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5557){: class="w3-monospace"}
@@ -159,15 +156,6 @@ Novel $\longrightarrow$ Film
   [А.П. Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
 
-  [А.Р. Беляев, 1928](https://en.wikipedia.org/wiki/Amphibian_Man_(film)){: class="w3-monospace"} $\longrightarrow$
-  [Человек-амфибия, 1962](https://www.youtube.com/watch?v=UMjwsbqghN8){: class="w3-monospace"}
-
-  [R. Chandler, 1939](https://en.wikipedia.org/wiki/The_Big_Sleep){: class="w3-monospace"} $\longrightarrow$ 
-  [The Big Sleep, 1946](https://youtu.be/BvsCQ4epa7w?t=51){: class="w3-monospace"} 
-
-  [S. Zweig, 1941](https://en.wikipedia.org/wiki/The_Royal_Game){: class="w3-monospace"} $\longrightarrow$ 
-  [Schachnovelle, 2021](https://www.imdb.com/title/tt12058584/){: class="w3-monospace"}
-
   [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
   [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"}
 
@@ -175,17 +163,10 @@ Novel $\longrightarrow$ Film
   [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
 
   [S. Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
-  [Solaris, 2002](https://www.youtube.com/watch?v=xX-PXjzcopo){: class="w3-monospace"} 
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"}
 
   [J. Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"}
-
-  [P.K. Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\longrightarrow$ 
-  [Blade Runner, 1982](https://www.youtube.com/watch?v=g-DkoGvcEBw){: class="w3-monospace"} 
-
-  [C. Bukowski, 1972](https://en.wikipedia.org/wiki/Erections,_Ejaculations,_Exhibitions,_and_General_Tales_of_Ordinary_Madness){: class="w3-monospace"} $\longrightarrow$ 
-  [Tales of Ordinary Madness, 1981](https://www.youtube.com/watch?v=upL99XQ5_jQ){: class="w3-monospace"} 
 
 <br>
 
@@ -281,8 +262,6 @@ Classical Nonmechanics
 
   [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=9_tJskJqWWs){: class="w3-monospace"}
 
-  [Closer, 2004](https://en.wikipedia.org/wiki/Closer_(2004_film)#/media/File:AliceAyres.jpg){: class="w3-monospace"}
-
 <br>
 
 
@@ -293,7 +272,7 @@ French Films
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"} 
 
-  [Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
+  **[Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}**
 
   [L'annulaire, 2005](https://www.imdb.com/title/tt0411117/){: class="w3-monospace"}
 
