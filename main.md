@@ -34,7 +34,7 @@ IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited softwar
 
 ### [(OpenGL, Go) $\longrightarrow$ Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz){: class="w3-monospace w3-text-black"}
 
-A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code shows the impact of the garbage collector in a realistic (multi-pass, PBR-based) OpenGL pipeline.
+A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code shows the impact of a garbage collector in a realistic (multi-pass, PBR-based) OpenGL pipeline.
 
 <br> 
 
@@ -182,6 +182,14 @@ Make $\longrightarrow$ Remake
 
   [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\longrightarrow$
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
+
+  [Jimi Hendrix. The Star Spangled Banner, 1969](https://youtu.be/sjzZh6-h9fM?t=172){: class="w3-monospace"}
+
+  [Namika. Deutschlandlied, 2018](https://www.youtube.com/watch?v=9vvCzQvxCwg){: class="w3-monospace"}
+
+  [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\longrightarrow$
+  [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
+  [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw){: class="w3-monospace"}
 
   [Э.Н. Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"} 
