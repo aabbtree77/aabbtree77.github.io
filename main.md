@@ -177,13 +177,14 @@ Novel $\longrightarrow$ Film/Soundtrack
 Make $\longrightarrow$ Remake
 -----------------------------
 
+  [USSR Anthem: 1938, 1943, 2021](https://www.youtube.com/watch?v=iccJV_KdecA){: class="w3-monospace"} $\longrightarrow$
+  [5'nizza. Гимн СССР, 2004](https://www.youtube.com/watch?v=WsZL-OcPKgM){: class="w3-monospace"}
+
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\longrightarrow$
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
 
   [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\longrightarrow$
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
-
-  [Jimi Hendrix. The Star Spangled Banner, 1969](https://youtu.be/sjzZh6-h9fM?t=172){: class="w3-monospace"}
 
   [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\longrightarrow$
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
@@ -193,10 +194,8 @@ Make $\longrightarrow$ Remake
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"} 
 
   [Eurythmics, 1985](https://www.youtube.com/watch?v=RCdneDxFRYQ){: class="w3-monospace"} $\longrightarrow$
-  [P. Scotti, L. Bowen, 2014](https://www.youtube.com/watch?v=DvXGQibTP4M){: class="w3-monospace"} 
-
-  [Namika. Deutschlandlied, 2018](https://www.youtube.com/watch?v=jfN6ZYwXJec){: class="w3-monospace"}
-
+  [P. Scotti, L. Bowen, 2014](https://www.youtube.com/watch?v=DvXGQibTP4M){: class="w3-monospace"}
+  
 <br>
 
 
@@ -288,24 +287,14 @@ Classical Nonmechanics
 <br>
 
 
-Top 3 French Films
-------------------
+French Films
+------------
 
   [Les Bonnes Femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"} 
 
   **[Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}**
-
-<br>
-
-
-Basketball
-----------
-
-  [Lithuania vs. USA: 94-90. Olympic Games, 2004](https://www.youtube.com/watch?v=tgszZ4bsMSk){: class="w3-monospace"}
-
-  [Lithuania vs. USA: 21-11. FIBA 3x3 World Cup, 2022](https://www.youtube.com/watch?v=PKa1borqH24){: class="w3-monospace"}
 
 <br>
 
