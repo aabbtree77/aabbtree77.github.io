@@ -15,8 +15,8 @@
 
 
 
-Selected Projects
-==================================================
+1. Selected Projects
+====================
 
 <br> 
 
@@ -34,7 +34,7 @@ IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited softwar
 
 ### [(OpenGL, Go) $\longrightarrow$ Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz){: class="w3-monospace w3-text-black"}
 
-A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code quantifies the problem of Go's GC in a realistic (multi-pass, PBR-based) OpenGL pipeline.
+A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code shows the impact of the garbage collector in a realistic (multi-pass, PBR-based) OpenGL pipeline.
 
 <br> 
 
@@ -136,8 +136,8 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-Bookmarks
-=========
+2. Bookmarks
+============
 
 <br>
 
@@ -152,6 +152,9 @@ Novel $\longrightarrow$ Film/Soundtrack
 
   [А.П. Чехов, 1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\longrightarrow$ 
   [Черный монах, 1988](https://www.youtube.com/watch?v=yPBIRUv_LHw){: class="w3-monospace"}
+
+  [А.П. Чехов, 1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\longrightarrow$ 
+  [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
 
   [А.П. Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
@@ -189,8 +192,20 @@ Make $\longrightarrow$ Remake
 <br>
 
 
-Stereo Sound Test
----------------------------------
+Band $\longrightarrow$ Solo
+---------------------------
+
+  [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s){: class="w3-monospace"} $\longrightarrow$
+  [Linn Berggren, 1997](https://www.youtube.com/watch?v=OCmoS-VzBSE&list=RDEMn7k33J47oypPqkQTAawmog&index=24){: class="w3-monospace"} 
+
+  [2 Unlimited, 1995](https://www.youtube.com/watch?v=U0jNQyNGm4g){: class="w3-monospace"} $\longrightarrow$
+  [Anita Doth, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A){: class="w3-monospace"}
+
+<br>
+
+
+Stereo
+------
 
   [C. C. Catch, 1999](https://youtu.be/ZcoP3-ProLE?t=238){: class="w3-monospace"} 
 
@@ -265,18 +280,14 @@ Classical Nonmechanics
 <br>
 
 
-French Films
-------------
+Top 3 French Films
+------------------
 
   [Les Bonnes Femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"} 
 
   **[Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}**
-
-  [L'annulaire, 2005](https://www.imdb.com/title/tt0411117/){: class="w3-monospace"}
-
-  [Un moment d'égarement, 2015](https://www.youtube.com/watch?v=RbVJ9A2U37M){: class="w3-monospace"}
 
 <br>
 
@@ -290,11 +301,7 @@ Music
 
   [Desireless. Hari ôm Ramakrishna, 1989](https://www.youtube.com/watch?v=18rZv8qWZqA){: class="w3-monospace w3-text-blue"}
 
-  [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-blue"}
-
-  [Linn Berggren. Lapponia, 1997](https://www.youtube.com/watch?v=h-Ch7BYiqvk&list=RDEMn7k33J47oypPqkQTAawmog&index=3){: class="w3-monospace w3-text-yellow"}
-
-  [Anita Doth. Universe, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A){: class="w3-monospace w3-text-yellow"}
+  [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
 
   [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
 
