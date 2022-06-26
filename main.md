@@ -185,8 +185,6 @@ Make $\longrightarrow$ Remake
 
   [Jimi Hendrix. The Star Spangled Banner, 1969](https://youtu.be/sjzZh6-h9fM?t=172){: class="w3-monospace"}
 
-  [Namika. Deutschlandlied, 2018](https://www.youtube.com/watch?v=9vvCzQvxCwg){: class="w3-monospace"}
-
   [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\longrightarrow$
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
   [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw){: class="w3-monospace"}
@@ -196,6 +194,8 @@ Make $\longrightarrow$ Remake
 
   [Eurythmics, 1985](https://www.youtube.com/watch?v=RCdneDxFRYQ){: class="w3-monospace"} $\longrightarrow$
   [P. Scotti, L. Bowen, 2014](https://www.youtube.com/watch?v=DvXGQibTP4M){: class="w3-monospace"} 
+
+  [Namika. Deutschlandlied, 2018](https://www.youtube.com/watch?v=jfN6ZYwXJec){: class="w3-monospace"}
 
 <br>
 
