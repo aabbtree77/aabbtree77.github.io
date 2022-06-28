@@ -17,7 +17,6 @@
 
 1. Selected Projects
 ====================
-
 <br> 
 
 ### [(ATmega16, C) $\longrightarrow$ Paper Guillotine](https://github.com/aabbtree77/adast){: class="w3-monospace w3-text-black"}
@@ -178,13 +177,16 @@ Make $\longrightarrow$ Remake
 -----------------------------
 
   [USSR Anthem: 1938, 1943, 2021](https://www.youtube.com/watch?v=iccJV_KdecA){: class="w3-monospace"} $\longrightarrow$
-  [5'nizza. Гимн СССР, 2004](https://www.youtube.com/watch?v=WsZL-OcPKgM){: class="w3-monospace"}
+  [2004](https://www.youtube.com/watch?v=WsZL-OcPKgM){: class="w3-monospace"}
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\longrightarrow$
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
 
   [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\longrightarrow$
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
+
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
+  [Solaris, 2002](https://www.youtube.com/watch?v=ABdoVxIuo4Q){: class="w3-monospace"}
 
   [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\longrightarrow$
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
@@ -193,8 +195,17 @@ Make $\longrightarrow$ Remake
   [Э.Н. Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"} 
 
+  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"} $\longrightarrow$
+  [Blade Runner 2049, 2017](https://www.youtube.com/watch?v=i9ovnRX5-SY){: class="w3-monospace"}
+
+  [Alphaville, 1984](https://www.youtube.com/watch?v=K86KeoTpOyM){: class="w3-monospace"} $\longrightarrow$
+  [Sandra, 1984](https://www.youtube.com/watch?v=DSjqy4RtGsY){: class="w3-monospace"}
+
   [Eurythmics, 1985](https://www.youtube.com/watch?v=RCdneDxFRYQ){: class="w3-monospace"} $\longrightarrow$
   [P. Scotti, L. Bowen, 2014](https://www.youtube.com/watch?v=DvXGQibTP4M){: class="w3-monospace"}
+
+  [Jayn, 2015, Cover by Lollia](https://www.youtube.com/watch?v=VOhpzur4EH4&t=51s){: class="w3-monospace"} $\longrightarrow$
+  [Sainte Séïa, 2015](https://www.youtube.com/watch?v=n9uE4n1cOzw){: class="w3-monospace"} 
   
 <br>
 
@@ -294,12 +305,12 @@ French Films
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"} 
 
-  **[Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}**
+  [Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
 
 <br>
 
 
-Music
+Music {: style="color:black;text-decoration-line:underline;text-decoration-style:wavy"}
 -----
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
