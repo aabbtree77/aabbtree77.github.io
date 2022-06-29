@@ -165,19 +165,33 @@ Novel $\longrightarrow$ Film/Soundtrack
   [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
 
   [S. Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"}
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
+  [Solaris, 2002](https://www.youtube.com/watch?v=nqHzFiun1p4){: class="w3-monospace"}
+
+  [R. Nelson, 1963](https://pvto.weebly.com/uploads/9/1/5/0/91508780/eight_o%E2%80%99clock_in_the_morning-nelson.pdf){: class="w3-monospace"} $\longrightarrow$ 
+  [They Live, 1988](https://www.youtube.com/watch?v=g4XiKChyK7A){: class="w3-monospace"}
+
+  [P.K. Dick, 1966](https://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale){: class="w3-monospace"} $\longrightarrow$ 
+  [Total Recall, 1990](https://www.youtube.com/watch?v=tvHgxTubFSQ){: class="w3-monospace"} $\longrightarrow$
+  [Total Recall, 2012](https://youtu.be/6GqF9MNZU_s?t=128){: class="w3-monospace"}
 
   [J. Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"}
 
+  [P.K. Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\longrightarrow$ 
+  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"} $\longrightarrow$
+  [Blade Runner 2049, 2017](https://www.youtube.com/watch?v=i9ovnRX5-SY){: class="w3-monospace"}
+  
 <br>
 
 
 Make $\longrightarrow$ Remake
 -----------------------------
 
-  [USSR Anthem: 1938, 1943, 2021](https://www.youtube.com/watch?v=iccJV_KdecA){: class="w3-monospace"} $\longrightarrow$
-  [2004](https://www.youtube.com/watch?v=WsZL-OcPKgM){: class="w3-monospace"}
+  [USSR Anthem: 1938, 1943... 1984](https://youtu.be/tlicxPvPqwY?t=122){: class="w3-monospace"} $\longrightarrow$
+  [1990](https://youtu.be/AvKxbEuncNQ?t=167){: class="w3-monospace"} $\longrightarrow$
+  [2004](https://www.youtube.com/watch?v=WsZL-OcPKgM){: class="w3-monospace"} $\longrightarrow$
+  [2021](https://www.youtube.com/watch?v=iccJV_KdecA){: class="w3-monospace"}
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\longrightarrow$
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
@@ -185,18 +199,12 @@ Make $\longrightarrow$ Remake
   [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\longrightarrow$
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
 
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
-  [Solaris, 2002](https://www.youtube.com/watch?v=lSOS8eSrvQY){: class="w3-monospace"}
-
   [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\longrightarrow$
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
   [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw){: class="w3-monospace"}
 
   [Э.Н. Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
-  [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"} 
-
-  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"} $\longrightarrow$
-  [Blade Runner 2049, 2017](https://www.youtube.com/watch?v=i9ovnRX5-SY){: class="w3-monospace"}
+  [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"}
 
   [Alphaville, 1984](https://www.youtube.com/watch?v=K86KeoTpOyM){: class="w3-monospace"} $\longrightarrow$
   [Sandra, 1984](https://www.youtube.com/watch?v=HxqaE6voLD8){: class="w3-monospace"} $\longrightarrow$
