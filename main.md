@@ -140,8 +140,8 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-Novel $\longrightarrow$ Film/Soundtrack
-----------------------------
+Chekhov 
+-------
 
   [А.П. Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5557){: class="w3-monospace"}
@@ -158,11 +158,14 @@ Novel $\longrightarrow$ Film/Soundtrack
   [А.П. Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
 
-  [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
-  [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"}
+<br>
 
-  [J.H. Chase, 1959](https://en.wikipedia.org/wiki/The_World_in_My_Pocket_(novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
+
+SF/Mystery
+----------
+
+  [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
+  [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"} 
 
   [S. Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
@@ -187,11 +190,6 @@ Novel $\longrightarrow$ Film/Soundtrack
 
 Make $\longrightarrow$ Remake
 -----------------------------
-
-  [USSR Anthem: 1938, 1943... 1984](https://youtu.be/tlicxPvPqwY?t=122){: class="w3-monospace"} $\longrightarrow$
-  [1990](https://youtu.be/AvKxbEuncNQ?t=167){: class="w3-monospace"} $\longrightarrow$
-  [2004](https://www.youtube.com/watch?v=WsZL-OcPKgM){: class="w3-monospace"} $\longrightarrow$
-  [2021](https://www.youtube.com/watch?v=iccJV_KdecA){: class="w3-monospace"}
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\longrightarrow$
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
@@ -299,6 +297,10 @@ Classical Nonmechanics
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace"}
 
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
+
+  [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
+
+  [Гостья из будущего, 1984](https://youtu.be/jbajZzh0au4?t=237){: class="w3-monospace"}
 
   [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"} 
 
