@@ -186,7 +186,7 @@ Make $\longrightarrow$ Remake
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
 
   [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
-  [Solaris, 2002](https://www.youtube.com/watch?v=ABdoVxIuo4Q){: class="w3-monospace"}
+  [Solaris, 2002](https://www.youtube.com/watch?v=lSOS8eSrvQY){: class="w3-monospace"}
 
   [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\longrightarrow$
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
@@ -199,7 +199,8 @@ Make $\longrightarrow$ Remake
   [Blade Runner 2049, 2017](https://www.youtube.com/watch?v=i9ovnRX5-SY){: class="w3-monospace"}
 
   [Alphaville, 1984](https://www.youtube.com/watch?v=K86KeoTpOyM){: class="w3-monospace"} $\longrightarrow$
-  [Sandra, 1984](https://www.youtube.com/watch?v=DSjqy4RtGsY){: class="w3-monospace"}
+  [Sandra, 1984](https://www.youtube.com/watch?v=HxqaE6voLD8){: class="w3-monospace"} $\longrightarrow$
+  [SandraRealM, 2019](https://www.youtube.com/watch?v=ZTJa0WdKNbg){: class="w3-monospace"}
 
   [Eurythmics, 1985](https://www.youtube.com/watch?v=RCdneDxFRYQ){: class="w3-monospace"} $\longrightarrow$
   [P. Scotti, L. Bowen, 2014](https://www.youtube.com/watch?v=DvXGQibTP4M){: class="w3-monospace"}
