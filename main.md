@@ -143,19 +143,19 @@ One could further pytorch these models by wrapping them into transformer network
 Chekhov 
 -------
 
-  [А.П. Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5557){: class="w3-monospace"}
 
-  [А.П. Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
 
-  [А.П. Чехов, 1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\longrightarrow$ 
   [Черный монах, 1988](https://www.youtube.com/watch?v=yPBIRUv_LHw){: class="w3-monospace"}
 
-  [А.П. Чехов, 1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\longrightarrow$ 
   [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
 
-  [А.П. Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
 
 <br>
@@ -164,24 +164,24 @@ Chekhov
 SF/Mystery
 ----------
 
-  [J. Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
+  [John Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
   [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"} 
 
-  [S. Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Stanisław Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
   [Solaris, 2002](https://www.youtube.com/watch?v=nqHzFiun1p4){: class="w3-monospace"}
 
-  [R. Nelson, 1963](https://pvto.weebly.com/uploads/9/1/5/0/91508780/eight_o%E2%80%99clock_in_the_morning-nelson.pdf){: class="w3-monospace"} $\longrightarrow$ 
+  [Ray Nelson, 1963](https://pvto.weebly.com/uploads/9/1/5/0/91508780/eight_o%E2%80%99clock_in_the_morning-nelson.pdf){: class="w3-monospace"} $\longrightarrow$ 
   [They Live, 1988](https://www.youtube.com/watch?v=g4XiKChyK7A){: class="w3-monospace"}
 
-  [P.K. Dick, 1966](https://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale){: class="w3-monospace"} $\longrightarrow$ 
+  [Philip Kindred Dick, 1966](https://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale){: class="w3-monospace"} $\longrightarrow$ 
   [Total Recall, 1990](https://www.youtube.com/watch?v=tvHgxTubFSQ){: class="w3-monospace"} $\longrightarrow$
   [Total Recall, 2012](https://youtu.be/6GqF9MNZU_s?t=128){: class="w3-monospace"}
 
-  [J. Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Joan Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\longrightarrow$ 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"}
 
-  [P.K. Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\longrightarrow$ 
+  [Philip Kindred Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\longrightarrow$ 
   [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"} $\longrightarrow$
   [Blade Runner 2049, 2017](https://www.youtube.com/watch?v=i9ovnRX5-SY){: class="w3-monospace"}
   
@@ -201,7 +201,7 @@ Make $\longrightarrow$ Remake
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
   [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw){: class="w3-monospace"}
 
-  [Э.Н. Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
+  [Эдуард Николаевич Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"}
 
   [Alphaville, 1984](https://www.youtube.com/watch?v=K86KeoTpOyM){: class="w3-monospace"} $\longrightarrow$
@@ -232,7 +232,7 @@ Band $\longrightarrow$ Solo
 Stereo
 ------
 
-  [C. C. Catch, 1999](https://youtu.be/ZcoP3-ProLE?t=238){: class="w3-monospace"} 
+  [Caroline Catherine Müller, 1999](https://youtu.be/ZcoP3-ProLE?t=238){: class="w3-monospace"} 
 
 <br>
 
@@ -254,7 +254,7 @@ Tensor $\longrightarrow$ Algebra
 Functional Equation $\longrightarrow$ PDE
 -----------------------------------------
 
-  [Жилин П.А. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace"}
+  [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace"}
 
 <br>
 
@@ -262,9 +262,9 @@ Functional Equation $\longrightarrow$ PDE
 KdV $\longrightarrow$ Elliptic Curve
 ------------------------------------
 
-  [L. Gatto, P. Salehyan. Hasse-Schmidt Derivations ... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411){: class="w3-monospace"}
+  [Letterio Gatto, Parham Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411){: class="w3-monospace"}
 
-  [G. Pastras. Four Lectures on Weierstrass Elliptic Function ... 2017](https://arxiv.org/abs/1706.07371){: class="w3-monospace"}
+  [Georgios Pastras. Four Lectures on Weierstrass Elliptic Function... 2017](https://arxiv.org/abs/1706.07371){: class="w3-monospace"}
 
 <br>
 
@@ -280,9 +280,9 @@ Age of Empires 1997 in a Nutshell
 Classical Mechanics (Done Right)
 --------------------------------
 
-  [D.H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034){: class="w3-monospace"}
+  [David H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034){: class="w3-monospace"}
 
-  [R. Gaul: "... light-weight and fast 3D physics engine in C++", 2014-2020](https://github.com/RandyGaul/qu3e){: class="w3-monospace"}
+  [Randy Gaul... light-weight and fast 3D physics engine in C++, 2014-2020](https://github.com/RandyGaul/qu3e){: class="w3-monospace"}
 
 <br>
 
@@ -290,9 +290,9 @@ Classical Mechanics (Done Right)
 Classical Nonmechanics
 ----------------------
 
-  [Ф. Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace"} 
+  [Фёдор Михайлович Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace"} 
 
-  [И. Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace"}
+  [Иосиф Александрович Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace"}
 
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace"}
 
@@ -314,7 +314,9 @@ French Films
 
   [Les Bonnes Femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
 
-  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"} 
+  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"}
+
+  [L'amour braque, 1985](https://www.youtube.com/watch?v=8XMnQg9WBKs){: class="w3-monospace"} 
 
   [Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
 
