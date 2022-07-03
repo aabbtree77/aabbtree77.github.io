@@ -135,8 +135,8 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-2. Bookmarks
-============
+2. Bookmarks (Favourite Soundtracks Mostly)
+===========================================
 
 <br>
 
@@ -161,8 +161,8 @@ Chekhov
 <br>
 
 
-SF/Mystery
-----------
+SF/HF
+-----
 
   [John Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
   [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"} 
@@ -203,16 +203,6 @@ Make $\longrightarrow$ Remake
 
   [Эдуард Николаевич Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"}
-
-  [Alphaville, 1984](https://www.youtube.com/watch?v=K86KeoTpOyM){: class="w3-monospace"} $\longrightarrow$
-  [Sandra, 1984](https://www.youtube.com/watch?v=HxqaE6voLD8){: class="w3-monospace"} $\longrightarrow$
-  [SandraRealM, 2019](https://www.youtube.com/watch?v=ZTJa0WdKNbg){: class="w3-monospace"}
-
-  [Eurythmics, 1985](https://www.youtube.com/watch?v=RCdneDxFRYQ){: class="w3-monospace"} $\longrightarrow$
-  [P. Scotti, L. Bowen, 2014](https://www.youtube.com/watch?v=DvXGQibTP4M){: class="w3-monospace"}
-
-  [Jayn, 2015, Cover by Lollia](https://www.youtube.com/watch?v=VOhpzur4EH4&t=51s){: class="w3-monospace"} $\longrightarrow$
-  [Sainte Séïa, 2015](https://www.youtube.com/watch?v=n9uE4n1cOzw){: class="w3-monospace"} 
   
 <br>
 
@@ -296,11 +286,39 @@ Classical Nonmechanics
 
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace"}
 
+<br>  
+
+
+Soviet TV Mini Series
+---------------------
+
+  [Семнадцать мгновений весны, 1973](https://youtu.be/8ftGvvUD1Nw?t=14){: class="w3-monospace"} 
+
+  [Место встречи изменить нельзя, 1979](https://youtu.be/-uzl9jQv8PY?t=21185){: class="w3-monospace"}
+
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
 
   [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
 
   [Гостья из будущего, 1984](https://youtu.be/jbajZzh0au4?t=237){: class="w3-monospace"}
+
+<br>  
+
+
+Валерий Борисович Гаркалин (1954-2021)
+--------------------------------------
+
+  [Катала, 1989](https://youtu.be/XZybF8ywsz8?t=3458){: class="w3-monospace"}
+
+  [Белые одежды, 1992](https://youtu.be/WfGgo1hbZRU?t=3048){: class="w3-monospace"}
+
+<br>
+
+
+Non-Soviet TV Mini Series
+-------------------------
+
+  [All the Rivers Run, 1983](https://www.youtube.com/watch?v=3prczaXXr5g){: class="w3-monospace"}
 
   [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"} 
 
@@ -312,19 +330,19 @@ Classical Nonmechanics
 French Films
 ------------
 
-  [Les Bonnes Femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
+  [Les bonnes femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"}
 
-  [L'amour braque, 1985](https://www.youtube.com/watch?v=8XMnQg9WBKs){: class="w3-monospace"} 
-
-  [Marie Baie des Anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
+  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
 
 <br>
 
 
-Music {: style="color:black;text-decoration-line:underline;text-decoration-style:wavy"}
------
+Pending {: style="color:black;text-decoration-line:underline;text-decoration-style:wavy"}
+---------------------
+
+  [Георгий Васильевич Свиридов. Время, вперёд! 1965](https://www.youtube.com/watch?v=B8r7iF39fx4){: class="w3-monospace w3-text-blue"} 
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
 
@@ -332,7 +350,13 @@ Music {: style="color:black;text-decoration-line:underline;text-decoration-style
 
   [Desireless. Hari ôm Ramakrishna, 1989](https://www.youtube.com/watch?v=18rZv8qWZqA){: class="w3-monospace w3-text-blue"}
 
+  [Aphex Twin. Tha, 1992](https://www.youtube.com/watch?v=LGC90fmf8gw){: class="w3-monospace w3-text-blue"}
+
   [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
+
+  [Björk. All Is Full of Love, 1999](https://www.youtube.com/watch?v=u0cS1FaKPWY){: class="w3-monospace w3-text-yellow"} 
+  
+  [Garbage, David Arnold. The World Is Not Enough, 1999](https://www.youtube.com/watch?v=eI7KxEerCYo){: class="w3-monospace w3-text-yellow"} 
 
   [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
 
