@@ -19,19 +19,19 @@
 ====================
 <br> 
 
-### [(ATmega16, C) $\longrightarrow$ Paper Guillotine](https://github.com/aabbtree77/adast){: class="w3-monospace w3-text-black"}
+### [(ATmega16, C) $\rightarrow$ Paper Guillotine](https://github.com/aabbtree77/adast){: class="w3-monospace w3-text-black"}
 
 A joint work with Saulius Rakauskas (Infovega). He dissected hardware, designed the board and prepared factory requirements, I wrote microcontroller code in C (avr-gcc). This marvel machine (repaired by us in 2020) is still in operation (2022).
 
 <br>
 
-###  [(ESP32, MicroPython) $\longrightarrow$ Resilient Communication](https://github.com/aabbtree77/esp32-mqtt-experiments){: class="w3-monospace w3-text-black"}
+###  [(ESP32, MicroPython) $\rightarrow$ Wi-Fi Control](https://github.com/aabbtree77/esp32-mqtt-experiments){: class="w3-monospace w3-text-black"}
 
 IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience.
 
 <br> 
 
-### [(OpenGL, Go) $\longrightarrow$ Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz){: class="w3-monospace w3-text-black"}
+### [(OpenGL, Go) $\rightarrow$ Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz){: class="w3-monospace w3-text-black"}
 
 A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code shows the impact of a garbage collector in a realistic (multi-pass, PBR-based) OpenGL pipeline.
 
@@ -43,7 +43,7 @@ A confirmation that Jonas Matuzas' CNN model is the most convincing result in th
 
 <br> 
 
-### [FMM Simulation $\longrightarrow$ 3D Shape Normalization (MATLAB)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015){: class="w3-monospace w3-text-black"}
+### [FMM Simulation $\rightarrow$ 3D Shape Normalization (MATLAB)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015){: class="w3-monospace w3-text-black"}
 
 PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to electrostatics and approximate distance 
 constraint handling via simple projections ala Karmarkar and Cimmino in linear algebra. Davide Boscaini handled the constraint gradient exactly and pushed the error rates.
@@ -135,27 +135,27 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-2. Bookmarks (Favourite Soundtracks Mostly)
-===========================================
+2. Bookmarks
+============
 
 <br>
 
 Chekhov 
 -------
 
-  [Антон Павлович Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\rightarrow$ 
   [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5557){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\rightarrow$ 
   [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\rightarrow$ 
   [Черный монах, 1988](https://www.youtube.com/watch?v=yPBIRUv_LHw){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\rightarrow$ 
   [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\longrightarrow$ 
+  [Антон Павлович Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\rightarrow$ 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
 
 <br>
@@ -164,56 +164,56 @@ Chekhov
 SF/HF
 -----
 
-  [John Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\longrightarrow$ 
+  [John Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\rightarrow$ 
   [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"} 
 
-  [Stanisław Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\longrightarrow$ 
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\longrightarrow$ 
+  [Stanisław Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\rightarrow$ 
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\rightarrow$ 
   [Solaris, 2002](https://www.youtube.com/watch?v=nqHzFiun1p4){: class="w3-monospace"}
 
-  [Ray Nelson, 1963](https://pvto.weebly.com/uploads/9/1/5/0/91508780/eight_o%E2%80%99clock_in_the_morning-nelson.pdf){: class="w3-monospace"} $\longrightarrow$ 
+  [Ray Nelson, 1963](https://pvto.weebly.com/uploads/9/1/5/0/91508780/eight_o%E2%80%99clock_in_the_morning-nelson.pdf){: class="w3-monospace"} $\rightarrow$ 
   [They Live, 1988](https://www.youtube.com/watch?v=g4XiKChyK7A){: class="w3-monospace"}
 
-  [Philip Kindred Dick, 1966](https://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale){: class="w3-monospace"} $\longrightarrow$ 
-  [Total Recall, 1990](https://www.youtube.com/watch?v=tvHgxTubFSQ){: class="w3-monospace"} $\longrightarrow$
+  [Philip Kindred Dick, 1966](https://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale){: class="w3-monospace"} $\rightarrow$ 
+  [Total Recall, 1990](https://www.youtube.com/watch?v=tvHgxTubFSQ){: class="w3-monospace"} $\rightarrow$
   [Total Recall, 2012](https://youtu.be/6GqF9MNZU_s?t=128){: class="w3-monospace"}
 
-  [Joan Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\longrightarrow$ 
+  [Joan Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\rightarrow$ 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"}
 
-  [Philip Kindred Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\longrightarrow$ 
-  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"} $\longrightarrow$
+  [Philip Kindred Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\rightarrow$ 
+  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"} $\rightarrow$
   [Blade Runner 2049, 2017](https://www.youtube.com/watch?v=i9ovnRX5-SY){: class="w3-monospace"}
   
 <br>
 
 
-Make $\longrightarrow$ Remake
+Make $\rightarrow$ Remake
 -----------------------------
 
-  [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\longrightarrow$
+  [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\rightarrow$
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
 
-  [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\longrightarrow$
+  [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\rightarrow$
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
 
-  [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\longrightarrow$
-  [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\longrightarrow$
+  [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\rightarrow$
+  [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\rightarrow$
   [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw){: class="w3-monospace"}
 
-  [Эдуард Николаевич Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\longrightarrow$
+  [Эдуард Николаевич Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\rightarrow$
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"}
   
 <br>
 
 
-Band $\longrightarrow$ Solo
+Band $\rightarrow$ Solo
 ---------------------------
 
-  [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s){: class="w3-monospace"} $\longrightarrow$
+  [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s){: class="w3-monospace"} $\rightarrow$
   [Linn Berggren, 1997](https://www.youtube.com/watch?v=OCmoS-VzBSE&list=RDEMn7k33J47oypPqkQTAawmog&index=24){: class="w3-monospace"} 
 
-  [2 Unlimited, 1995](https://www.youtube.com/watch?v=U0jNQyNGm4g){: class="w3-monospace"} $\longrightarrow$
+  [2 Unlimited, 1995](https://www.youtube.com/watch?v=U0jNQyNGm4g){: class="w3-monospace"} $\rightarrow$
   [Anita Doth, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A){: class="w3-monospace"}
 
 <br>
@@ -227,7 +227,7 @@ Stereo
 <br>
 
 
-Tensor $\longrightarrow$ Algebra
+Tensor $\rightarrow$ Algebra
 --------------------------------
 
   [Am. J. Phys. 38, 1239 (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1){: class="w3-monospace"}
@@ -241,7 +241,7 @@ Tensor $\longrightarrow$ Algebra
 <br>
 
 
-Functional Equation $\longrightarrow$ PDE
+Functional Equation $\rightarrow$ PDE
 -----------------------------------------
 
   [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace"}
@@ -249,7 +249,7 @@ Functional Equation $\longrightarrow$ PDE
 <br>
 
 
-KdV $\longrightarrow$ Elliptic Curve
+KdV $\rightarrow$ Elliptic Curve
 ------------------------------------
 
   [Letterio Gatto, Parham Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411){: class="w3-monospace"}
@@ -289,22 +289,6 @@ Classical Nonmechanics
 <br>  
 
 
-Soviet TV Mini Series
----------------------
-
-  [Семнадцать мгновений весны, 1973](https://youtu.be/8ftGvvUD1Nw?t=14){: class="w3-monospace"} 
-
-  [Место встречи изменить нельзя, 1979](https://youtu.be/-uzl9jQv8PY?t=21185){: class="w3-monospace"}
-
-  [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
-
-  [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
-
-  [Гостья из будущего, 1984](https://youtu.be/jbajZzh0au4?t=237){: class="w3-monospace"}
-
-<br>  
-
-
 Валерий Борисович Гаркалин (1954-2021)
 --------------------------------------
 
@@ -320,7 +304,7 @@ Soviet TV Mini Series
 
   [Сто дней после детства, 1975](https://www.youtube.com/watch?v=0PGARFpoSuQ&list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&index=4){: class="w3-monospace"}
 
-  [Мелодии белой ночи, 1976](https://www.youtube.com/watch?v=6leMPSjKY5s&list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&index=5){: class="w3-monospace"}
+  [Мелодии белой ночи, 1976](https://youtu.be/6leMPSjKY5s?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=1809){: class="w3-monospace"}
 
   [Спасатель, 1980](https://youtu.be/M7ShKsz33Js?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=5218){: class="w3-monospace"}
 
@@ -331,10 +315,32 @@ Soviet TV Mini Series
 <br>
 
 
-Non-Soviet TV Mini Series
--------------------------
+Soviet
+------
 
-  [All the Rivers Run, 1983](https://www.youtube.com/watch?v=3prczaXXr5g){: class="w3-monospace"}
+  [Семнадцать мгновений весны, 1973](https://youtu.be/8ftGvvUD1Nw?t=14){: class="w3-monospace"} 
+
+  [Место встречи изменить нельзя, 1979](https://youtu.be/-uzl9jQv8PY?t=21185){: class="w3-monospace"}
+
+  [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
+
+  [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
+
+  [Гостья из будущего, 1984](https://youtu.be/jbajZzh0au4?t=237){: class="w3-monospace"}
+
+<br> 
+
+
+Post-Soviet
+-----------
+
+  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1586){: class="w3-monospace"} 
+
+<br> 
+
+
+Non-Soviet
+----------
 
   [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"} 
 
@@ -343,8 +349,8 @@ Non-Soviet TV Mini Series
 <br>
 
 
-French Films
-------------
+French
+------
 
   [Les bonnes femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
 
@@ -355,10 +361,20 @@ French Films
 <br>
 
 
-Pending {: style="color:black;text-decoration-line:underline;text-decoration-style:wavy"}
----------------------
+Australian
+----------
 
-  [Георгий Васильевич Свиридов. Время, вперёд! 1965](https://www.youtube.com/watch?v=B8r7iF39fx4){: class="w3-monospace w3-text-blue"} 
+  [Walkabout, 1971](https://www.youtube.com/watch?v=1gCaR4F9MfU){: class="w3-monospace"}
+
+  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263){: class="w3-monospace"}
+
+  [All the Rivers Run, 1983](https://www.youtube.com/watch?v=3prczaXXr5g){: class="w3-monospace"}
+
+<br>
+
+
+Pending
+-------
 
   [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
 
@@ -371,8 +387,6 @@ Pending {: style="color:black;text-decoration-line:underline;text-decoration-sty
   [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
 
   [Björk. All Is Full of Love, 1999](https://www.youtube.com/watch?v=u0cS1FaKPWY){: class="w3-monospace w3-text-yellow"} 
-  
-  [Garbage, David Arnold. The World Is Not Enough, 1999](https://www.youtube.com/watch?v=eI7KxEerCYo){: class="w3-monospace w3-text-yellow"} 
 
   [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
 
