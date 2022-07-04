@@ -315,6 +315,22 @@ Soviet TV Mini Series
 <br>
 
 
+Сергей Александрович Соловьёв (1944-2021)
+-----------------------------------------
+
+  [Сто дней после детства, 1975](https://www.youtube.com/watch?v=0PGARFpoSuQ&list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&index=4){: class="w3-monospace"}
+
+  [Мелодии белой ночи, 1976](https://www.youtube.com/watch?v=6leMPSjKY5s&list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&index=5){: class="w3-monospace"}
+
+  [Спасатель, 1980](https://youtu.be/M7ShKsz33Js?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=5218){: class="w3-monospace"}
+
+  [Чёрная роза — эмблема печали, красная роза — эмблема любви, 1989](https://youtu.be/TDUTB55asA4?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=3940){: class="w3-monospace"}
+
+  [Три сестры, 1994](https://youtu.be/bbwGt1oshkc?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=565){: class="w3-monospace"}
+  
+<br>
+
+
 Non-Soviet TV Mini Series
 -------------------------
 
