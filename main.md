@@ -169,7 +169,8 @@ SF/HF
 
   [Stanisław Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\rightarrow$ 
   [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\rightarrow$ 
-  [Solaris, 2002](https://www.youtube.com/watch?v=nqHzFiun1p4){: class="w3-monospace"}
+  [Solaris, 2002](https://www.youtube.com/watch?v=nqHzFiun1p4){: class="w3-monospace"} $\rightarrow$ 
+  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1586){: class="w3-monospace"}
 
   [Ray Nelson, 1963](https://pvto.weebly.com/uploads/9/1/5/0/91508780/eight_o%E2%80%99clock_in_the_morning-nelson.pdf){: class="w3-monospace"} $\rightarrow$ 
   [They Live, 1988](https://www.youtube.com/watch?v=g4XiKChyK7A){: class="w3-monospace"}
@@ -315,8 +316,8 @@ Classical Nonmechanics
 <br>
 
 
-Soviet
-------
+Miniseries
+----------
 
   [Семнадцать мгновений весны, 1973](https://youtu.be/8ftGvvUD1Nw?t=14){: class="w3-monospace"} 
 
@@ -327,20 +328,6 @@ Soviet
   [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
 
   [Гостья из будущего, 1984](https://youtu.be/jbajZzh0au4?t=237){: class="w3-monospace"}
-
-<br> 
-
-
-Post-Soviet
------------
-
-  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1586){: class="w3-monospace"} 
-
-<br> 
-
-
-Non-Soviet
-----------
 
   [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"} 
 
@@ -364,7 +351,7 @@ French
 Australian
 ----------
 
-  [Walkabout, 1971](https://www.youtube.com/watch?v=1gCaR4F9MfU){: class="w3-monospace"}
+  [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65){: class="w3-monospace"}
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263){: class="w3-monospace"}
 
@@ -386,7 +373,7 @@ Pending
 
   [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
 
-  [Björk. All Is Full of Love, 1999](https://www.youtube.com/watch?v=u0cS1FaKPWY){: class="w3-monospace w3-text-yellow"} 
+  [Björk, Chris Cunningham. All Is Full of Love, 1999](https://www.youtube.com/watch?v=k9YZW7XGON0){: class="w3-monospace w3-text-yellow"} 
 
   [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
 
