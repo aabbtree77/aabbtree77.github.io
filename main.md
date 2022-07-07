@@ -140,23 +140,29 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-Chekhov 
--------
+Антон Павлович Чехов (1860-1904)
+--------------------------------
 
-  [Антон Павлович Чехов, 1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\rightarrow$ 
+  [1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\rightarrow$ 
   [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5557){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\rightarrow$ 
+  [1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\rightarrow$ 
   [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\rightarrow$ 
+  [1887](https://en.wikipedia.org/wiki/Ivanov_(play)){: class="w3-monospace"} $\rightarrow$
+  [Ивановъ, 2010](https://youtu.be/zXd-09xU3dE?t=1433){: class="w3-monospace"}
+
+  [1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\rightarrow$ 
   [Черный монах, 1988](https://www.youtube.com/watch?v=yPBIRUv_LHw){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\rightarrow$ 
+  [1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\rightarrow$ 
   [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
 
-  [Антон Павлович Чехов, 1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\rightarrow$ 
+  [1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\rightarrow$ 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
+
+  [1904](https://en.wikipedia.org/wiki/The_Cherry_Orchard){: class="w3-monospace"} $\rightarrow$
+  [Sakura no sono: 1918, 1936, 1990, 2008](https://www.youtube.com/watch?v=C3nf1MFCNzE){: class="w3-monospace"}
 
 <br>
 
@@ -242,8 +248,8 @@ Tensor $\rightarrow$ Algebra
 <br>
 
 
-Functional Equation $\rightarrow$ PDE
------------------------------------------
+Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant Function
+----------------------------------------------------------------------
 
   [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace"}
 
@@ -287,7 +293,7 @@ Classical Nonmechanics
 
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace"}
 
-<br>  
+<br> 
 
 
 Валерий Борисович Гаркалин (1954-2021)
@@ -373,7 +379,9 @@ Pending
 
   [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
 
-  [Björk, Chris Cunningham. All Is Full of Love, 1999](https://www.youtube.com/watch?v=k9YZW7XGON0){: class="w3-monospace w3-text-yellow"} 
+  <p class="w3-monospace w3-text-yellow">Björk. All Is Full of Love, 1999: <a href="https://www.youtube.com/watch?v=k9YZW7XGON0">Chris Cunningham</a>,
+  <a href="https://youtu.be/sFs6Xs5Sq_Y?t=1061">Live</a>
+  </p>
 
   [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
 
