@@ -152,8 +152,17 @@ One could further pytorch these models by wrapping them into transformer network
   [1887](https://en.wikipedia.org/wiki/Ivanov_(play)){: class="w3-monospace"} $\rightarrow$
   [Ивановъ, 2010](https://youtu.be/zXd-09xU3dE?t=1433){: class="w3-monospace"}
 
+  [1891](https://en.wikipedia.org/wiki/The_Duel_(Chekhov_novella)){: class="w3-monospace"} $\rightarrow$
+  [Несут меня кони..., 1996](https://www.youtube.com/watch?v=HsSf5AHoqmo){: class="w3-monospace"}
+
+  [1892](https://en.wikipedia.org/wiki/Ward_No._6){: class="w3-monospace"} $\rightarrow$
+  [Палата №6, 2009](https://youtu.be/7lDz_9RW5zA?t=4758){: class="w3-monospace"}
+
   [1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\rightarrow$ 
   [Черный монах, 1988](https://www.youtube.com/watch?v=yPBIRUv_LHw){: class="w3-monospace"}
+
+  [1895](https://en.wikipedia.org/wiki/The_Seagull){: class="w3-monospace"} $\rightarrow$ 
+  [La petite Lili, 2003](https://www.youtube.com/watch?v=Grt9KGy_N_o){: class="w3-monospace"}
 
   [1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\rightarrow$ 
   [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
