@@ -140,70 +140,6 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-Антон Павлович Чехов (1860-1904)
---------------------------------
-
-  [1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\rightarrow$ 
-  [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5557){: class="w3-monospace"}
-
-  [1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\rightarrow$ 
-  [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
-
-  [1887](https://en.wikipedia.org/wiki/Ivanov_(play)){: class="w3-monospace"} $\rightarrow$
-  [Ивановъ, 2010](https://youtu.be/zXd-09xU3dE?t=1433){: class="w3-monospace"}
-
-  [1891](https://en.wikipedia.org/wiki/The_Duel_(Chekhov_novella)){: class="w3-monospace"} $\rightarrow$
-  [Несут меня кони..., 1996](https://www.youtube.com/watch?v=HsSf5AHoqmo){: class="w3-monospace"}
-
-  [1892](https://en.wikipedia.org/wiki/Ward_No._6){: class="w3-monospace"} $\rightarrow$
-  [Палата №6, 2009](https://youtu.be/7lDz_9RW5zA?t=4758){: class="w3-monospace"}
-
-  [1893](https://en.wikipedia.org/wiki/The_Black_Monk){: class="w3-monospace"} $\rightarrow$ 
-  [Черный монах, 1988](https://www.youtube.com/watch?v=yPBIRUv_LHw){: class="w3-monospace"}
-
-  [1895](https://en.wikipedia.org/wiki/The_Seagull){: class="w3-monospace"} $\rightarrow$ 
-  [La petite Lili, 2003](https://www.youtube.com/watch?v=Grt9KGy_N_o){: class="w3-monospace"}
-
-  [1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\rightarrow$ 
-  [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
-
-  [1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\rightarrow$ 
-  [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
-
-  [1904](https://en.wikipedia.org/wiki/The_Cherry_Orchard){: class="w3-monospace"} $\rightarrow$
-  [Sakura no sono: 1918, 1936, 1990, 2008](https://www.youtube.com/watch?v=C3nf1MFCNzE){: class="w3-monospace"}
-
-<br>
-
-
-SF/HF
------
-
-  [John Wyndham, 1951](https://en.wikipedia.org/wiki/The_Day_of_the_Triffids){: class="w3-monospace"} $\rightarrow$ 
-  [28 Days Later..., 2002](https://www.youtube.com/watch?v=1cbh8X5X2vk){: class="w3-monospace"} 
-
-  [Stanisław Lem, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)){: class="w3-monospace"} $\rightarrow$ 
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"} $\rightarrow$ 
-  [Solaris, 2002](https://www.youtube.com/watch?v=nqHzFiun1p4){: class="w3-monospace"} $\rightarrow$ 
-  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1586){: class="w3-monospace"}
-
-  [Ray Nelson, 1963](https://pvto.weebly.com/uploads/9/1/5/0/91508780/eight_o%E2%80%99clock_in_the_morning-nelson.pdf){: class="w3-monospace"} $\rightarrow$ 
-  [They Live, 1988](https://www.youtube.com/watch?v=g4XiKChyK7A){: class="w3-monospace"}
-
-  [Philip Kindred Dick, 1966](https://en.wikipedia.org/wiki/We_Can_Remember_It_for_You_Wholesale){: class="w3-monospace"} $\rightarrow$ 
-  [Total Recall, 1990](https://www.youtube.com/watch?v=tvHgxTubFSQ){: class="w3-monospace"} $\rightarrow$
-  [Total Recall, 2012](https://youtu.be/6GqF9MNZU_s?t=128){: class="w3-monospace"}
-
-  [Joan Lindsay, 1967](https://en.wikipedia.org/wiki/Picnic_at_Hanging_Rock_(novel)){: class="w3-monospace"} $\rightarrow$ 
-  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"}
-
-  [Philip Kindred Dick, 1968](https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F){: class="w3-monospace"} $\rightarrow$ 
-  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"} $\rightarrow$
-  [Blade Runner 2049, 2017](https://www.youtube.com/watch?v=i9ovnRX5-SY){: class="w3-monospace"}
-  
-<br>
-
-
 Make $\rightarrow$ Remake
 -----------------------------
 
@@ -258,7 +194,7 @@ Tensor $\rightarrow$ Algebra
 
 
 Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant Function
-----------------------------------------------------------------------
+-------------------------------------------------------------
 
   [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace"}
 
@@ -293,14 +229,26 @@ Classical Mechanics (Done Right)
 <br>
 
 
-Classical Nonmechanics
+**Classical Nonmechanics**
 ----------------------
 
-  [Фёдор Михайлович Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace"} 
+  [Фёдор Михайлович Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace"}
+
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"}
+
+  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"} 
 
   [Иосиф Александрович Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace"}
 
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace"}
+
+  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"}
+
+  [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"}
+
+  [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=ujy_iB_0Vdw){: class="w3-monospace"}
+
+  
 
 <br> 
 
@@ -326,27 +274,17 @@ Classical Nonmechanics
 
   [Чёрная роза — эмблема печали, красная роза — эмблема любви, 1989](https://youtu.be/TDUTB55asA4?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=3940){: class="w3-monospace"}
 
-  [Три сестры, 1994](https://youtu.be/bbwGt1oshkc?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=565){: class="w3-monospace"}
+  [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
   
 <br>
 
 
-Miniseries
-----------
-
-  [Семнадцать мгновений весны, 1973](https://youtu.be/8ftGvvUD1Nw?t=14){: class="w3-monospace"} 
-
-  [Место встречи изменить нельзя, 1979](https://youtu.be/-uzl9jQv8PY?t=21185){: class="w3-monospace"}
+Baltic
+------
 
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
 
   [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
-
-  [Гостья из будущего, 1984](https://youtu.be/jbajZzh0au4?t=237){: class="w3-monospace"}
-
-  [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"} 
-
-  [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=9_tJskJqWWs){: class="w3-monospace"}
 
 <br>
 
