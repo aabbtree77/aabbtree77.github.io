@@ -19,38 +19,38 @@
 ====================
 <br> 
 
-### [(ATmega16, C) $\rightarrow$ Paper Guillotine](https://github.com/aabbtree77/adast){: class="w3-monospace w3-text-black"}
+### [(ATmega16, C) $\rightarrow$ Paper Guillotine](https://github.com/aabbtree77/adast)
 
 A joint work with Saulius Rakauskas (Infovega). He dissected hardware, designed the board and prepared factory requirements, I wrote microcontroller code in C (avr-gcc). This marvel machine (repaired by us in 2020) is still in operation (2022).
 
 <br>
 
-###  [(ESP32, MicroPython) $\rightarrow$ Wi-Fi Control](https://github.com/aabbtree77/esp32-mqtt-experiments){: class="w3-monospace w3-text-black"}
+###  [(ESP32, MicroPython) $\rightarrow$ Wi-Fi Control](https://github.com/aabbtree77/esp32-mqtt-experiments)
 
 IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience.
 
 <br> 
 
-### [(OpenGL, Go) $\rightarrow$ Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz){: class="w3-monospace w3-text-black"}
+### [(OpenGL, Go) $\rightarrow$ Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz)
 
 A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code shows the impact of a garbage collector in a realistic (multi-pass, PBR-based) OpenGL pipeline.
 
 <br> 
 
-### [MNIST-0.17 (Python)](https://github.com/aabbtree77/MNIST-0.17){: class="w3-monospace w3-text-black"}
+### [MNIST-0.17 (Python)](https://github.com/aabbtree77/MNIST-0.17)
 
 A confirmation that Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition so far (2022).
 
 <br> 
 
-### [FMM Simulation $\rightarrow$ 3D Shape Normalization (MATLAB)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015){: class="w3-monospace w3-text-black"}
+### [FMM Simulation $\rightarrow$ 3D Shape Normalization (MATLAB)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015)
 
 PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to electrostatics and approximate distance 
 constraint handling via simple projections ala Karmarkar and Cimmino in linear algebra. Davide Boscaini handled the constraint gradient exactly and pushed the error rates.
 
 <br>
 
-### [Cloud Computing (Scilab)](https://hal.archives-ouvertes.fr/hal-00723427){: class="w3-monospace w3-text-black"}
+### [Cloud Computing (Scilab)](https://hal.archives-ouvertes.fr/hal-00723427)
 
 PostDoc Chronicles 2: Saint-Étienne, 2012-2013. Optimization of geometry to minimize a pressure drop simulated with the Navier-Stokes flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid (INRIA) cloud via Scilab-to-Java bridge managed by Fabien Viale. Minimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform.
 
@@ -58,7 +58,7 @@ To describe the parallelization part of the problem, a simple analogy will suffi
 
 <br> 
  
-### [Modified Thomson Problem (Unpublished)](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/ucla2009.pdf){: class="w3-monospace w3-text-black"}
+### [Modified Thomson Problem (Unpublished)](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/ucla2009.pdf)
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. A failure, though rank arguments and Eq. 30 came up somewhat unexpectedly. 
 The ability to linearize a problem and investigate its Jacobian structure 
@@ -80,14 +80,14 @@ is underrated, but I could not make it into a bigger program.
 
 <br> 
  
-### [Anisotropic Diffusion Filters (DSc Thesis)](https://aaltodoc.aalto.fi/handle/123456789/2999){: class="w3-monospace w3-text-black"}
+### [Anisotropic Diffusion Filters (DSc Thesis)](https://aaltodoc.aalto.fi/handle/123456789/2999)
 
 My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)** paper polished in **[ICCV2007](https://ieeexplore.ieee.org/document/4408895)** and **[ACCV2007](https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77)**. A good test case could have been the bilateral upscaling stage in volumetric light rendering. 
  
 One could further pytorch these models by wrapping them into transformer networks or making a leap into **[convolutions](https://distill.pub/2021/understanding-gnns/)** **[on](https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes)** **[graphs](https://twitter.com/mmbronstein/status/1407260749295239168)**, but the state of the art CNN might be tough to beat.
  
 <div class="w3-panel w3-pale-orange w3-bottombar w3-border-black w3-border">
-  <div class="w3-xlarge w3-serif w3-text-black">
+  <div class="w3-medium w3-petitfscript w3-text-black">
 
   R.I.P.
   <br>
@@ -106,10 +106,10 @@ One could further pytorch these models by wrapping them into transformer network
 <div class="w3-container">
   <table align="center">
   <tr>
-  <td><div class="w3-xlarge w3-serif w3-text-black"> “You're a picture on a piano.”</div></td>
+  <td><div class="w3-large w3-text-black"> “You're a picture on a piano.”</div></td>
   </tr>
   <tr>
-  <td colspan="1" style="text-align:right"><div class="w3-xlarge w3-serif w3-text-black">- Get Carter, 2000</div></td>
+  <td colspan="1" style="text-align:right"><div class="w3-large w3-text-black">- Get Carter, 2000</div></td>
   </tr>
   </table>
 </div>
@@ -143,18 +143,18 @@ One could further pytorch these models by wrapping them into transformer network
 Make $\rightarrow$ Remake
 -----------------------------
 
-  [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY){: class="w3-monospace"} $\rightarrow$
-  [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0){: class="w3-monospace"}
+  [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) $\rightarrow$
+  [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
 
-  [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig){: class="w3-monospace"} $\rightarrow$
-  [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y){: class="w3-monospace"} 
+  [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig) $\rightarrow$
+  [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y) 
 
-  [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ){: class="w3-monospace"} $\rightarrow$
-  [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk){: class="w3-monospace"} $\rightarrow$
-  [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw){: class="w3-monospace"}
+  [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ) $\rightarrow$
+  [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk) $\rightarrow$
+  [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw)
 
-  [Эдуард Николаевич Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU){: class="w3-monospace"} $\rightarrow$
-  [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk){: class="w3-monospace"}
+  [Эдуард Николаевич Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU) $\rightarrow$
+  [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk)
   
 <br>
 
@@ -162,11 +162,11 @@ Make $\rightarrow$ Remake
 Band $\rightarrow$ Solo
 ---------------------------
 
-  [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s){: class="w3-monospace"} $\rightarrow$
-  [Linn Berggren, 1997](https://www.youtube.com/watch?v=OCmoS-VzBSE&list=RDEMn7k33J47oypPqkQTAawmog&index=24){: class="w3-monospace"} 
+  [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s) $\rightarrow$
+  [Linn Berggren, 1997](https://www.youtube.com/watch?v=OCmoS-VzBSE&list=RDEMn7k33J47oypPqkQTAawmog&index=24) 
 
-  [2 Unlimited, 1995](https://www.youtube.com/watch?v=U0jNQyNGm4g){: class="w3-monospace"} $\rightarrow$
-  [Anita Doth, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A){: class="w3-monospace"}
+  [2 Unlimited, 1995](https://www.youtube.com/watch?v=U0jNQyNGm4g) $\rightarrow$
+  [Anita Doth, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A)
 
 <br>
 
@@ -174,7 +174,7 @@ Band $\rightarrow$ Solo
 Stereo
 ------
 
-  [Caroline Catherine Müller, 1999](https://youtu.be/ZcoP3-ProLE?t=238){: class="w3-monospace"} 
+  [Caroline Catherine Müller, 1999](https://youtu.be/ZcoP3-ProLE?t=238) 
 
 <br>
 
@@ -182,13 +182,13 @@ Stereo
 Tensor $\rightarrow$ Algebra
 --------------------------------
 
-  [Am. J. Phys. 38, 1239 (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1){: class="w3-monospace"}
+  [Am. J. Phys. 38, 1239 (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1)
 
-  [Phys. Rev. D 64, 125013 (2001)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.125013){: class="w3-monospace"}
+  [Phys. Rev. D 64, 125013 (2001)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.125013)
 
-  [Phys. Rev. D 67, 085021 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.085021){: class="w3-monospace"}
+  [Phys. Rev. D 67, 085021 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.085021)
 
-  [Phys. Rev. D 67, 125011 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.125011){: class="w3-monospace"}
+  [Phys. Rev. D 67, 125011 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.125011)
 
 <br>
 
@@ -196,7 +196,7 @@ Tensor $\rightarrow$ Algebra
 Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant Function
 -------------------------------------------------------------
 
-  [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf){: class="w3-monospace"}
+  [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
 
 <br>
 
@@ -204,9 +204,9 @@ Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant Function
 KdV $\rightarrow$ Elliptic Curve
 ------------------------------------
 
-  [Letterio Gatto, Parham Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411){: class="w3-monospace"}
+  [Letterio Gatto, Parham Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411)
 
-  [Georgios Pastras. Four Lectures on Weierstrass Elliptic Function... 2017](https://arxiv.org/abs/1706.07371){: class="w3-monospace"}
+  [Georgios Pastras. Four Lectures on Weierstrass Elliptic Function... 2017](https://arxiv.org/abs/1706.07371)
 
 <br>
 
@@ -214,7 +214,7 @@ KdV $\rightarrow$ Elliptic Curve
 Age of Empires 1997 in a Nutshell
 ----------------------------------
 
-  [Amelia Clarke, towerdefense, 2017](https://github.com/rsaihe/towerdefense){: class="w3-monospace"}
+  [Amelia Clarke, towerdefense, 2017](https://github.com/rsaihe/towerdefense)
 
 <br>
 
@@ -222,59 +222,49 @@ Age of Empires 1997 in a Nutshell
 Classical Mechanics (Done Right)
 --------------------------------
 
-  [David H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034){: class="w3-monospace"}
+  [David H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034)
 
-  [Randy Gaul... light-weight and fast 3D physics engine in C++, 2014-2020](https://github.com/RandyGaul/qu3e){: class="w3-monospace"}
+  [Randy Gaul. 3D physics engine in C++, 2014-2020](https://github.com/RandyGaul/qu3e)
 
 <br>
 
 
-**Classical Nonmechanics**
+Classical Nonmechanics
 ----------------------
 
-  [Фёдор Михайлович Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel)){: class="w3-monospace"}
+  [Фёдор Михайлович Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel))
 
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w){: class="w3-monospace"}
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w)
 
-  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471){: class="w3-monospace"} 
+  [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
 
-  [Иосиф Александрович Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg){: class="w3-monospace"}
-
-  [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8){: class="w3-monospace"}
-
-  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs){: class="w3-monospace"}
-
-  [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA){: class="w3-monospace"}
-
-  [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=ujy_iB_0Vdw){: class="w3-monospace"}
-
-  
+  [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8)
 
 <br> 
 
 
-Валерий Борисович Гаркалин (1954-2021)
+Валерий Гаркалин (1954-2021)
 --------------------------------------
 
-  [Катала, 1989](https://youtu.be/XZybF8ywsz8?t=3458){: class="w3-monospace"}
+  [Катала, 1989](https://youtu.be/XZybF8ywsz8?t=3458)
 
-  [Белые одежды, 1992](https://youtu.be/WfGgo1hbZRU?t=3048){: class="w3-monospace"}
+  [Белые одежды, 1992](https://youtu.be/WfGgo1hbZRU?t=3048)
 
 <br>
 
 
-Сергей Александрович Соловьёв (1944-2021)
+Сергей Соловьёв (1944-2021)
 -----------------------------------------
 
-  [Сто дней после детства, 1975](https://www.youtube.com/watch?v=0PGARFpoSuQ&list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&index=4){: class="w3-monospace"}
+  [Сто дней после детства, 1975](https://www.youtube.com/watch?v=0PGARFpoSuQ&list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&index=4)
 
-  [Мелодии белой ночи, 1976](https://youtu.be/6leMPSjKY5s?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=1809){: class="w3-monospace"}
+  [Мелодии белой ночи, 1976](https://youtu.be/6leMPSjKY5s?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=1809)
 
-  [Спасатель, 1980](https://youtu.be/M7ShKsz33Js?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=5218){: class="w3-monospace"}
+  [Спасатель, 1980](https://youtu.be/M7ShKsz33Js?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=5218)
 
-  [Чёрная роза — эмблема печали, красная роза — эмблема любви, 1989](https://youtu.be/TDUTB55asA4?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=3940){: class="w3-monospace"}
+  [Чёрная роза... 1989](https://youtu.be/TDUTB55asA4?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=3940)
 
-  [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s){: class="w3-monospace"}
+  [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s)
   
 <br>
 
@@ -282,9 +272,9 @@ Classical Mechanics (Done Right)
 Baltic
 ------
 
-  [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953){: class="w3-monospace"} 
+  [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953) 
 
-  [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156){: class="w3-monospace"}
+  [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156)
 
 <br>
 
@@ -292,11 +282,11 @@ Baltic
 French
 ------
 
-  [Les bonnes femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15){: class="w3-monospace"} 
+  [Les bonnes femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15) 
 
-  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376){: class="w3-monospace"}
+  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
 
-  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-monospace"}
+  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg)
 
 <br>
 
@@ -304,35 +294,43 @@ French
 Australian
 ----------
 
-  [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65){: class="w3-monospace"}
+  [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
 
-  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263){: class="w3-monospace"}
+  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
 
-  [All the Rivers Run, 1983](https://www.youtube.com/watch?v=3prczaXXr5g){: class="w3-monospace"}
+  [All the Rivers Run, 1983](https://www.youtube.com/watch?v=3prczaXXr5g)
 
 <br>
+
+
+Crème de la crème
+-----------------
+
+  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471) 
+
+  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs)
+
+  [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA)
+
+  [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=ujy_iB_0Vdw)
+
+<br> 
 
 
 Pending
 -------
 
-  [Funkadelic. Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-monospace w3-text-blue"} 
+  [Maggot Brain, 1971](https://www.youtube.com/watch?v=xby5467EbdU){: class="w3-text-blue"} 
 
-  [The Cure. Fascination Street, 1989](https://www.youtube.com/watch?v=7ZsQdLlvuk4){: class="w3-monospace w3-text-blue"}
+  [Fascination Street, 1989](https://www.youtube.com/watch?v=7ZsQdLlvuk4){: class="w3-text-blue"}
 
-  [Desireless. Hari ôm Ramakrishna, 1989](https://www.youtube.com/watch?v=18rZv8qWZqA){: class="w3-monospace w3-text-blue"}
+  [Hari ôm Ramakrishna, 1989](https://www.youtube.com/watch?v=18rZv8qWZqA){: class="w3-text-blue"}
 
-  [Aphex Twin. Tha, 1992](https://www.youtube.com/watch?v=LGC90fmf8gw){: class="w3-monospace w3-text-blue"}
+  [Tha, 1992](https://www.youtube.com/watch?v=LGC90fmf8gw){: class="w3-text-yellow"}
 
-  [David Bowie, Brian Eno. I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-monospace w3-text-yellow"}
+  [I'm Deranged, 1995](https://www.youtube.com/watch?v=aepBpZ3kXek){: class="w3-text-yellow"}
 
-  <p class="w3-monospace w3-text-yellow">Björk. All Is Full of Love, 1999: <a href="https://www.youtube.com/watch?v=k9YZW7XGON0">Chris Cunningham</a>,
-  <a href="https://youtu.be/sFs6Xs5Sq_Y?t=1061">Live</a>
-  </p>
-
-  [Mind Over Matter. A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-monospace w3-text-yellow"}
-
-  [Muse 2009, Guy Ritchie 2010](https://www.youtube.com/watch?v=fZd9mKJcOR0){: class="w3-monospace w3-text-yellow"}
+  [A Night In Mogul's Garden, 2000](https://www.youtube.com/watch?v=P3jlUpej-Hw){: class="w3-text-yellow"}
 
 <br>
 

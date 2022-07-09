@@ -6,9 +6,9 @@ This web page uses the following tools (the list will grow):
 
 - quintessential-css-cube by zachstronaut to compactify a presentation of images.
 
-- Petit Formal Script Google Font.
+- monospace mostly, but also Petit Formal Script Google Font just for fun.
 
-- Python-Markdown which allows to style Markdown with CSS classes. See also [https://github.com/Erkaman/erkaman.github.io](https://github.com/Erkaman/erkaman.github.io) where Python-Markdown is used as a minimal blogging engine to organize articles. 
+- Python-Markdown which allows to style Markdown with CSS classes, but it is better to write HTML in Markdown for such cases unless styling is very simple. See also [https://github.com/Erkaman/erkaman.github.io](https://github.com/Erkaman/erkaman.github.io) where Python-Markdown is used as a minimal blogging engine to organize articles. 
 
 - [Table generator](https://www.tablesgenerator.com/markdown_tables).
 
