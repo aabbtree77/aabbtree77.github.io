@@ -204,6 +204,8 @@ Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant Function
 KdV $\rightarrow$ Elliptic Curve
 ------------------------------------
 
+  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)
+
   [Letterio Gatto, Parham Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411)
 
   [Georgios Pastras. Four Lectures on Weierstrass Elliptic Function... 2017](https://arxiv.org/abs/1706.07371)
