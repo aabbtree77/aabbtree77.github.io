@@ -305,8 +305,8 @@ Australian
 <br>
 
 
-Crème de la crème
------------------
+Wayback Machine
+---------------
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471) 
 
@@ -316,7 +316,28 @@ Crème de la crème
 
   [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=ujy_iB_0Vdw)
 
-<br> 
+<br>
+
+
+Chekhov 
+-------
+
+  [1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\rightarrow$ 
+  [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5461){: class="w3-monospace"}
+
+  [1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\rightarrow$ 
+  [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
+
+  [1887](https://en.wikipedia.org/wiki/Ivanov_(play)){: class="w3-monospace"} $\rightarrow$
+  [Ивановъ, 2010](https://youtu.be/zXd-09xU3dE?t=1433){: class="w3-monospace"}
+
+  [1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\rightarrow$ 
+  [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
+
+  [1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\rightarrow$ 
+  [Три сестры, 1994](https://youtu.be/bbwGt1oshkc?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=568){: class="w3-monospace"}
+
+<br>
 
 
 Pending

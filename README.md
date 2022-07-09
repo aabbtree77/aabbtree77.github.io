@@ -45,29 +45,37 @@ My github "work flow":
 
 - Inside a newly created and cloned repo (locally):
 
-```console
-git remote rm origin
-git remote add origin https://aabbtree77:$GITHUB_ACCESS_TOKEN@github.com/aabbtree77/new_repo_name.git
-git remote show origin
-```
+    ```console
+    git remote rm origin
+    git remote add origin https://aabbtree77:$GITHUB_ACCESS_TOKEN@github.com/aabbtree77/new_repo_name.git
+    git remote show origin
+    ```
 
 - Repo update routine:
 
-```console
-git add .
-git commit -m "first commit"
-git push origin main
-```
+    ```console
+    git add .
+    git commit -m "first commit"
+    git push origin main
+    ```
 
 Here "main" can sometimes become "master" depending on what "git remote show origin" indicates.
 
+- Rewind to a particular commmit in the **additional local copy** of the repo:
+
+    ```console
+    git log --pretty=format:"%h - %ad : %s"
+    git reset --hard hash#
+    ```
+
+
 # Some Further Comments
 
-I also add a bit of LaTeX here and there, but I do not recommend using it with HTML, esp. Markdown, see
+I also add a bit of LaTeX here and there, but I do not recommend pushing HTML or HTML+LaTeX as LaTeX:
 
 [https://math.meta.stackexchange.com/questions/3514/using-the-align-environment](https://math.meta.stackexchange.com/questions/3514/using-the-align-environment).
 
-The escapes get weirder and weirder, but that is not the hardest part. Say you rotate some text by 90 degrees and the LaTeX arrow inside of the text would get rotated and shifted/misaligned. Positioning becomes quite some quantum field theory, try it some time.
+The escapes get weirder and weirder, positioning is a mess, the css interference:
 
 [https://stackoverflow.com/questions/36928369/html-css-table-misaligned-columns](https://stackoverflow.com/questions/36928369/html-css-table-misaligned-columns)
 
