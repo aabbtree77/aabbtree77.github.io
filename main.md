@@ -193,7 +193,7 @@ Tensor $\rightarrow$ Algebra
 <br>
 
 
-Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant Function
+Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant
 -------------------------------------------------------------
 
   [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
@@ -201,7 +201,7 @@ Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant Function
 <br>
 
 
-KdV $\rightarrow$ Elliptic Curve
+Motivation for Complex Numbers: KdV $\rightarrow$ Elliptic Curve
 ------------------------------------
 
   [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)
@@ -271,7 +271,7 @@ Classical Nonmechanics
 <br>
 
 
-Baltic
+Latvia
 ------
 
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953) 
@@ -281,7 +281,7 @@ Baltic
 <br>
 
 
-French
+France
 ------
 
   [Les bonnes femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15) 
@@ -293,28 +293,14 @@ French
 <br>
 
 
-Australian
-----------
+Australia
+---------
 
   [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
 
   [All the Rivers Run, 1983](https://www.youtube.com/watch?v=3prczaXXr5g)
-
-<br>
-
-
-Wayback Machine
----------------
-
-  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1471) 
-
-  [Blade Runner, 1982](https://www.youtube.com/watch?v=ptKGSp4YpUs)
-
-  [La Piovra, 1984-1989](https://www.youtube.com/watch?v=yg4GO76RucA)
-
-  [Twin Peaks, 1990-1991](https://www.youtube.com/watch?v=ujy_iB_0Vdw)
 
 <br>
 

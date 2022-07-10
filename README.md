@@ -59,7 +59,7 @@ My github "work flow":
     git push origin main
     ```
 
-Here "main" can sometimes become "master" depending on what "git remote show origin" indicates.
+    Here "main" can sometimes become "master" depending on what "git remote show origin" indicates.
 
 - Rewind to a particular commmit in the **additional local copy** of the repo:
 
@@ -79,4 +79,4 @@ The escapes get weirder and weirder, positioning is a mess, the css interference
 
 [https://stackoverflow.com/questions/36928369/html-css-table-misaligned-columns](https://stackoverflow.com/questions/36928369/html-css-table-misaligned-columns)
 
-The table can be semi-there!
+The table can be semi-there! KISS.
