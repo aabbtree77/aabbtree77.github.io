@@ -140,8 +140,8 @@ One could further pytorch these models by wrapping them into transformer network
 
 <br>
 
-Make $\rightarrow$ Remake
------------------------------
+Remakes
+-------
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) $\rightarrow$
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
@@ -179,8 +179,8 @@ Stereo
 <br>
 
 
-Tensor $\rightarrow$ Algebra
---------------------------------
+Tensor $\rightarrow$ Algebra 
+----------------------------
 
   [Am. J. Phys. 38, 1239 (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1)
 
@@ -193,16 +193,16 @@ Tensor $\rightarrow$ Algebra
 <br>
 
 
-Functional Equation $\rightarrow$ PDE $\rightarrow$ Invariant
--------------------------------------------------------------
+Functional Equation $\rightarrow$ PDE
+-------------------------------------
 
   [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
 
 <br>
 
 
-Motivation for Complex Numbers: KdV $\rightarrow$ Elliptic Curve
-------------------------------------
+KdV $\rightarrow$ Elliptic curve 
+--------------------------------
 
   [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)
 
@@ -213,16 +213,16 @@ Motivation for Complex Numbers: KdV $\rightarrow$ Elliptic Curve
 <br>
 
 
-Age of Empires 1997 in a Nutshell
-----------------------------------
+Mini Age of Empires 1997
+------------------------
 
   [Amelia Clarke, towerdefense, 2017](https://github.com/rsaihe/towerdefense)
 
 <br>
 
 
-Classical Mechanics (Done Right)
---------------------------------
+Classical Mechanics
+-------------------
 
   [David H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034)
 
@@ -236,9 +236,27 @@ Classical Nonmechanics
 
   [Фёдор Михайлович Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel))
 
+  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-text-red"}
+
+<br>
+
+
+A Glimpse at 1970s
+------------------
+
+  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
+
+  [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
+
   [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w)
 
+  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
+
   [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
+
+  [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5461)
+
+  [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ)
 
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8)
 
@@ -277,51 +295,6 @@ Latvia
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953) 
 
   [Мираж, 1983](https://youtu.be/GbgHkFXDh6A?t=156)
-
-<br>
-
-
-France
-------
-
-  [Les bonnes femmes, 1960](https://www.imdb.com/title/tt0053666/mediaviewer/rm456675328?ref_=ttmi_mi_all_bts_15) 
-
-  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
-
-  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg)
-
-<br>
-
-
-Australia
----------
-
-  [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
-
-  [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
-
-  [All the Rivers Run, 1983](https://www.youtube.com/watch?v=3prczaXXr5g)
-
-<br>
-
-
-Chekhov 
--------
-
-  [1878](https://en.wikipedia.org/wiki/Platonov_(play)){: class="w3-monospace"} $\rightarrow$ 
-  [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5461){: class="w3-monospace"}
-
-  [1884](https://en.wikipedia.org/wiki/The_Shooting_Party_(Chekhov_novel)){: class="w3-monospace"} $\rightarrow$ 
-  [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ){: class="w3-monospace"}
-
-  [1887](https://en.wikipedia.org/wiki/Ivanov_(play)){: class="w3-monospace"} $\rightarrow$
-  [Ивановъ, 2010](https://youtu.be/zXd-09xU3dE?t=1433){: class="w3-monospace"}
-
-  [1898](https://en.wikipedia.org/wiki/Uncle_Vanya){: class="w3-monospace"} $\rightarrow$ 
-  [Дядя Ваня, 1986](https://youtu.be/JYBBYKKi1W4?t=4550){: class="w3-monospace"}
-
-  [1900](https://en.wikipedia.org/wiki/Three_Sisters_(play)){: class="w3-monospace"} $\rightarrow$ 
-  [Три сестры, 1994](https://youtu.be/bbwGt1oshkc?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=568){: class="w3-monospace"}
 
 <br>
 
