@@ -252,11 +252,11 @@ Classical Nonmechanics
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
 
+  [The Passenger, 1975](https://youtu.be/9oIUVic5sn4?t=885)
+
   [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
 
   [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5461)
-
-  [Мой ласковый и нежный зверь, 1978](https://www.youtube.com/watch?v=0mSHQgpeCbQ)
 
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8)
 
