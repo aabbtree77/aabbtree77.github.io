@@ -256,8 +256,6 @@ Classical Nonmechanics
 
   [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
 
-  [Неоконченная пьеса для механического пианино, 1977](https://youtu.be/0OXkvpVCZEA?t=5461)
-
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8)
 
 <br> 
