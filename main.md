@@ -52,9 +52,9 @@ constraint handling via simple projections ala Karmarkar and Cimmino in linear a
 
 ### [Cloud Computing (Scilab)](https://hal.archives-ouvertes.fr/hal-00723427)
 
-PostDoc Chronicles 2: Saint-Étienne, 2012-2013. Optimization of geometry to minimize a pressure drop simulated with the Navier-Stokes flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid (INRIA) cloud via Scilab-to-Java bridge managed by Fabien Viale. Minimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform.
+PostDoc Chronicles 2: Saint-Étienne, 2012-2013. A minimization of fluid pressure simulated with the Navier-Stokes flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid (INRIA) cloud via Scilab-to-Java bridge managed by Fabien Viale. Minimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform.
 
-To describe the parallelization part of the problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to faster predict the next optimal candidate batch, one reads the available cloud node result immediately, but the multi-point world is not loaded yet to make a movement. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.
+To describe the parallelization part of the problem, a simple analogy will suffice: Imagine moving in a 3D game faster than the world around you being generated, you may get stuck inside walls or places that cannot be escaped. In order to predict the next optimal candidate batch faster, one reads the available cloud node result immediately, but the multi-point world is not loaded yet to make a movement. One can see how this is resolved in the report aiming at a synchronous progress just running faster/asynchronously.
 
 <br> 
  
@@ -153,7 +153,7 @@ Remakes
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk) $\rightarrow$
   [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw)
 
-  [Эдуард Николаевич Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU) $\rightarrow$
+  [Эдуард Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU) $\rightarrow$
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk)
   
 <br>
@@ -196,7 +196,7 @@ Tensor $\rightarrow$ Algebra
 Functional Equation $\rightarrow$ PDE
 -------------------------------------
 
-  [Павел Андреевич Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
+  [Павел Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
 
 <br>
 
@@ -234,15 +234,15 @@ Classical Mechanics
 Classical Nonmechanics
 ----------------------
 
-  [Фёдор Михайлович Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel))
+  [Фёдор Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel))
 
-  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg){: class="w3-text-red"}
+  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg)
 
 <br>
 
 
-A Glimpse at 1970s
-------------------
+1970s
+-----
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
 
