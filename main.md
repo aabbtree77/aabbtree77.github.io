@@ -252,7 +252,7 @@ Classical Nonmechanics
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
 
-  [The Passenger, 1975](https://youtu.be/9oIUVic5sn4?t=885)
+  [The Passenger, 1975](https://www.youtube.com/watch?v=XC08EkLxeFM)
 
   [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
 
@@ -289,8 +289,8 @@ Classical Nonmechanics
 <br>
 
 
-Latvia
-------
+Rīgas Kinostudija
+-----------------
 
   [Долгая дорога в дюнах, 1980](https://youtu.be/5M56g-QPZTI?t=953) 
 
