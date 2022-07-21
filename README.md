@@ -2,21 +2,23 @@
 
 This web page uses the following tools (the list will grow):
 
-- w3.css to style its elements and make it all somewhat responsive, px-free. 
+- ~~w3.css to style its elements and make it all somewhat responsive, px-free.~~ Removed this dependency. Instead, adopted
+  a simple setup of [Harrison Totty](https://github.com/HarrisonTotty/harrisontotty.github.io).
 
-- quintessential-css-cube by zachstronaut to compactify a presentation of images.
+- quintessential-css-cube by zachstronaut to compactify images.
 
-- monospace mostly, but also Petit Formal Script Google Font just for fun.
+- ~~monospace mostly, but also Petit Formal Script Google Font just for fun.~~ Removed that font, it's pretty, but not so readable.
 
-- Python-Markdown which allows to style Markdown with CSS classes, but it is better to write HTML in Markdown for such cases unless styling is very simple. See also [https://github.com/Erkaman/erkaman.github.io](https://github.com/Erkaman/erkaman.github.io) where Python-Markdown is used as a minimal blogging engine to organize articles. 
+- Python-Markdown, see also [https://github.com/Erkaman/erkaman.github.io](https://github.com/Erkaman/erkaman.github.io). This allows to avoid Jekyll or any other blog engine.
+  One can also style Markdown with Python-Markdown extensions, but it is better to use plain HTML for the special cases.
 
 - [Table generator](https://www.tablesgenerator.com/markdown_tables).
 
-- [Mermaid](https://mermaid-js.github.io/mermaid/#/) to draw diagrams.
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) to draw diagrams, see my MQTT github repo.
 
-- MathJax.
+- MathJax, just to test it, I do not intend mixing LaTeX with HTML as each alone is enough of a pain.
 
-- When in doubt, use plain HTML, Markdown allows it, purity sucks. 
+- When in doubt, use plain HTML, Markdown allows it. 
 
 - [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/).
 
@@ -29,7 +31,7 @@ pip install markdown
 pip install markdownify
 ```
 
-Write some thoughts in main.md and then compile Markdown to HTML:
+Write something in Markdown files, three so far, followed by
 
 ```python
 python3 convert.py

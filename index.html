@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="w3.css">
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<head>
+<meta charset="UTF-8">
 
 <script>
 MathJax = {
@@ -15,45 +14,143 @@ MathJax = {
   }
 };
 </script>
-
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+	src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
 </script>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap" rel="stylesheet">
 
 <link href="qube.min.css" rel="stylesheet" type="text/css">
 <link href="qube.add.css" rel="stylesheet" type="text/css">
 
+<link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700' rel='stylesheet' type='text/css'>
+
+<style>
+
+	body {
+		font: 16px/1.5em 'Roboto Mono', 'Consolas', 'Andale Mono', 'Monaco', 'Courier New', Courier, monospace;
+		padding: 1ch;
+		margin: 0;
+		background-color:#616161;
+	}
+
+	main, footer, body > header {
+		max-width: 80ch;
+		margin: auto;
+	}
+
+	main {
+		box-sizing: border-box;
+		padding: 1ch 0 2ch;
+		min-height: calc(100vh - 12ch);
+	}
+
+	h1 {
+		font-size: 110%;
+		font-weight: 700;
+	}
+
+	h1, .timestamp {
+		margin: 0;
+	}
+
+	a {
+		color: #abafb6;
+	}
+
+	.heading {
+	margin: 0 0 2ch;
+	padding: 0;
+	}
+
+	article.txt p {
+	white-space: pre-wrap;
+	}
+
+	.uk-blue {
+	color: blue;
+	}
+
+	.uk-yellow {
+	color: yellow;
+	}
+
+	hr {
+	border: 1px solid black;
+	}
+
+	p {
+	margin: 1.5em 0;
+	}
+
+	h2, h3, h4, h5, h6 {
+	font-size: 1em;
+	}
+
+	pre {
+	padding: 1ch;
+	overflow-x: auto;
+	}
+
+	ul, ol {
+	padding-left: 0;
+	}
+
+	li > ul, li > ol {
+	padding-left: 2ch;
+	}
+
+	blockquote {
+	font-style: italic;
+	margin: 1.5em 2ch;
+	}
+
+	img {
+	max-width:100%;
+	}
+
+	@media screen and (min-width:1367px) {
+		body {
+		  font: 20px/1.75em 'Roboto Mono';
+		}
+		hr {
+		  border: 3px solid black;
+		}
+	}
+
+	code {
+	background-color: #1d1b1b;
+	border: 0;
+	color: #fff;
+	font-size: 80%;
+	padding: 2px 3px;
+	}
+  
+</style>
+
 <title>Ramunas Girdziusas</title>
+
+</head>
+
 <body>
+<main>
 
-<div class="w3-row w3-dark-grey">
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-  <div class="w3-col s10 m6 l6 w3-center w3-xxlarge w3-text-blue" style="text-shadow:4px 4px 0 #444"><b>&nbsp;</b></div>
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+
+  
+<div style="text-align:center;font-size: 120%;">
+  <p>
+  Ramūnas Girdziušas:
+  <a href="https://github.com/aabbtree77?tab=repositories">Github,</a>
+  <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Resume,</a>
+  <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV,</a>
+  <a href="https://github.com/aabbtree77/aabbtree77.github.io">Meta</a>
+  </p>
 </div>
-
-<div class="w3-row w3-dark-grey">
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-  <div class="w3-col s10 m6 l6 w3-center w3-xlarge" style="text-shadow:1px 1px 0 #444">
-  <a class="w3-monospace w3-text-black">Ramūnas Girdziušas:</a>
-  <a class="w3-monospace w3-text-black" href="https://github.com/aabbtree77?tab=repositories">Github,</a>
-  <a class="w3-monospace w3-text-black" href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Resume,</a>
-  <a class="w3-monospace w3-text-black" href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV,</a>
-  <a class="w3-monospace w3-text-black" href="https://github.com/aabbtree77/aabbtree77.github.io">Meta</a> 
-  </div>
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-</div>
-
-<div class="w3-row w3-dark-grey">
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-  <div class="w3-col s10 m6 l6 w3-justify w3-large w3-dark-grey w3-text-black w3-monospace"><p><br></p>
-<table align="center">
+ 
+    
+    <div style="color:black;text-align:justify;">
+    <table align="center">
     <tr>
-    <th align="center">Ilja Kabakov. The Man who Flew Into Space from His Apartment, 1986</th>
+    <th align="center">Ilya Kabakov. The Man Who Flew into Space from his Apartment, installation view, Feldman Fine Arts, New York, 1988. Photograph by D. James Dee, more details in the book by Boris Groys, 2006</th>
     </tr>
     <tr>
     <td>
@@ -63,7 +160,15 @@ MathJax = {
 </table>
 
 <p><br></p>
-<h1 id="1-selected-projects">1. Selected Projects</h1>
+    </div>
+    
+    <div style="color:black;text-align:justify;">
+    <div class="heading">
+        <h1>Selected Projects</h1>
+        <p class="timestamp">21 July 2022</p>
+        <hr>
+</div>
+
 <p><br> </p>
 <h3 id="atmega16-c-rightarrow-paper-guillotine"><a href="https://github.com/aabbtree77/adast">(ATmega16, C) $\rightarrow$ Paper Guillotine</a></h3>
 <p>A joint work with Saulius Rakauskas (Infovega). He dissected hardware, designed the board and prepared factory requirements, I wrote microcontroller code in C (avr-gcc). This marvel machine (repaired by us in 2020) is still in operation (2022).</p>
@@ -92,7 +197,7 @@ is underrated, but I could not make it into a bigger program.</p>
 <p><br> </p>
 <table align="center">
     <tr>
-    <th align="center"> Ramunas Girdziusas, D.Sc. (Tech.)</th>
+    <th align="center"> Ramunas Girdziusas, D.Sc. (Tech.) 2008</th>
     </tr>
     <tr>
     <td align="center">
@@ -105,29 +210,27 @@ is underrated, but I could not make it into a bigger program.</p>
 <h3 id="anisotropic-diffusion-filters-dsc-thesis"><a href="https://aaltodoc.aalto.fi/handle/123456789/2999">Anisotropic Diffusion Filters (DSc Thesis)</a></h3>
 <p>My DSc (PhD) thesis, Espoo 2002-2008. Essentially, it is this <strong><a href="https://ieeexplore.ieee.org/document/1555991">IJCNN-2005</a></strong> paper polished in <strong><a href="https://ieeexplore.ieee.org/document/4408895">ICCV2007</a></strong> and <strong><a href="https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77">ACCV2007</a></strong>. A good test case could have been the bilateral upscaling stage in volumetric light rendering. </p>
 <p>One could further pytorch these models by wrapping them into transformer networks or making a leap into <strong><a href="https://distill.pub/2021/understanding-gnns/">convolutions</a></strong> <strong><a href="https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes">on</a></strong> <strong><a href="https://twitter.com/mmbronstein/status/1407260749295239168">graphs</a></strong>, but the state of the art CNN might be tough to beat.</p>
-<div class="w3-panel w3-pale-orange w3-bottombar w3-border-black w3-border">
-  <div class="w3-medium w3-petitfscript w3-text-black">
+<div class="blockquote">
 
   R.I.P.
   <br>
 
   Daffertshofer-Haken-1994 as a strategically wrong, but inspiring paper,
   Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
-  Mykola Ivanchenko, <strong>Elia Liitiäinen</strong>, Jan-Hendrik Schleimer, Jarrod Creado, <strong>Leo Michael</strong>, 
-  <strong>Jaakko Martti Johannes Miettinen</strong>, Ville Rantamaula, Dexter He, 
+  Mykola Ivanchenko, <em>Elia Liitiäinen</em>, Jan-Hendrik Schleimer, Jarrod Creado, <em>Leo Michael</em>, 
+  <em>Jaakko Martti Johannes Miettinen</em>, Ville Rantamaula, Dexter He, 
   Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis, 
   Anita Bisi, Sergej Doudorov, Maxim Govtva, Paola Huaynate... I remember you.
   </div>
-</div>
 
 <p><br> </p>
-<div class="w3-container">
+<div class="blockquote">
   <table align="center">
   <tr>
-  <td><div class="w3-large w3-text-black"> “You're a picture on a piano.”</div></td>
+  <td><div> “You're a picture on a piano.”</div></td>
   </tr>
   <tr>
-  <td colspan="1" style="text-align:right"><div class="w3-large w3-text-black">- Get Carter, 2000</div></td>
+  <td colspan="1" style="text-align:right"><div>- Get Carter, 2000</div></td>
   </tr>
   </table>
 </div>
@@ -149,7 +252,15 @@ is underrated, but I could not make it into a bigger program.</p>
 <p><br></p>
 <p><br></p>
 <p><br></p>
-<h1 id="2-bookmarks">2. Bookmarks</h1>
+    </div>
+    
+    <div style="color:black;text-align:justify;">
+    <div class="heading">
+        <h1>Bookmarks</h1>
+        <p class="timestamp">12 July 2022</p>
+        <hr>
+</div>
+
 <p><br></p>
 <h2 id="remakes">Remakes</h2>
 <p><a href="https://www.youtube.com/watch?v=vokjaW1eTGY">Nat King Cole, 1949</a> $\rightarrow$
@@ -221,15 +332,19 @@ is underrated, but I could not make it into a bigger program.</p>
 <p><a href="https://youtu.be/GbgHkFXDh6A?t=156">Мираж, 1983</a></p>
 <p><br></p>
 <h2 id="pending">Pending</h2>
-<p><a class="w3-text-blue" href="https://www.youtube.com/watch?v=xby5467EbdU">Maggot Brain, 1971</a> </p>
-<p><a class="w3-text-blue" href="https://www.youtube.com/watch?v=7ZsQdLlvuk4">Fascination Street, 1989</a></p>
-<p><a class="w3-text-blue" href="https://www.youtube.com/watch?v=18rZv8qWZqA">Hari ôm Ramakrishna, 1989</a></p>
-<p><a class="w3-text-yellow" href="https://www.youtube.com/watch?v=LGC90fmf8gw">Tha, 1992</a></p>
-<p><a class="w3-text-yellow" href="https://www.youtube.com/watch?v=aepBpZ3kXek">I'm Deranged, 1995</a></p>
-<p><a class="w3-text-yellow" href="https://www.youtube.com/watch?v=P3jlUpej-Hw">A Night In Mogul's Garden, 2000</a></p>
-<p><br></p></div>
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-</div>
+<p><a style="color:#0066cc;" href="https://www.youtube.com/watch?v=xby5467EbdU">Maggot Brain, 1971</a></p>
+<p><a style="color:#0066cc;" href="https://www.youtube.com/watch?v=7ZsQdLlvuk4">Fascination Street, 1989</a></p>
+<p><a style="color:#0066cc;" href="https://www.youtube.com/watch?v=18rZv8qWZqA">Hari ôm Ramakrishna, 1989</a></p>
+<p><a style="color:#ffcc00;" href="https://www.youtube.com/watch?v=LGC90fmf8gw">Tha, 1992</a></p>
+<p><a style="color:#ffcc00;" href="https://www.youtube.com/watch?v=aepBpZ3kXek">I'm Deranged, 1995</a></p>
+<p><a style="color:#ffcc00;" href="https://www.youtube.com/watch?v=P3jlUpej-Hw">A Night In Mogul's Garden, 2000</a></p>
+<p><br></p>
+    </div>
+    
 
+
+
+
+</main>
 </body>
 </html>

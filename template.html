@@ -1,58 +1,168 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="w3.css">
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<head>
+<meta charset="UTF-8">
 
 <script>
-MathJax = {{
-  tex: {{
+MathJax = {
+  tex: {
     inlineMath: [['$', '$'], ['\\(', '\\)']]
-  }},
-  svg: {{
+  },
+  svg: {
     fontCache: 'global'
-  }}
-}};
+  }
+};
 </script>
-
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+	src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
 </script>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap" rel="stylesheet">
 
 <link href="qube.min.css" rel="stylesheet" type="text/css">
 <link href="qube.add.css" rel="stylesheet" type="text/css">
 
+<link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700' rel='stylesheet' type='text/css'>
+
+<style>
+
+	body {
+		font: 16px/1.5em 'Roboto Mono', 'Consolas', 'Andale Mono', 'Monaco', 'Courier New', Courier, monospace;
+		padding: 1ch;
+		margin: 0;
+		background-color:#616161;
+	}
+
+	main, footer, body > header {
+		max-width: 80ch;
+		margin: auto;
+	}
+
+	main {
+		box-sizing: border-box;
+		padding: 1ch 0 2ch;
+		min-height: calc(100vh - 12ch);
+	}
+
+	h1 {
+		font-size: 110%;
+		font-weight: 700;
+	}
+
+	h1, .timestamp {
+		margin: 0;
+	}
+
+	a {
+		color: #abafb6;
+	}
+
+	.heading {
+	margin: 0 0 2ch;
+	padding: 0;
+	}
+
+	article.txt p {
+	white-space: pre-wrap;
+	}
+
+	.uk-blue {
+	color: blue;
+	}
+
+	.uk-yellow {
+	color: yellow;
+	}
+
+	hr {
+	border: 1px solid black;
+	}
+
+	p {
+	margin: 1.5em 0;
+	}
+
+	h2, h3, h4, h5, h6 {
+	font-size: 1em;
+	}
+
+	pre {
+	padding: 1ch;
+	overflow-x: auto;
+	}
+
+	ul, ol {
+	padding-left: 0;
+	}
+
+	li > ul, li > ol {
+	padding-left: 2ch;
+	}
+
+	blockquote {
+	font-style: italic;
+	margin: 1.5em 2ch;
+	}
+
+	img {
+	max-width:100%;
+	}
+
+	@media screen and (min-width:1367px) {
+		body {
+		  font: 20px/1.75em 'Roboto Mono';
+		}
+		hr {
+		  border: 3px solid black;
+		}
+	}
+
+	code {
+	background-color: #1d1b1b;
+	border: 0;
+	color: #fff;
+	font-size: 80%;
+	padding: 2px 3px;
+	}
+  
+</style>
+
 <title>Ramunas Girdziusas</title>
+
+</head>
+
 <body>
+<main>
 
-<div class="w3-row w3-dark-grey">
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-  <div class="w3-col s10 m6 l6 w3-center w3-xxlarge w3-text-blue" style="text-shadow:4px 4px 0 #444"><b>&nbsp;</b></div>
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
+
+  
+<div style="text-align:center;font-size: 120%;">
+  <p>
+  Ramūnas Girdziušas:
+  <a href="https://github.com/aabbtree77?tab=repositories">Github,</a>
+  <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Resume,</a>
+  <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV,</a>
+  <a href="https://github.com/aabbtree77/aabbtree77.github.io">Meta</a>
+  </p>
 </div>
+ 
+    
+    <div style="color:black;text-align:justify;">
+    {src0}
+    </div>
+    
+    <div style="color:black;text-align:justify;">
+    {src1}
+    </div>
+    
+    <div style="color:black;text-align:justify;">
+    {src2}
+    </div>
+    
 
-<div class="w3-row w3-dark-grey">
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-  <div class="w3-col s10 m6 l6 w3-center w3-xlarge" style="text-shadow:1px 1px 0 #444">
-  <a class="w3-monospace w3-text-black">Ramūnas Girdziušas:</a>
-  <a class="w3-monospace w3-text-black" href="https://github.com/aabbtree77?tab=repositories">Github,</a>
-  <a class="w3-monospace w3-text-black" href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Resume,</a>
-  <a class="w3-monospace w3-text-black" href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV,</a>
-  <a class="w3-monospace w3-text-black" href="https://github.com/aabbtree77/aabbtree77.github.io">Meta</a> 
-  </div>
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-</div>
 
-<div class="w3-row w3-dark-grey">
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-  <div class="w3-col s10 m6 l6 w3-justify w3-large w3-dark-grey w3-text-black w3-monospace">{src}</div>
-  <div class="w3-col s1 m3 l3 w3-dark-grey"><p></p></div>
-</div>
 
+
+</main>
 </body>
 </html>
