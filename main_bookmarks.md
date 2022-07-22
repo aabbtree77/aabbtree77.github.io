@@ -6,27 +6,32 @@
 
 <br>
 
-Remakes
--------
+Remakes!?
+---------
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) &rArr;
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
 
   [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig) &rArr;
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y) 
+  
+  [Solaris, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)) &rArr;
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w) &rArr;
+  [Solaris, 2002](https://www.youtube.com/watch?v=3NOzIqV_XLg) &rArr;
+  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)
 
   [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ) &rArr;
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk) &rArr;
-  [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw)
-
-  [Эдуард Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU) &rArr;
-  [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk)
+  [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw)  
+   
+  [Эдуард Артемьев, 1979](https://www.youtube.com/watch?v=tigqbfM58bg) &rArr;
+  [PPK, 2001](https://www.youtube.com/watch?v=z61m308cLeA)
   
 <br>
 
 
-Band &rArr; Solo
----------------------------
+1990s
+-----
 
   [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s) &rArr;
   [Linn Berggren, 1997](https://www.youtube.com/watch?v=OCmoS-VzBSE&list=RDEMn7k33J47oypPqkQTAawmog&index=24) 
@@ -37,58 +42,32 @@ Band &rArr; Solo
 <br>
 
 
-Stereo
-------
+Stereophonic
+------------
 
   [Caroline Catherine Müller, 1999](https://youtu.be/ZcoP3-ProLE?t=238) 
 
 <br>
 
 
-Tensor &rArr; Algebra 
-----------------------------
-
-  [Am. J. Phys. 38, 1239 (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1)
-
-  [Phys. Rev. D 64, 125013 (2001)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.125013)
-
-  [Phys. Rev. D 67, 085021 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.085021)
-
-  [Phys. Rev. D 67, 125011 (2003)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.125011)
-
-<br>
-
-
-Functional Equation &rArr; PDE
--------------------------------------
+Clear: Invariant Functions
+--------------------------
 
   [Павел Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
 
 <br>
 
 
-KdV &rArr; Elliptic curve 
---------------------------------
-
-  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)
-
-  [Letterio Gatto, Parham Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016](https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411)
-
-  [Georgios Pastras. Four Lectures on Weierstrass Elliptic Function... 2017](https://arxiv.org/abs/1706.07371)
-
-<br>
-
-
-Mini Age of Empires 1997
-------------------------
+Clear: Mini Age of Empires 1997
+-------------------------------
 
   [Amelia Clarke, towerdefense, 2017](https://github.com/rsaihe/towerdefense)
 
 <br>
 
 
-Classical Mechanics
--------------------
+Clear: Classical Mechanics
+--------------------------
 
   [David H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034)
 
@@ -107,14 +86,12 @@ Classical Nonmechanics
 <br>
 
 
-1970s
------
+1970s!?
+-------
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
 
   [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
-
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w)
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
 
@@ -140,7 +117,7 @@ Classical Nonmechanics
 Сергей Соловьёв (1944-2021)
 -----------------------------------------
 
-  [Сто дней после детства, 1975](https://www.youtube.com/watch?v=0PGARFpoSuQ&list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&index=4)
+  [Сто дней после детства, 1975](https://youtu.be/0PGARFpoSuQ?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=1077)
 
   [Мелодии белой ночи, 1976](https://youtu.be/6leMPSjKY5s?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=1809)
 
