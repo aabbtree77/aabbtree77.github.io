@@ -6,8 +6,8 @@
 
 <br>
 
-Remakes!?
----------
+Remakes?
+--------
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) &rArr;
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
@@ -30,8 +30,11 @@ Remakes!?
 <br>
 
 
-1990s
------
+Band &rArr; Solo
+----------------
+
+  [C. C. Catch, 1985/1999](https://youtu.be/ZcoP3-ProLE?t=238) &rArr;
+  [C. C. Catch, 1989](https://youtu.be/Vnw-iFtN5H0?t=180)
 
   [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s) &rArr;
   [Linn Berggren, 1997](https://www.youtube.com/watch?v=OCmoS-VzBSE&list=RDEMn7k33J47oypPqkQTAawmog&index=24) 
@@ -42,32 +45,24 @@ Remakes!?
 <br>
 
 
-Stereophonic
-------------
-
-  [Caroline Catherine Müller, 1999](https://youtu.be/ZcoP3-ProLE?t=238) 
-
-<br>
-
-
-Clear: Invariant Functions
---------------------------
+Invariant Functions
+-------------------
 
   [Павел Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
 
 <br>
 
 
-Clear: Mini Age of Empires 1997
--------------------------------
+Mini Age of Empires 1997
+------------------------
 
   [Amelia Clarke, towerdefense, 2017](https://github.com/rsaihe/towerdefense)
 
 <br>
 
 
-Clear: Classical Mechanics
---------------------------
+Classical Mechanics
+-------------------
 
   [David H. Eberly. Game Physics, 2010](https://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034)
 
