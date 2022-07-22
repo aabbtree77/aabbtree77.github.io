@@ -1,7 +1,7 @@
 <div class="heading">
         <h1>Bookmarks</h1>
         <p class="timestamp">12 July 2022</p>
-        <hr>
+        <hr style="border: 2px solid #abafb6;">
 </div>
 
 <br>
@@ -9,29 +9,29 @@
 Remakes
 -------
 
-  [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) $\rightarrow$
+  [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) &rArr;
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
 
-  [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig) $\rightarrow$
+  [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig) &rArr;
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y) 
 
-  [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ) $\rightarrow$
-  [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk) $\rightarrow$
+  [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ) &rArr;
+  [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk) &rArr;
   [Lana Del Rey, 2017](https://www.youtube.com/watch?v=axRMZqUNVEw)
 
-  [Эдуард Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU) $\rightarrow$
+  [Эдуард Артемьев, 1979](https://www.youtube.com/watch?v=sJj9y4t9UnU) &rArr;
   [PPK, 2001](https://www.youtube.com/watch?v=Rce8QnuFRVk)
   
 <br>
 
 
-Band $\rightarrow$ Solo
+Band &rArr; Solo
 ---------------------------
 
-  [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s) $\rightarrow$
+  [Ace of Base, 1995](https://www.youtube.com/watch?v=wh-07BzfgYY&t=37s) &rArr;
   [Linn Berggren, 1997](https://www.youtube.com/watch?v=OCmoS-VzBSE&list=RDEMn7k33J47oypPqkQTAawmog&index=24) 
 
-  [2 Unlimited, 1995](https://www.youtube.com/watch?v=U0jNQyNGm4g) $\rightarrow$
+  [2 Unlimited, 1995](https://www.youtube.com/watch?v=U0jNQyNGm4g) &rArr;
   [Anita Doth, 1999](https://www.youtube.com/watch?v=ozKzBRl4a7A)
 
 <br>
@@ -45,7 +45,7 @@ Stereo
 <br>
 
 
-Tensor $\rightarrow$ Algebra 
+Tensor &rArr; Algebra 
 ----------------------------
 
   [Am. J. Phys. 38, 1239 (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1)
@@ -59,7 +59,7 @@ Tensor $\rightarrow$ Algebra
 <br>
 
 
-Functional Equation $\rightarrow$ PDE
+Functional Equation &rArr; PDE
 -------------------------------------
 
   [Павел Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
@@ -67,7 +67,7 @@ Functional Equation $\rightarrow$ PDE
 <br>
 
 
-KdV $\rightarrow$ Elliptic curve 
+KdV &rArr; Elliptic curve 
 --------------------------------
 
   [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)

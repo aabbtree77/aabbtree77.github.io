@@ -1,6 +1,6 @@
 <table align="center">
     <tr>
-    <th align="center">Ilya Kabakov. The Man Who Flew into Space from his Apartment, installation view, Feldman Fine Arts, New York, 1988. Photograph by D. James Dee, more details in the book by Boris Groys, 2006</th>
+    <th align="center">Ilya Kabakov. The Man Who Flew into Space from his Apartment, 1988</th>
     </tr>
     <tr>
     <td>

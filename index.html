@@ -4,30 +4,17 @@
 <head>
 <meta charset="UTF-8">
 
-<script>
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  },
-  svg: {
-    fontCache: 'global'
-  }
-};
-</script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async
-	src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js">
-</script>
-
 <link href="qube.min.css" rel="stylesheet" type="text/css">
 <link href="qube.add.css" rel="stylesheet" type="text/css">
 
-<link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700' rel='stylesheet' type='text/css'>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap" rel="stylesheet">
 
 <style>
 
 	body {
-		font: 16px/1.5em 'Roboto Mono', 'Consolas', 'Andale Mono', 'Monaco', 'Courier New', Courier, monospace;
+		font: 16px/1.5em 'Source Code Pro', monospace;
 		padding: 1ch;
 		margin: 0;
 		background-color:#616161;
@@ -58,28 +45,16 @@ MathJax = {
 	}
 
 	.heading {
-	margin: 0 0 2ch;
-	padding: 0;
-	}
-
-	article.txt p {
-	white-space: pre-wrap;
-	}
-
-	.uk-blue {
-	color: blue;
-	}
-
-	.uk-yellow {
-	color: yellow;
+		margin: 0 0 2ch;
+		padding: 0;
 	}
 
 	hr {
-	border: 1px solid black;
+		border: 1px solid black;
 	}
 
 	p {
-	margin: 1.5em 0;
+		margin: 1.5em 0;
 	}
 
 	h2, h3, h4, h5, h6 {
@@ -87,30 +62,30 @@ MathJax = {
 	}
 
 	pre {
-	padding: 1ch;
-	overflow-x: auto;
+		padding: 1ch;
+		overflow-x: auto;
 	}
 
 	ul, ol {
-	padding-left: 0;
+		padding-left: 0;
 	}
 
 	li > ul, li > ol {
-	padding-left: 2ch;
+		padding-left: 2ch;
 	}
 
 	blockquote {
-	font-style: italic;
-	margin: 1.5em 2ch;
+		font-style: italic;
+		margin: 1.5em 2ch;
 	}
 
 	img {
-	max-width:100%;
+		max-width:100%;
 	}
 
 	@media screen and (min-width:1367px) {
 		body {
-		  font: 20px/1.75em 'Roboto Mono';
+		  font: 20px/1.75em 'Source Code Pro';
 		}
 		hr {
 		  border: 3px solid black;
@@ -118,11 +93,11 @@ MathJax = {
 	}
 
 	code {
-	background-color: #1d1b1b;
-	border: 0;
-	color: #fff;
-	font-size: 80%;
-	padding: 2px 3px;
+		background-color: #1d1b1b;
+		border: 0;
+		color: #fff;
+		font-size: 80%;
+		padding: 2px 3px;
 	}
   
 </style>
@@ -134,23 +109,20 @@ MathJax = {
 <body>
 <main>
 
-
-  
 <div style="text-align:center;font-size: 120%;">
-  <p>
-  Ramūnas Girdziušas:
-  <a href="https://github.com/aabbtree77?tab=repositories">Github,</a>
-  <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Resume,</a>
-  <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV,</a>
-  <a href="https://github.com/aabbtree77/aabbtree77.github.io">Meta</a>
-  </p>
+	<p>
+	Ramūnas Girdziušas:
+	<a href="https://github.com/aabbtree77?tab=repositories">Github,</a>
+	<a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Resume,</a>
+	<a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV,</a>
+	<a href="https://github.com/aabbtree77/aabbtree77.github.io">Meta</a>
+	</p>
 </div>
- 
     
-    <div style="color:black;text-align:justify;">
-    <table align="center">
+<div style="color:black;text-align:justify;">
+	<table align="center">
     <tr>
-    <th align="center">Ilya Kabakov. The Man Who Flew into Space from his Apartment, installation view, Feldman Fine Arts, New York, 1988. Photograph by D. James Dee, more details in the book by Boris Groys, 2006</th>
+    <th align="center">Ilya Kabakov. The Man Who Flew into Space from his Apartment, 1988</th>
     </tr>
     <tr>
     <td>
@@ -160,29 +132,29 @@ MathJax = {
 </table>
 
 <p><br></p>
-    </div>
-    
-    <div style="color:black;text-align:justify;">
-    <div class="heading">
+</div>
+
+<div style="color:black;text-align:justify;">
+	<div class="heading">
         <h1>Selected Projects</h1>
         <p class="timestamp">21 July 2022</p>
-        <hr>
+        <hr style="border: 2px solid #abafb6;">
 </div>
 
 <p><br> </p>
-<h3 id="atmega16-c-rightarrow-paper-guillotine"><a href="https://github.com/aabbtree77/adast">(ATmega16, C) $\rightarrow$ Paper Guillotine</a></h3>
+<h3 id="atmega16-c-paper-guillotine"><a href="https://github.com/aabbtree77/adast">(ATmega16, C) &rArr; Paper Guillotine</a></h3>
 <p>A joint work with Saulius Rakauskas (Infovega). He dissected hardware, designed the board and prepared factory requirements, I wrote microcontroller code in C (avr-gcc). This marvel machine (repaired by us in 2020) is still in operation (2022).</p>
 <p><br></p>
-<h3 id="esp32-micropython-rightarrow-wi-fi-control"><a href="https://github.com/aabbtree77/esp32-mqtt-experiments">(ESP32, MicroPython) $\rightarrow$ Wi-Fi Control</a></h3>
+<h3 id="esp32-micropython-wi-fi-control"><a href="https://github.com/aabbtree77/esp32-mqtt-experiments">(ESP32, MicroPython) &rArr; Wi-Fi Control</a></h3>
 <p>IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience.</p>
 <p><br> </p>
-<h3 id="opengl-go-rightarrow-volumetrically-lit-sponza"><a href="https://github.com/aabbtree77/twinpeekz">(OpenGL, Go) $\rightarrow$ Volumetrically-Lit Sponza</a></h3>
+<h3 id="opengl-go-volumetrically-lit-sponza"><a href="https://github.com/aabbtree77/twinpeekz">(OpenGL, Go) &rArr; Volumetrically-Lit Sponza</a></h3>
 <p>A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of <strong><a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a></strong> and <strong><a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a></strong>. The code shows the impact of a garbage collector in a realistic (multi-pass, PBR-based) OpenGL pipeline.</p>
 <p><br> </p>
 <h3 id="mnist-017-python"><a href="https://github.com/aabbtree77/MNIST-0.17">MNIST-0.17 (Python)</a></h3>
 <p>A confirmation that Jonas Matuzas' CNN model is the most convincing result in the MNIST digit recognition so far (2022).</p>
 <p><br> </p>
-<h3 id="fmm-simulation-rightarrow-3d-shape-normalization-matlab"><a href="https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015">FMM Simulation $\rightarrow$ 3D Shape Normalization (MATLAB)</a></h3>
+<h3 id="fmm-simulation-3d-shape-normalization-matlab"><a href="https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015">FMM Simulation &rArr; 3D Shape Normalization (MATLAB)</a></h3>
 <p>PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to electrostatics and approximate distance 
 constraint handling via simple projections ala Karmarkar and Cimmino in linear algebra. Davide Boscaini handled the constraint gradient exactly and pushed the error rates.</p>
 <p><br></p>
@@ -197,7 +169,7 @@ is underrated, but I could not make it into a bigger program.</p>
 <p><br> </p>
 <table align="center">
     <tr>
-    <th align="center"> Ramunas Girdziusas, D.Sc. (Tech.) 2008</th>
+    <th align="center"> Ramunas Girdziusas, D.Sc. (Tech.), 2008</th>
     </tr>
     <tr>
     <td align="center">
@@ -217,8 +189,8 @@ is underrated, but I could not make it into a bigger program.</p>
 
   Daffertshofer-Haken-1994 as a strategically wrong, but inspiring paper,
   Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
-  Mykola Ivanchenko, <em>Elia Liitiäinen</em>, Jan-Hendrik Schleimer, Jarrod Creado, <em>Leo Michael</em>, 
-  <em>Jaakko Martti Johannes Miettinen</em>, Ville Rantamaula, Dexter He, 
+  Mykola Ivanchenko, <i>Elia Liitiäinen</i>, Jan-Hendrik Schleimer, Jarrod Creado, <i>Leo Michael</i>, 
+  <i>Jaakko Martti Johannes Miettinen</i>, Ville Rantamaula, Dexter He, 
   Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis, 
   Anita Bisi, Sergej Doudorov, Maxim Govtva, Paola Huaynate... I remember you.
   </div>
@@ -252,46 +224,46 @@ is underrated, but I could not make it into a bigger program.</p>
 <p><br></p>
 <p><br></p>
 <p><br></p>
-    </div>
-    
-    <div style="color:black;text-align:justify;">
-    <div class="heading">
+</div>
+
+<div style="color:black;text-align:justify;">
+	<div class="heading">
         <h1>Bookmarks</h1>
         <p class="timestamp">12 July 2022</p>
-        <hr>
+        <hr style="border: 2px solid #abafb6;">
 </div>
 
 <p><br></p>
 <h2 id="remakes">Remakes</h2>
-<p><a href="https://www.youtube.com/watch?v=vokjaW1eTGY">Nat King Cole, 1949</a> $\rightarrow$
+<p><a href="https://www.youtube.com/watch?v=vokjaW1eTGY">Nat King Cole, 1949</a> &rArr;
   <a href="https://www.youtube.com/watch?v=sNH_qfAuwO0">CeeLo Green, 2009</a></p>
-<p><a href="https://www.youtube.com/watch?v=28wViKM_Sig">My Favorite Things, 1959</a> $\rightarrow$
+<p><a href="https://www.youtube.com/watch?v=28wViKM_Sig">My Favorite Things, 1959</a> &rArr;
   <a href="https://www.youtube.com/watch?v=QYh6mYIJG2Y">Ariana Grande, 2019</a> </p>
-<p><a href="https://www.youtube.com/watch?v=HkUgpfZ3rjQ">The Hollies, 1974</a> $\rightarrow$
-  <a href="https://www.youtube.com/watch?v=XFkzRNyygfk">Radiohead, 1992</a> $\rightarrow$
+<p><a href="https://www.youtube.com/watch?v=HkUgpfZ3rjQ">The Hollies, 1974</a> &rArr;
+  <a href="https://www.youtube.com/watch?v=XFkzRNyygfk">Radiohead, 1992</a> &rArr;
   <a href="https://www.youtube.com/watch?v=axRMZqUNVEw">Lana Del Rey, 2017</a></p>
-<p><a href="https://www.youtube.com/watch?v=sJj9y4t9UnU">Эдуард Артемьев, 1979</a> $\rightarrow$
+<p><a href="https://www.youtube.com/watch?v=sJj9y4t9UnU">Эдуард Артемьев, 1979</a> &rArr;
   <a href="https://www.youtube.com/watch?v=Rce8QnuFRVk">PPK, 2001</a></p>
 <p><br></p>
-<h2 id="band-rightarrow-solo">Band $\rightarrow$ Solo</h2>
-<p><a href="https://www.youtube.com/watch?v=wh-07BzfgYY&amp;t=37s">Ace of Base, 1995</a> $\rightarrow$
+<h2 id="band-solo">Band &rArr; Solo</h2>
+<p><a href="https://www.youtube.com/watch?v=wh-07BzfgYY&amp;t=37s">Ace of Base, 1995</a> &rArr;
   <a href="https://www.youtube.com/watch?v=OCmoS-VzBSE&amp;list=RDEMn7k33J47oypPqkQTAawmog&amp;index=24">Linn Berggren, 1997</a> </p>
-<p><a href="https://www.youtube.com/watch?v=U0jNQyNGm4g">2 Unlimited, 1995</a> $\rightarrow$
+<p><a href="https://www.youtube.com/watch?v=U0jNQyNGm4g">2 Unlimited, 1995</a> &rArr;
   <a href="https://www.youtube.com/watch?v=ozKzBRl4a7A">Anita Doth, 1999</a></p>
 <p><br></p>
 <h2 id="stereo">Stereo</h2>
 <p><a href="https://youtu.be/ZcoP3-ProLE?t=238">Caroline Catherine Müller, 1999</a> </p>
 <p><br></p>
-<h2 id="tensor-rightarrow-algebra">Tensor $\rightarrow$ Algebra</h2>
+<h2 id="tensor-algebra">Tensor &rArr; Algebra</h2>
 <p><a href="https://aapt.scitation.org/doi/10.1119/1.1976018?cookieSet=1">Am. J. Phys. 38, 1239 (1970)</a></p>
 <p><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.64.125013">Phys. Rev. D 64, 125013 (2001)</a></p>
 <p><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.085021">Phys. Rev. D 67, 085021 (2003)</a></p>
 <p><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.67.125011">Phys. Rev. D 67, 125011 (2003)</a></p>
 <p><br></p>
-<h2 id="functional-equation-rightarrow-pde">Functional Equation $\rightarrow$ PDE</h2>
+<h2 id="functional-equation-pde">Functional Equation &rArr; PDE</h2>
 <p><a href="http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf">Павел Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003</a></p>
 <p><br></p>
-<h2 id="kdv-rightarrow-elliptic-curve">KdV $\rightarrow$ Elliptic curve</h2>
+<h2 id="kdv-elliptic-curve">KdV &rArr; Elliptic curve</h2>
 <p><a href="https://youtu.be/aGAI-TCmDbg?t=1587">977, 2006</a></p>
 <p><a href="https://www.amazon.com/Hasse-Schmidt-Derivations-Grassmann-Algebras-Applications/dp/3319318411">Letterio Gatto, Parham Salehyan. Hasse-Schmidt Derivations... Sect. 1.1, 2016</a></p>
 <p><a href="https://arxiv.org/abs/1706.07371">Georgios Pastras. Four Lectures on Weierstrass Elliptic Function... 2017</a></p>
@@ -339,12 +311,8 @@ is underrated, but I could not make it into a bigger program.</p>
 <p><a style="color:#ffcc00;" href="https://www.youtube.com/watch?v=aepBpZ3kXek">I'm Deranged, 1995</a></p>
 <p><a style="color:#ffcc00;" href="https://www.youtube.com/watch?v=P3jlUpej-Hw">A Night In Mogul's Garden, 2000</a></p>
 <p><br></p>
-    </div>
+</div>
     
-
-
-
-
 </main>
 </body>
 </html>

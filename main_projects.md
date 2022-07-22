@@ -1,24 +1,24 @@
 <div class="heading">
         <h1>Selected Projects</h1>
         <p class="timestamp">21 July 2022</p>
-        <hr>
+        <hr style="border: 2px solid #abafb6;">
 </div>
 
 <br> 
 
-### [(ATmega16, C) $\rightarrow$ Paper Guillotine](https://github.com/aabbtree77/adast)
+### [(ATmega16, C) &rArr; Paper Guillotine](https://github.com/aabbtree77/adast)
 
 A joint work with Saulius Rakauskas (Infovega). He dissected hardware, designed the board and prepared factory requirements, I wrote microcontroller code in C (avr-gcc). This marvel machine (repaired by us in 2020) is still in operation (2022).
 
 <br>
 
-###  [(ESP32, MicroPython) $\rightarrow$ Wi-Fi Control](https://github.com/aabbtree77/esp32-mqtt-experiments)
+###  [(ESP32, MicroPython) &rArr; Wi-Fi Control](https://github.com/aabbtree77/esp32-mqtt-experiments)
 
 IoT with ESP32, MQTT and MicroPython. Despite a very low RAM and limited software, ESP32 enables one to control sensors over Wi-Fi, even with resilience.
 
 <br> 
 
-### [(OpenGL, Go) $\rightarrow$ Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz)
+### [(OpenGL, Go) &rArr; Volumetrically-Lit Sponza](https://github.com/aabbtree77/twinpeekz)
 
 A full volumetric lighting in Go (forward rendering, shadow mapping) following the C/C++ work of **[Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060)** and **[Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume)**. The code shows the impact of a garbage collector in a realistic (multi-pass, PBR-based) OpenGL pipeline.
 
@@ -30,7 +30,7 @@ A confirmation that Jonas Matuzas' CNN model is the most convincing result in th
 
 <br> 
 
-### [FMM Simulation $\rightarrow$ 3D Shape Normalization (MATLAB)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015)
+### [FMM Simulation &rArr; 3D Shape Normalization (MATLAB)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015)
 
 PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to electrostatics and approximate distance 
 constraint handling via simple projections ala Karmarkar and Cimmino in linear algebra. Davide Boscaini handled the constraint gradient exactly and pushed the error rates.
@@ -56,7 +56,7 @@ is underrated, but I could not make it into a bigger program.
 
 <table align="center">
     <tr>
-    <th align="center"> Ramunas Girdziusas, D.Sc. (Tech.) 2008</th>
+    <th align="center"> Ramunas Girdziusas, D.Sc. (Tech.), 2008</th>
     </tr>
     <tr>
     <td align="center">
@@ -80,8 +80,8 @@ One could further pytorch these models by wrapping them into transformer network
 
   Daffertshofer-Haken-1994 as a strategically wrong, but inspiring paper,
   Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
-  Mykola Ivanchenko, <em>Elia Liitiäinen</em>, Jan-Hendrik Schleimer, Jarrod Creado, <em>Leo Michael</em>, 
-  <em>Jaakko Martti Johannes Miettinen</em>, Ville Rantamaula, Dexter He, 
+  Mykola Ivanchenko, <i>Elia Liitiäinen</i>, Jan-Hendrik Schleimer, Jarrod Creado, <i>Leo Michael</i>, 
+  <i>Jaakko Martti Johannes Miettinen</i>, Ville Rantamaula, Dexter He, 
   Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis, 
   Anita Bisi, Sergej Doudorov, Maxim Govtva, Paola Huaynate... I remember you.
   </div>
