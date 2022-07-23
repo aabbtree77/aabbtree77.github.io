@@ -9,7 +9,7 @@
 Transitions: I
 --------------
 
-  [BWV 639, 1717](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
+  [J. S. Bach, BWV 639, 1717](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
   [Эдуард Артемьев, 1972](https://www.youtube.com/watch?v=fPUxjPVQ6hA)
   
   [J. S. Bach, BWV 639](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
@@ -70,28 +70,26 @@ Classical Nonmechanics
 ----------------------
 
   [Фёдор Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel))
-
-  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg)
+  
+  [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
 
 <br>
 
 
-1970s
------
+“All that we see or seem is but a dream within a dream”
+-------------------------------------------------------
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
 
   [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
-  
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w)
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
 
   [The Passenger, 1975](https://www.youtube.com/watch?v=XC08EkLxeFM)
 
-  [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
-
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8)
+  
+  [Marie baie des anges, 1997](https://www.youtube.com/watch?v=J5m-XiUvLgg)
 
 <br> 
 
