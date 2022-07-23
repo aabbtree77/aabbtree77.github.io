@@ -109,13 +109,9 @@ Classical Nonmechanics
 Сергей Соловьёв (1944-2021)
 -----------------------------------------
 
-  [Сто дней после детства, 1975](https://youtu.be/0PGARFpoSuQ?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=1077)
-
   [Мелодии белой ночи, 1976](https://youtu.be/6leMPSjKY5s?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=1809)
 
   [Спасатель, 1980](https://youtu.be/M7ShKsz33Js?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=5218)
-
-  [Чёрная роза... 1989](https://youtu.be/TDUTB55asA4?list=PLaVercZoOg7eNOS5NXPiBswBRzphjpOrA&t=3940)
 
   [Три сестры, 1994](https://www.youtube.com/watch?v=bbwGt1oshkc&t=2094s)
   
