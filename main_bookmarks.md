@@ -6,8 +6,8 @@
 
 <br>
 
-Remakes?
---------
+Transitions: I
+--------------
 
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) &rArr;
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
@@ -30,8 +30,8 @@ Remakes?
 <br>
 
 
-Band &rArr; Solo
-----------------
+Transitions: II
+---------------
 
   [C. C. Catch, 1985/1999](https://youtu.be/ZcoP3-ProLE?t=238) &rArr;
   [C. C. Catch, 1989](https://youtu.be/Vnw-iFtN5H0?t=180)
@@ -81,8 +81,8 @@ Classical Nonmechanics
 <br>
 
 
-1970s!?
--------
+1970s
+-----
 
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
 
