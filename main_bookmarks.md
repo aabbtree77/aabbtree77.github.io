@@ -9,16 +9,17 @@
 Transitions: I
 --------------
 
+  [BWV 639, 1717](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
+  [Эдуард Артемьев, 1979](https://www.youtube.com/watch?v=fPUxjPVQ6hA)
+  
+  [J. S. Bach, BWV 639](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
+  [C. P. E. Bach, BWV 745](https://www.youtube.com/watch?v=tMp-Ae_5Mhg)
+  
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) &rArr;
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
 
   [My Favorite Things, 1959](https://www.youtube.com/watch?v=28wViKM_Sig) &rArr;
   [Ariana Grande, 2019](https://www.youtube.com/watch?v=QYh6mYIJG2Y) 
-  
-  [Solaris, 1961](https://en.wikipedia.org/wiki/Solaris_(novel)) &rArr;
-  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w) &rArr;
-  [Solaris, 2002](https://www.youtube.com/watch?v=3NOzIqV_XLg) &rArr;
-  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)
 
   [The Hollies, 1974](https://www.youtube.com/watch?v=HkUgpfZ3rjQ) &rArr;
   [Radiohead, 1992](https://www.youtube.com/watch?v=XFkzRNyygfk) &rArr;
@@ -49,14 +50,8 @@ Invariant Functions
 -------------------
 
   [Павел Жилин. Модифицированная теория симметрии тензоров и тензорных инвариантов, 2003](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf)
-
-<br>
-
-
-Mini Age of Empires 1997
-------------------------
-
-  [Amelia Clarke, towerdefense, 2017](https://github.com/rsaihe/towerdefense)
+  
+  [977, 2006](https://youtu.be/aGAI-TCmDbg?t=1587)
 
 <br>
 
@@ -87,6 +82,8 @@ Classical Nonmechanics
   [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
 
   [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
+  
+  [Солярис, 1972](https://www.youtube.com/watch?v=FcglyhUre4w)
 
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
 
