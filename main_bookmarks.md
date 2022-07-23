@@ -10,7 +10,7 @@ Transitions: I
 --------------
 
   [BWV 639, 1717](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
-  [Эдуард Артемьев, 1979](https://www.youtube.com/watch?v=fPUxjPVQ6hA)
+  [Эдуард Артемьев, 1972](https://www.youtube.com/watch?v=fPUxjPVQ6hA)
   
   [J. S. Bach, BWV 639](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
   [C. P. E. Bach, BWV 745](https://www.youtube.com/watch?v=tMp-Ae_5Mhg)
