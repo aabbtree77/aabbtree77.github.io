@@ -6,14 +6,14 @@
 
 <br>
 
-Transitions: I
---------------
+Transitions I
+-------------
 
   [J. S. Bach, BWV 639, 1717](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
   [Эдуард Артемьев, 1972](https://www.youtube.com/watch?v=fPUxjPVQ6hA)
   
   [J. S. Bach, BWV 639](https://www.youtube.com/watch?v=FZUFZjuxmfU) &rArr;
-  [C. P. E. Bach, BWV 745](https://www.youtube.com/watch?v=tMp-Ae_5Mhg)
+  [C. P. E. Bach? BWV 745](https://www.youtube.com/watch?v=tMp-Ae_5Mhg)
   
   [Nat King Cole, 1949](https://www.youtube.com/watch?v=vokjaW1eTGY) &rArr;
   [CeeLo Green, 2009](https://www.youtube.com/watch?v=sNH_qfAuwO0)
@@ -31,8 +31,8 @@ Transitions: I
 <br>
 
 
-Transitions: II
----------------
+Transitions II
+--------------
 
   [C. C. Catch, 1985/1999](https://youtu.be/ZcoP3-ProLE?t=238) &rArr;
   [C. C. Catch, 1989](https://youtu.be/Vnw-iFtN5H0?t=180)
@@ -72,6 +72,8 @@ Classical Nonmechanics
   [Фёдор Достоевский. Бесы, 1872](https://en.wikipedia.org/wiki/Demons_(Dostoevsky_novel))
   
   [Иосиф Бродский. Меньше единицы, 1976](https://en.wikipedia.org/wiki/Joseph_Brodsky#/media/File:Brodskij_Wilno.jpg)
+  
+  [Jia Lissa, Eva Berger, Ally Breelsen, Kira Queen, Lola Taylor, 2020](https://www.youtube.com/watch?v=g9UQ-qdyy_4)
 
 <br>
 
@@ -79,13 +81,7 @@ Classical Nonmechanics
 “All that we see or seem is but a dream within a dream”
 -------------------------------------------------------
 
-  [Du côté d'Orouët, 1971](https://youtu.be/8JbiFS2o5uU?t=3376)
-
-  [Walkabout, 1971](https://youtu.be/Fdqwbs8uKwQ?t=65)
-
   [Picnic at Hanging Rock, 1975](https://youtu.be/-ueVib29wg0?t=1263)
-
-  [The Passenger, 1975](https://www.youtube.com/watch?v=XC08EkLxeFM)
 
   [Девочка и дельфин, 1979](https://www.youtube.com/watch?v=wSDbCLNPnM8)
   
@@ -126,8 +122,8 @@ Rīgas Kinostudija
 <br>
 
 
-Pending
--------
+“What is life but our brains' chemical perception of it?”
+---------------------------------------------------------
   
   <a style="color:#0066cc;" href="https://www.youtube.com/watch?v=xby5467EbdU">Maggot Brain, 1971</a>
 
