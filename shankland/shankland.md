@@ -165,7 +165,7 @@ $$
 
 The eigenvalue multiplicities will have $2s+1$ values. In Shankland's terminology, we obtain a doublet, a triplet, and a quadruplet from the equation above. However, this collection does not constitute three particles. It is one half of the irreducible "spin 3/2" particle $(1,\frac{1}{2}) \oplus (\frac{1}{2},1)$.
 
-I am very vague here, being oblivious to complex vs real, Cartesian vs direct vs Kronecker products, groups vs algebras... The point here is only to show that group theory: (i) allows to verify Shankland's eigenvalue multiplicities, and (ii) indicates that not every multiple eigenvalue is a "separate particle".
+I am very vague here, being oblivious to complex vs real, Cartesian vs direct vs Kronecker products, groups vs algebras... The point here is only to show that group theory: (i) allows to verify Shankland's eigenvalue multiplicities, and (ii) indicates that not every multiple eigenvalue is a "separate particle". The whole group theory/QFT thing is beyond cumbersome. It is hilarious to find out that even Weinberg (!) uses the word **complicated** several times in his QFT Vol 3.
 
 Although not of direct relevance, a human-readable group theory-free way to build invariant cost functions can be found in the works of P.A. Zhilin: [1](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf), [2](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf). It leads to a different kind of irreducibility and "particles".
 

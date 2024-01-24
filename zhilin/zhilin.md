@@ -1,10 +1,12 @@
-# Pavel Andreevich Zhilin: [(2003 Ru)](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf), [(2005 Eng)](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf)
+# [Павел Андреевич Жилин (2003)](https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%BB%D0%B8%D0%BD,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_(%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA))
 
-This is probably the only reasonable work ever written concerning group theory and invariance. Lie's train of thought, in a way. If you are losing oxygen and drowning in complexity after learning some calculus and linear algebra, not knowing where to go next, this could be that narrow escape hatch. Or not.
+[(2003 Ru)](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf), [(2005 Eng)](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf)
+
+If you are losing oxygen and drowning in complexity after learning some calculus and linear algebra, not wanting to go for homological algebra and abstract nonsense, this could be that narrow escape hatch. Or not.
 
 This work is marvelous in how it compresses Lie theory without delving into groups and algebras.
 
-If you ever browsed through group theory, you know how arbitrary and painful it is, starting from very far, making irrelevant detours with bourbakisms, ending nowhere. Even classical works written by John Edward Campbell (1903), Abraham Cohen (1911), and Leonard Eugene Dickson (1924) are too lengthy since they do not have a specific goal. The goal to study groups, algebras, irreps, ODEs or PDEs, QFT, this is not concrete enough. We get math for math people, math-physics, theoretical physics, nuclear physics, and even Lisp/FP symbolic gamma communities, and they often speak different languages. Even such a narrow field such as "higher spin QFT" has way too many formalisms, and they do not get anywhere.
+If you ever browsed through group theory, you know how arbitrary and painful it is, starting from very far, making irrelevant detours with bourbakisms, ending nowhere. Even classical works written by John Edward Campbell (1903), Abraham Cohen (1911), and Leonard Eugene Dickson (1924) are too lengthy since they do not have a specific goal. The goal to study groups, algebras, maps between the two, irreps, ODEs or PDEs, QFT, this is not concrete enough. We get math for math people, math-physics, theoretical physics, nuclear physics, and even Lisp/FP symbolic gamma communities, and they often speak different languages. Even such a narrow field such as "higher spin QFT" has way too many formalisms, and they do not get anywhere.
 
 There is a theorem in Lie theory, which states that an invariant multivariate function $f$ satisfies a necessary and sufficient condition $Gf=0$, where $G$ is the Lie group generator, see e.g. &#167; 68, page 82 in [J. E. Campbell (1903)](https://archive.org/details/introductorytrea00campuoft).
 
