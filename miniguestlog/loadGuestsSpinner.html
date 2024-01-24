@@ -68,10 +68,11 @@
         var dataContainer = document.getElementById("dataContainer");
 
         // Loop through the array and create paragraphs
-        dataArray.forEach(function (item) {
+        dataArray.forEach(function (item, ind) {
           var paragraph = document.createElement("p");
           paragraph.textContent =
-            item.date + " " + item.time + ", " + item.city + ", " + item.country;
+            ind.toString() + ". " + item.date + " " + item.time 
+            + ", " + item.city + ", " + item.country;
           dataContainer.appendChild(paragraph);
         });
       }
