@@ -36,12 +36,13 @@ p {
         display: grid;
         grid-template-columns: repeat(6, 1fr);
         grid-template-rows: repeat(5, 1fr);
+        grid-auto-rows: 20vh;
         grid-template-areas:
             ". . . . about log"
             ". blog blog blog . ."
             ". blog blog blog iron iron"
-            ". . . . iron iron"
-            "french . . . iron iron";
+            ". blog blog blog iron iron"
+            ". . . . iron iron";
         height: 100vh;
         width: 100vw;
         /*content = the grid itself */
@@ -88,7 +89,7 @@ p {
             "blog blog blog blog blog"
             "blog blog blog blog blog"
             "blog blog blog blog blog"
-            ". . french . .";
+            "blog blog blog blog blog";
         height: 100vh;
         width: 100vw;
         /*content = the grid itself */
@@ -130,24 +131,6 @@ p {
     font-size: 2rem;
     color: #abafb6;
 } 
-
-.grid-el-liegroups {
-    grid-area: liegroups;
-    font-size: 2rem;
-    color: #abafb6;
-} 
-
-.grid-el-tensors {
-    grid-area: tensors;
-    font-size: 2rem;
-    color: #abafb6;
-} 
-
-.grid-el-french {
-    grid-area: french;
-    font-size: 3rem;
-    color: #abafb6;
-}  
  
 img {
 		max-width: 100%;

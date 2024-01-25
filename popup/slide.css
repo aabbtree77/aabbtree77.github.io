@@ -1,0 +1,24 @@
+
+.slide {
+  position: relative;
+  bottom: -60vh;
+}
+
+.slide-anim {
+  animation: slideDown 2s linear forwards;
+}
+
+.slide-image {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+@keyframes slideDown {
+  from {
+    bottom: -60vh;
+  }
+  to {
+    bottom: calc(-60vh + 60vh);
+  }
+}
