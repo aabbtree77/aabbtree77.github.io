@@ -2,16 +2,12 @@
 
 [(2003 Ru)](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf), [(2005 Eng)](http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf)
 
-If you are losing oxygen and drowning in complexity after learning some calculus and linear algebra, not wanting to go for homological algebra and abstract nonsense, this could be that narrow escape hatch. Or not.
-
-This work is marvelous in how it compresses Lie theory without delving into groups and algebras.
-
 There is a theorem in Lie theory, which states that an invariant multivariate function $f$ satisfies a necessary and sufficient condition $Gf=0$, where $G$ is the Lie group generator, see e.g. &#167; 68, page 82 in [J. E. Campbell (1903)](https://archive.org/details/introductorytrea00campuoft). Abraham Cohen (1911) and Leonard Eugene Dickson (1924) are also readable (bourbaki-free).
 
-P.A. Zhilin, in a way, extends the theorem by formulating the goal of finding invariant multivariate functions of multiple vectors and matrices. He then establishes the solution chain: from the functional equation to the first-order linear partial differential equation, followed by the characteristic ordinary differential equation system and ultimately leading to conserved integrals serving as invariants. 
+P.A. Zhilin extends the theorem to the functions of multiple vectors and matrices. He establishes the solution chain: from the functional equation to the first-order linear partial differential equation, followed by the characteristic ordinary differential equation system and ultimately leading to conserved integrals serving as invariants. 
 
-There is one unexpected creativity moment in solving the functional equation - by introducing time. At this stage, I would differentiate w.r.t. all the rotation matrix elements independently and then quickly become lost. P.A. Zhilin uses only a single parameter and the matrix exponential, the way single-argument Taylor series have been generalized to the multivariate case.
+The functional equation is solved with a trick which gives a single weight to multiple parameters. I would have differentiated w.r.t. all the rotation matrix elements independently, only to become lost. I have seen this trick in use before: when evaluating sparse matrix determinants, and when extending a single-argument Taylor series to the multivariate case.
 
-The resulting Zhilin’s PDE is still messy since there are some group parameters left. One may or may not get rid of them. Solving such a PDE is not trivial and not much exposed in his work. However, notice that such a jump to the multivariate case of multiple transforming objects brings no systems of PDEs to solve. There is only one dependent variable with all the vectors and matrices acting as independent ones. The PDE is linear and homogeneous. 
+The resulting Zhilin’s PDE is still messy since one may or may not get rid of the group parameters. However, notice that such a jump to the case of multiple transforming objects of different types (vectors, matrices) brings no systems of PDEs to solve. There is only one dependent variable with all the vectors and matrices acting as independent ones. The PDE is linear and homogeneous. 
 
-P.A. Zhilin belonged to a theoretical mechanics community, nonlinear elasticity, the “Rivlin-Spencer" line. Paradoxically, this is the only place where I have found a decent answer to how one constructs invariant functions. I can better sleep at night now.
+P.A. Zhilin belonged to theoretical mechanics. Paradoxically, this is the only place where I have found the way to construct invariant functions.

@@ -21,7 +21,7 @@ func check(e error) {
 
 func main() {
 
-	inputNames := []string{"about", "french", "shankland", "zhilin", "shpagin"}
+	inputNames := []string{"about", "contact", "french", "shankland", "zhilin", "shpagin"}
 
 	// Create empty lists
 	inputFiles := make([]string, len(inputNames))
@@ -33,11 +33,11 @@ func main() {
 		
 		inputFiles[i] = name + "/" + name + ".md"
 		
-		if i==0 {
+		if ((i==0) || (i==1)) {
 		    templateFiles[i] = "templates/" + name + "_template.html"
-		} else if i==1 {
+		} else if i==2 {
 		    templateFiles[i] = "templates/" + "notransl_article" + "_template.html"
-		} else if ((i==2) || (i==3)) {
+		} else if ((i==3) || (i==4)) {
 		    templateFiles[i] = "templates/" + "math_article" + "_template.html"    
 		} else {
 		    templateFiles[i] = "templates/" + "article" + "_template.html"
