@@ -34,15 +34,15 @@ p {
 @media only screen and (min-width: 1024px) {
     .grid-global-page-layout-container {
         display: grid;
-        grid-template-columns: repeat(6, 1fr);
+        grid-template-columns: repeat(7, 1fr);
         grid-template-rows: repeat(5, 1fr);
         grid-auto-rows: 20vh;
         grid-template-areas:
-            ". . . contact about log"
-            ". blog blog blog . ."
-            ". blog blog blog iron iron"
-            ". blog blog blog iron iron"
-            ". . . . iron iron";
+            ". . . . . infobar infobar"
+            ". blog blog blog . . ."
+            ". blog blog blog . iron iron"
+            ". blog blog blog . iron iron"
+            ". . . . . iron iron";
         height: 100vh;
         width: 100vw;
         /*content = the grid itself */
@@ -66,21 +66,31 @@ p {
         align-items: center;
     } 
     
-    .grid-el-log {
-        grid-area: log;
+    .grid-el-infobar {
+        grid-area: infobar;
         font-size: 3rem;
+        color: #abafb6;
+
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+    } 
+    
+    .grid-el-log {
+        font-size: 2rem;
         color: #abafb6;
     } 
     
     .grid-el-about {
-        grid-area: about;
-        font-size: 3rem;
+        font-size: 2rem;
         color: #abafb6;
     }  
     
     .grid-el-contact {
-        grid-area: contact;
-        font-size: 3rem;
+        font-size: 2rem;
         color: #abafb6;
     }  
 }
@@ -91,7 +101,7 @@ p {
         grid-template-columns: repeat(5, 1fr);
         grid-template-rows: repeat(5, 1fr);
         grid-template-areas:
-            ". . contact about log"
+            ". infobar infobar infobar ."
             "blog blog blog blog blog"
             "blog blog blog blog blog"
             "blog blog blog blog blog"
@@ -110,20 +120,30 @@ p {
         display: none;
     }
     
+    .grid-el-infobar {
+        grid-area: infobar;
+        font-size: 3rem;
+        color: #abafb6;
+
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+    } 
+    
     .grid-el-log {
-        grid-area: log;
         font-size: 2rem;
         color: #abafb6;
     } 
     
     .grid-el-about {
-        grid-area: about;
         font-size: 2rem;
         color: #abafb6;
     }  
     
     .grid-el-contact {
-        grid-area: contact;
         font-size: 2rem;
         color: #abafb6;
     }  
