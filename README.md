@@ -99,8 +99,23 @@ My github "workflow":
     ```
 
     Here "main" can sometimes become "master" depending on what "git remote show origin" indicates.
+    
+- A custom domain on github pages with the source branch "main" adds a file CNAME to remotes/origin/main, which results in the push failure with the message
 
-- Rewind to a particular commmit in the **additional local copy** of the repo:
+    ```
+    Updates were rejected because the remote contains work that you do not have locally.     
+    ```
+
+    Run
+
+    ```
+    git config pull.rebase false
+    git pull origin main
+    ```
+
+    One can set "git config pull.rebase true", it does not matter, what changes is only the commit history, not the result.
+
+- Sometimes this is also useful: Rewind to a particular commmit in the **additional local copy** of the repo:
 
     ```console
     git log --pretty=format:"%h - %ad : %s"
