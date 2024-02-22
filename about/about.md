@@ -16,7 +16,7 @@ Since 2014 I have been living in Vilnius, aiming to improve my software engineer
 
 # Skills 
 
-1999 - 2014: Matlab, Scilab, LaTeX. 
+1999 - 2014: Matlab, LaTeX. 
 
 Math: Linear algebra, calculus.
 
@@ -32,15 +32,15 @@ Math: [Box method](https://en.wikipedia.org/wiki/Grid_method_multiplication) and
 
 Vilnius, Now
 
-Working towards a web service which would help teachers automate student testing. Still in the early stages. The MERN stack.
+Building a web service which would help teachers automate student testing. Still in the early stages. The MERN stack.
 
 <br>
 
-## [lawtrust.eu: Modernization of lawlt.eu (Tailwind CSS, Go, Deepl)](https://github.com/aabbtree77/law2)
+## [[lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) Modernized (Tailwind CSS, Go, Deepl)](https://github.com/aabbtree77/law2)
 
 Vilnius, 2024
 
-Tailwind CSS, and Go string substitution to load the text adaptively in nine different languages. Two real business problems solved: (i) HTTPS instead of HTTP, and (ii) removing a paid CMS-based hosting. Porkbun.com and github pages.
+Tailwind CSS, and Go string substitution applied to build a multilingual website (in nine different languages). Two problems solved: (i) HTTPS instead of HTTP, and (ii) removing a paid CMS-based hosting. Porkbun.com and github pages.
 
 <br>
 
@@ -56,7 +56,7 @@ A MERN app to log the geolocation of the last 50 visitors of this homepage, uses
 
 Vilnius, 2020 - 2024
 
-A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a microcontroller code in C (avr-gcc).
+A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I have been writing a microcontroller code in C (avr-gcc).
 
 <br>
 
@@ -76,15 +76,11 @@ Volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](h
 
 <br>
 
-## [Tensor Fields](https://aabbtree77.github.io/shankland/shankland.html)
+## [Tensor Algebras](https://aabbtree77.github.io/shankland/shankland.html)
 
-Vilnius, 2015 - 2020. I wasted a lot of time trying to reach some tougher corners of physics and math, corresponded with my Finnish buddy mathematician Elia Liitiäinen. See a brief summary in my self-published blog article. The wave-particle duality does not get any easier one hundred years later. I ventured into tensor field theories, learned about one structure which is not in textbooks (the tensor algebra), got lost with spinors.
+Vilnius, 2015 - 2020. Verified several tensor algebras of Donn G. Shankland, got lost with spinors.
 
-Sophus Lie, Felix Klein, Henri Poincaré... [Alexander Smirnov](https://youtu.be/TUrEmrd28vQ?t=376), [Roman Mikhailov](https://www.youtube.com/watch?v=cBql9QFhjCA).
-
-"Après la montagne, il y a la montagne" 
-
-&#8722; [Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
+["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
 <br>
 
@@ -92,13 +88,13 @@ Sophus Lie, Felix Klein, Henri Poincaré... [Alexander Smirnov](https://youtu.be
 
 Vilnius, 2014 - 2015, 2020. A confirmation that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition, reproducible research!
 
-I have been testing some related models with the MNIST-like data sets since 1999, my BSc times when guided by Dalius Navakauskas in Vilnius. Retrospectively, MNIST is not as interesting as CIFAR, but all that got solved with AlexNet-2012, leaving very little to further research. 
+The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. Retrospectively, MNIST is not as interesting as CIFAR, but all that got solved with AlexNet-2012, leaving very little to further research. 
 
 Lately, unexpectedly powerful deep networks have emerged: Transformers-BERT-ChatGPT, AlphaGo/Zero, AlphaFold, Stable Diffusion, but these great experiments/systems one can count on fingers. [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) share some insights about the failures in this field as well (in Russian).
 
 <br> 
 
-## [3D Shape Normalization (MATLAB)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015)
+## [3D Shape Normalization (Matlab)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015)
 
 PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
