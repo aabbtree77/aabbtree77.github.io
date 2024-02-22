@@ -36,11 +36,11 @@ Building a web service which would help teachers automate student testing. Still
 
 <br>
 
-## [[lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) Modernized (Tailwind CSS, Go, Deepl)](https://github.com/aabbtree77/law2)
+## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) Modernized [(Tailwind CSS, Go, Deepl)](https://github.com/aabbtree77/law2)
 
 Vilnius, 2024
 
-Tailwind CSS, and Go string substitution applied to build a multilingual website (in nine different languages). Two problems solved: (i) HTTPS instead of HTTP, and (ii) removing a paid CMS-based hosting. Porkbun.com and github pages.
+Tailwind CSS, and Go string substitution applied to build a multilingual website (in nine different languages). Two major problems solved: (i) Enforced HTTPS instead of HTTP, and (ii) removed a paid CMS-based hosting. Porkbun.com and github pages.
 
 <br>
 
