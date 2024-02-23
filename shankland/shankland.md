@@ -1,6 +1,6 @@
 # [Donn G. Shankland (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018)
 
-What a mess. [Donn G. Shankland (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018) reveals one way to parse mysterious phrases such as (i) "tensor fields contain irreducible representations of the Lorentz group", (ii) "antisymmetric two-tensor field can carry two particle triplets", and (iii) "a free-field equation is nothing but an invariant record of which components are superfluous". I will add here a few notes that might help one to decipher this paper. 
+[Donn G. Shankland (1970)](https://aapt.scitation.org/doi/10.1119/1.1976018) reveals one way to parse mysterious phrases such as (i) "tensor fields contain irreducible representations of the Lorentz group", (ii) "antisymmetric two-tensor field can carry two particle triplets", and (iii) "a free-field equation is nothing but an invariant record of which components are superfluous". I will add here a few notes that might help one to decipher this paper. 
 
 An archetypical problem that ChatGPT cannot solve: Given the [four-vector](https://en.wikipedia.org/wiki/Four-vector) $k_{\mu}$ and [the metric tensor](https://en.wikipedia.org/wiki/Metric_tensor) $g_{\mu\nu}$, write down the most general dimensionless tensor ${T_{\mu\nu}}^{\rho \sigma}$ symmetric under the permutations of the covariant indices $(\mu, \nu)$, and also symmetric w.r.t. the permutations of contravariant indices $(\rho, \sigma)$. It should be a sum of linearly independent terms, each with a manifest symmetry, and at most fourth order in $k_{\mu}$.
 
@@ -28,6 +28,7 @@ $$
 e^{\mu}\otimes e^{\nu}\otimes e_{\rho}\otimes e_{\sigma}\,,
 \end{align}
 $$
+
 with the implied summation over repeated indices. Thus, each $X_{i}$ can be seen as the sum of 256 matrices of size 16x16. Here one can assume that the upper/lower index corresponds to the row/column vector, resp. 
 
 [The Kronecker product](https://en.wikipedia.org/wiki/Kronecker_product) has an interesting property:
