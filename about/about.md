@@ -26,7 +26,7 @@ Math: [Box method](https://en.wikipedia.org/wiki/Grid_method_multiplication) and
 
 <br>
 
-# Selected Projects (Portfolio)
+# Selected Projects
 
 ## 
 
@@ -38,7 +38,7 @@ Building a web service which would help teachers automate student testing. Still
 
 ## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) Modernized [(Tailwind CSS, Go, Deepl)](https://github.com/aabbtree77/law2)
 
-Vilnius, 2024
+Vilnius, 2024.
 
 Tailwind CSS, and Go string substitution applied to build a multilingual website (in nine different languages). Two major problems solved: (i) Enforced HTTPS instead of HTTP, and (ii) removed a paid CMS-based hosting. Porkbun.com and github pages.
 
@@ -46,7 +46,7 @@ Tailwind CSS, and Go string substitution applied to build a multilingual website
 
 ## [Web-Log (MERN)](https://github.com/aabbtree77/miniguestlog)
 
-Vilnius, 2023-2024
+Vilnius, 2023-2024.
 
 A MERN app to log the geolocation of the last 50 visitors of this homepage, uses MongoDB Atlas services.
 
@@ -54,9 +54,9 @@ A MERN app to log the geolocation of the last 50 visitors of this homepage, uses
 
 ## [Repairing Paper Guillotine (Embedded C)](https://github.com/aabbtree77/adast)
 
-Vilnius, 2020 - 2024
+Vilnius, 2020 - 2024.
 
-A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I have been writing a microcontroller code in C (avr-gcc).
+A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a complete working microcontroller code in C (avr-gcc) from scratch.
 
 <br>
 
@@ -64,13 +64,13 @@ A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real 
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). The main question addressed: "How do you send a message to any computer without intermediate servers and permanent IP addresses?" My tests of the P2P network other than torrents.
+A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). The main question addressed: "How do you send a message to any computer without intermediate servers and permanent IP addresses?" Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).
 
 <br> 
 
 ## [Volumetrically-Lit Sponza (Go, Nim)](https://github.com/aabbtree77/twinpeekz)
 
-Vilnius, 2021.
+Vilnius, 2020 - 2021.
 
 Volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). A chance to be like Vermeer. The biggest show stoppers are OpenGL and Vulkan.
 
@@ -78,7 +78,9 @@ Volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](h
 
 ## [Tensor Algebras](https://aabbtree77.github.io/shankland/shankland.html)
 
-Vilnius, 2015 - 2020. Verified several tensor algebras of Donn G. Shankland, got lost with spinors.
+Vilnius, 2015 - 2020. 
+
+Verified several tensor algebras of Donn G. Shankland, got lost with spinors and QFT.
 
 ["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
@@ -86,11 +88,13 @@ Vilnius, 2015 - 2020. Verified several tensor algebras of Donn G. Shankland, got
 
 ## [MNIST-0.17 (Python)](https://github.com/aabbtree77/MNIST-0.17)
 
-Vilnius, 2014 - 2015, 2020. A confirmation that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition, reproducible research!
+Vilnius, 2014 - 2015, 2020. 
 
-The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. Retrospectively, MNIST is not as interesting as CIFAR, but all that got solved with AlexNet-2012, leaving very little to further research. 
+Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition. A reproducible research!
 
-Lately, unexpectedly powerful deep networks have emerged: Transformers-BERT-ChatGPT, AlphaGo/Zero, AlphaFold, Stable Diffusion, but these great experiments/systems one can count on fingers. [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) share some insights about the failures in this field as well (in Russian).
+The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but all that got solved with AlexNet-2012 unexpectedly anyway, leaving very little space to a further research. 
+
+Lately, very powerful deep networks have emerged: Transformers-BERT-ChatGPT, AlphaGo/Zero, AlphaFold, Stable Diffusion, but these great experiments/systems one can count on fingers. [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) share some insights about the failures in this field as well (in Russian).
 
 <br> 
 
@@ -99,7 +103,7 @@ Lately, unexpectedly powerful deep networks have emerged: Transformers-BERT-Chat
 PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
 
-Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry, but we all missed new possibilities with deep learning which were yet to come and were a lot more important.
+Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry, but we all missed new possibilities with deep learning.
 
 I remember playing a lot with [the protein data bank](https://www.rcsb.org/), trying to get things more physical and low dimensional, assuming the atomic locations are erroneous and those MDS-like methods would help cleaning them up, reading some stochastic gradient descent theory, but this was boring and irrelevant. A few years later I would learn about AlphaFold and know what I was missing. Too late.
 
@@ -111,7 +115,7 @@ PostDoc Chronicles 2: Saint-Étienne, 2012-2013.
 
 Optimization of the fluid flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf).
 
-This was a special time as new French cloud computing networks were emerging. It took some effort just to be able to run things on the PACA cloud, but once the projected ended, we all got disconnected, including the project leader Rodolphe Le Riche.
+This was a special time as new French cloud computing networks were emerging. It took some effort just to be able to run a code on the PACA cloud, but once the projected ended, we all got disconnected, including the project leader Rodolphe Le Riche.
 
 <br> 
  
@@ -154,7 +158,7 @@ It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)**
 
 May 2000.
 
-After starting my first job at the CIS lab in Finland (working with Jorma Laaksonen), I wrote a parser within the first two weeks. It loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of "fscanf" with a few loops to read data as it was written, no recursions. **I think this was the only useful research code that I have ever produced.** 
+After starting my first job at the CIS lab in Finland (working with Jorma Laaksonen), I wrote a parser within the first two weeks. It loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of "fscanf" with a few loops to read data as it was written, no recursions. I think this was the only useful research code that I have ever produced.
 
 <br>
 
