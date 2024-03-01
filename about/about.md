@@ -32,7 +32,7 @@ Math: [Box method](https://en.wikipedia.org/wiki/Grid_method_multiplication) and
 
 Vilnius, Now
 
-Building a web service which would help teachers automate student testing. Still in the early stages. The MERN stack.
+Building a web service which would help teachers automate student testing. Still in the early stages, evaluating [Next with Clerk and Convex](https://www.youtube.com/watch?v=27hMNWcsa-Y).
 
 <br>
 
@@ -40,7 +40,7 @@ Building a web service which would help teachers automate student testing. Still
 
 Vilnius, 2024.
 
-Tailwind CSS, and Go string substitution applied to build a multilingual website (in nine different languages). Two major problems solved: (i) Enforced HTTPS instead of HTTP, and (ii) removed a paid CMS-based hosting. Porkbun.com and github pages.
+Applied Tailwind CSS and Go string substitution to build a multilingual website for a lawyer who speaks nine different languages. Porkbun.com and github pages.
 
 <br>
 
@@ -48,7 +48,7 @@ Tailwind CSS, and Go string substitution applied to build a multilingual website
 
 Vilnius, 2023-2024.
 
-A MERN app to log the geolocation of the last 50 visitors of this homepage, uses MongoDB Atlas services.
+A MERN app to log geolocation of the last 50 visitors of this homepage. It uses MongoDB Atlas as a database, render.com for a server (cold starts...), and github pages (frontend).
 
 <br>
 
@@ -56,7 +56,7 @@ A MERN app to log the geolocation of the last 50 visitors of this homepage, uses
 
 Vilnius, 2020 - 2024.
 
-A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a complete working microcontroller code in C (avr-gcc) from scratch.
+A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a complete microcontroller code in C (avr-gcc), from scratch.
 
 <br>
 
@@ -64,15 +64,15 @@ A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real 
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). The main question addressed: "How do you send a message to any computer without intermediate servers and permanent IP addresses?" Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).
+A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). The main question addressed: "How do you send a message to any computer/board without intermediate servers and permanent IP addresses?" Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p). The first encounter with Web3.
 
 <br> 
 
-## [Volumetrically-Lit Sponza (Go, Nim)](https://github.com/aabbtree77/twinpeekz)
+## [Volumetrically-Lit Sponza (Go, Nim)](https://github.com/aabbtree77/twinpeekz2)
 
 Vilnius, 2020 - 2021.
 
-Volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume).
+Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Light is a very interesting object, even without electrodynamic and quantum phenomena. The volumetric light method is computationally very demanding, 3D backends are horrid.
 
 <br>
 
@@ -92,20 +92,18 @@ Vilnius, 2014 - 2015, 2020.
 
 Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition. A reproducible research!
 
-The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but all that got solved with AlexNet-2012 unexpectedly anyway, leaving very little space to a further research. 
+The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but an entire image recognition problem got solved with AlexNet-2012, unexpectedly.
 
-Lately, very powerful deep networks have emerged: Transformers-BERT-ChatGPT, AlphaGo/Zero, AlphaFold, Stable Diffusion, but these great experiments/systems one can count on fingers. [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) share some insights about the failures in this field as well (in Russian).
+Starting around 2017 some very powerful deep networks emerge: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion, but these great experiments/systems one can still count with fingers. We can also no longer train anything interesting with a budget GPU, can we?! [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
 
 <br> 
 
 ## [3D Shape Normalization (Matlab)](https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015)
 
-PostDoc Chronicles 3: Lugano, 2013-2014. I managed to map the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
+PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
 
-Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry, but we all missed new possibilities with deep learning.
-
-I remember playing a lot with [the protein data bank](https://www.rcsb.org/), trying to get things more physical and low dimensional, assuming the atomic locations are erroneous and those MDS-like methods would help cleaning them up, reading some stochastic gradient descent theory, but this was boring and irrelevant. A few years later I would learn about AlphaFold and know what I was missing. Too late.
+Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming the atomic locations were erroneous and the MDS-like methods would help cleaning them up, stuyding the theory of stochastic gradient to reduce the complexity of the MDS updates. This was a wrong turn. A few years later I would learn about AlphaFold and know what I was missing. Too late.
 
 <br>
 
@@ -113,9 +111,9 @@ I remember playing a lot with [the protein data bank](https://www.rcsb.org/), tr
 
 PostDoc Chronicles 2: Saint-Étienne, 2012-2013. 
 
-Optimization of the fluid flow implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as a meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf).
+Optimization of the fluid flow which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as the meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf).
 
-This was a special time as new French cloud computing networks were emerging. It took some effort just to be able to run a code on the PACA cloud, but once the projected ended, we all got disconnected, including the project leader Rodolphe Le Riche.
+This was a special time as new French cloud computing networks were emerging. It took some effort to run the code on the PACA cloud, but once the project ended, we all got disconnected, including the project leader Rodolphe Le Riche.
 
 <br> 
  
@@ -123,13 +121,9 @@ This was a special time as new French cloud computing networks were emerging. It
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. 
 
-Experimental Neurobiology of the Eye Retina was not a good fit for my background, but what choice did I have? Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the report (link below) came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called "syzygies", but algebraic geometry was beyond me.
+Neurobiology... Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called "syzygies", but algebraic geometry was beyond me.
 
-Five years later I would find similarly lost souls in Switzerland. The same type of hopeless quadratically-constrained quadratic-cost problems, in shape normalization and triangulation.
-
-The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on TV, without a machine gun, speaking about fiscal something. The death of Michael Jackson.
-
-In words of William Sydney Porter aka O. Henry: "A certain poor man made a feast."
+The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on TV, without a machine gun, reporting about a fiscal quarter. The death of Michael Jackson. My neighbor was hit with a baseball bat by the robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay.
 
 <br> 
  
@@ -158,7 +152,7 @@ It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)**
 
 May 2000.
 
-After starting my first job at the CIS lab in Finland (working with Jorma Laaksonen), I wrote a parser within the first two weeks. It loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of "fscanf" with a few loops to read data as it was written, no recursions. I think this was the only useful research code that I have ever produced.
+After starting my first job at the CIS lab in Finland (working with Jorma Laaksonen), I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but I believe it was the only useful research code that I ever wrote.
 
 <br>
 

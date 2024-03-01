@@ -36,6 +36,8 @@
 
 [Subway (1985)](https://www.imdb.com/title/tt0090095/)
 
+[L'amour braque (1985)](https://www.imdb.com/title/tt0088714/)
+
 [Mauvais sang (1986)](https://www.imdb.com/title/tt0091497/)
 
 [L'ami de mon amie (1987)](https://www.imdb.com/title/tt0092550/)
@@ -87,6 +89,8 @@
 [Le pacte des loups (2001)](https://www.imdb.com/title/tt0237534/)
 
 [L'esquive (2003)](https://www.imdb.com/title/tt0338977/)
+
+[Lila dit ça (2004)](https://www.imdb.com/title/tt0424237/)
 
 [De battre mon coeur s'est arrêté (2005)](https://www.imdb.com/title/tt0411270/)
 
