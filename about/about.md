@@ -12,31 +12,27 @@
 
 I studied electrical engineering in Vilnius (Lithuania) from 1994 to 1999, followed by research in [machine learning](https://ieeexplore.ieee.org/document/1555991) and [industrial optimization](https://hal.archives-ouvertes.fr/hal-00723427). See my [résumé](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf) or [CV](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf) for more details.
 
-Since 2014 I have been living in Vilnius, aiming to improve my software engineering skills. Take a look at some of my reports on [github](https://github.com/aabbtree77?tab=repositories): [Factory Repairs](https://github.com/aabbtree77/adast), [Reliable IoT (Towards...)](https://github.com/aabbtree77/esp32-vpn), [Volumetric Light in OpenGL](https://github.com/aabbtree77/twinpeekz2).
+Since 2014 I have been living in Vilnius, aiming to improve my software engineering skills. Take a look at some of my reports on [github](https://github.com/aabbtree77?tab=repositories).
 
 # Skills 
 
-1999 - 2014: Matlab, LaTeX. 
+1999 - 2014: Matlab, LaTeX. Math: Linear algebra, calculus.
 
-Math: Linear algebra, calculus.
-
-2014 - Now: HTML, CSS, Tailwind CSS, JavaScript, MERN. A bit of C (avr-gcc), C++ (3D libs, OpenGL), Go (libp2p), Python (Matplotlib, PyTorch, Blender), git. 
-
-Math: [Box method](https://en.wikipedia.org/wiki/Grid_method_multiplication) and its [inverse](https://youtu.be/z5-EEkgnvAY?t=1077).
+2014 - Now: HTML, CSS, Js. A bit of C (avr-gcc), C++ (3D libs, OpenGL), Go (libp2p), Python (Matplotlib, PyTorch, Blender), git.  Math: [Box method](https://en.wikipedia.org/wiki/Grid_method_multiplication) and its [inverse](https://youtu.be/z5-EEkgnvAY?t=1077).
 
 <br>
 
 # Selected Projects
 
-## 
+## Work in Progress
 
-Vilnius, Now
+Vilnius, Now.
 
 Building a web service which would help teachers automate student testing. Still in the early stages, evaluating [Next with Clerk and Convex](https://www.youtube.com/watch?v=27hMNWcsa-Y).
 
 <br>
 
-## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) Modernized [(Tailwind CSS, Go, Deepl)](https://github.com/aabbtree77/law2)
+## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) [Improved](https://github.com/aabbtree77/law2)
 
 Vilnius, 2024.
 
@@ -44,15 +40,15 @@ Applied Tailwind CSS and Go string substitution to build a multilingual website 
 
 <br>
 
-## [Web-Log (MERN)](https://github.com/aabbtree77/miniguestlog)
+## [Web-Log](https://github.com/aabbtree77/miniguestlog)
 
 Vilnius, 2023-2024.
 
-A MERN app to log geolocation of the last 50 visitors of this homepage. It uses MongoDB Atlas as a database, render.com for a server (cold starts...), and github pages (frontend).
+A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas as a database, render.com for a server, and github pages (frontend).
 
 <br>
 
-## [Repairing Paper Guillotine (Embedded C)](https://github.com/aabbtree77/adast)
+## [Paper Guillotine](https://github.com/aabbtree77/adast)
 
 Vilnius, 2020 - 2024.
 
@@ -60,11 +56,11 @@ A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real 
 
 <br>
 
-##  [Global Connectivity (P2P)](https://github.com/aabbtree77/esp32-vpn)
+##  [P2P Connectivity](https://github.com/aabbtree77/esp32-vpn)
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). The main question addressed: "How do you send a message to any computer/board without intermediate servers and permanent IP addresses?" Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p). The first encounter with Web3.
+A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).
 
 <br> 
 
@@ -72,7 +68,7 @@ A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mos
 
 Vilnius, 2020 - 2021.
 
-Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Light is a very interesting object, even without electrodynamic and quantum phenomena. The volumetric light method is computationally very demanding, 3D backends are horrid.
+Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). The volumetric light method is computationally very demanding, 3D backends are horrid.
 
 <br>
 
@@ -94,7 +90,7 @@ Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in
 
 The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but an entire image recognition problem got solved with AlexNet-2012, unexpectedly.
 
-Starting around 2017 some very powerful deep networks emerge: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion, but these great experiments/systems one can still count with fingers. We can also no longer train anything interesting with a budget GPU, can we?! [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
+Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion, but these great experiments/systems one can still count with fingers. We can also no longer get anything interesting with a budget GPU, can we?! [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
 
 <br> 
 
@@ -103,7 +99,7 @@ Starting around 2017 some very powerful deep networks emerge: Transformers-BERT-
 PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
 
-Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming the atomic locations were erroneous and the MDS-like methods would help cleaning them up, stuyding the theory of stochastic gradient to reduce the complexity of the MDS updates. This was a wrong turn. A few years later I would learn about AlphaFold and know what I was missing. Too late.
+Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them up, stuyding the theory of stochastic gradient to reduce the complexity of the MDS updates. This was a wrong turn. A few years later I would learn about AlphaFold and know what I was missing.
 
 <br>
 
