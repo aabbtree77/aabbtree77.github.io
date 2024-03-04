@@ -10,7 +10,7 @@
 
 # Introduction
 
-I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer. Take a look at some of my work: [3D effects](https://github.com/aabbtree77/twinpeekz2), [embedded software](https://github.com/aabbtree77/adast), [IoT with P2P](https://github.com/aabbtree77/esp32-vpn), and [web development](https://github.com/aabbtree77/law2). Please download my CV or resume files (links above), or better read a more informal online summary below.
+I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer. Take a look at some of my work: [3D effects](https://github.com/aabbtree77/twinpeekz2), [embedded software](https://github.com/aabbtree77/adast), [IoT with P2P](https://github.com/aabbtree77/esp32-vpn), and [web development](https://github.com/aabbtree77/law2).
 
 <br>
 
@@ -20,13 +20,9 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate student testing. Still in the early stages evaluating various tech stacks. 
+Building a web service which would help teachers automate student testing. Still in the early stages evaluating technology stacks. 
 
-[Next with Clerk and Convex](https://www.youtube.com/watch?v=27hMNWcsa-Y) would be ideal, if not for the truth that Clerk is insanely expensive or even dangerous with its 2-cents-per-user-month after 10K users. Assume a teacher works with 300 monthly authenticated users (MAUs). 100 teachers = 30100 MAUs, (30100-10000)*2 cents=20100*2=402 USD extra monthly payment. 1000 teachers: (301000-10000)*2 cents = 5820 USD extra monthly payment! 
-
-Imagine Thibault Duplessis, the creator of lichess.org, used Clerk to authenticate 4M users. We would not have lichess.org at all.
-
-These estimates will also hold for any Clerk-authenticated web app with a 301:1 user conversion rate. Wonderful DX: React components, integration with Convex, multi-tenancy, youtube tutorials (brilliant marketing), the authentication problem is solved. Except it is not. 
+[Next with Clerk and Convex](https://www.youtube.com/watch?v=27hMNWcsa-Y) would be ideal, if not for the truth that Clerk is insanely expensive. As zenmasterdev has succinctly put it on Reddit: "Not every user is paying you, but you will be paying for every user". 
 
 TBC...
  
