@@ -3,22 +3,14 @@
 [Contact](https://aabbtree77.github.io/contact/contact.html), [Github](https://github.com/aabbtree77?tab=repositories), [Résumé](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [CV](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
 
 <div style="display: flex; justify-content: flex-start">
-  <div style="font-size: 1rem;">Last Update: January 2024</div>
+  <div style="font-size: 1rem;">Last Update: March 2024</div>
 </div>
 
 **"For the record, I'm not a vagrant. I'm a hobo." - [Reacher (2022)](https://screenrant.com/why-reacher-hobo-not-vagrant/)**
 
 # Introduction
 
-I studied electrical engineering in Vilnius (Lithuania) from 1994 to 1999, followed by research in [machine learning](https://ieeexplore.ieee.org/document/1555991) and [industrial optimization](https://hal.archives-ouvertes.fr/hal-00723427). See my [résumé](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf) or [CV](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf) for more details.
-
-Since 2014 I have been living in Vilnius, aiming to improve my software engineering skills. Take a look at some of my reports on [github](https://github.com/aabbtree77?tab=repositories).
-
-# Skills 
-
-1999 - 2014: Matlab, LaTeX. Math: Linear algebra, calculus.
-
-2014 - Now: HTML, CSS, Js. A bit of C (avr-gcc), C++ (3D libs, OpenGL), Go (libp2p), Python (Matplotlib, PyTorch, Blender), git.  Math: [Box method](https://en.wikipedia.org/wiki/Grid_method_multiplication) and its [inverse](https://youtu.be/z5-EEkgnvAY?t=1077).
+I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer. Take a look at some of my work: [3D effects](https://github.com/aabbtree77/twinpeekz2), [embedded software](https://github.com/aabbtree77/adast), [IoT with P2P](https://github.com/aabbtree77/esp32-vpn), and [web development](https://github.com/aabbtree77/law2). Please download my CV or resume files (links above), or better read a more informal online summary below.
 
 <br>
 
@@ -28,8 +20,16 @@ Since 2014 I have been living in Vilnius, aiming to improve my software engineer
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate student testing. Still in the early stages, evaluating [Next with Clerk and Convex](https://www.youtube.com/watch?v=27hMNWcsa-Y).
+Building a web service which would help teachers automate student testing. Still in the early stages evaluating various tech stacks. 
 
+[Next with Clerk and Convex](https://www.youtube.com/watch?v=27hMNWcsa-Y) would be ideal, if not for the truth that Clerk is insanely expensive or even dangerous with its 2-cents-per-user-month after 10K users. Assume a teacher works with 300 monthly authenticated users (MAUs). 100 teachers = 30100 MAUs, (30100-10000)*2 cents=20100*2=402 USD extra monthly payment. 1000 teachers: (301000-10000)*2 cents = 5820 USD extra monthly payment! 
+
+Imagine Thibault Duplessis, the creator of lichess.org, used Clerk to authenticate 4M users. We would not have lichess.org at all.
+
+These estimates will also hold for any Clerk-authenticated web app with a 301:1 user conversion rate. Wonderful DX: React components, integration with Convex, multi-tenancy, youtube tutorials (brilliant marketing), the authentication problem is solved. Except it is not. 
+
+TBC...
+ 
 <br>
 
 ## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) [Improved](https://github.com/aabbtree77/law2)
@@ -44,7 +44,7 @@ Applied Tailwind CSS and Go string substitution to build a multilingual website 
 
 Vilnius, 2023-2024.
 
-A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas as a database, render.com for a server, and github pages (frontend).
+A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas as a database, render.com for a server, github pages (frontend). ipify.org and geoip-lite API for the GeoLite data from MaxMind.
 
 <br>
 
@@ -52,7 +52,7 @@ A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB 
 
 Vilnius, 2020 - 2024.
 
-A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a complete microcontroller code in C (avr-gcc), from scratch.
+A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a microcontroller code in C (avr-gcc).
 
 <br>
 
@@ -60,15 +60,15 @@ A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real 
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).
+A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).
 
 <br> 
 
 ## [Volumetrically-Lit Sponza (Go, Nim)](https://github.com/aabbtree77/twinpeekz2)
 
-Vilnius, 2020 - 2021.
+Vilnius, 2020 - 2022.
 
-Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). The volumetric light method is computationally very demanding, 3D backends are horrid.
+Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume).
 
 <br>
 
@@ -76,7 +76,7 @@ Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz)
 
 Vilnius, 2015 - 2020. 
 
-Verified several tensor algebras of Donn G. Shankland, got lost with spinors and QFT.
+Verified several tensor algebras of Donn G. Shankland, got lost with spinors.
 
 ["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
@@ -90,7 +90,7 @@ Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in
 
 The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but an entire image recognition problem got solved with AlexNet-2012, unexpectedly.
 
-Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion, but these great experiments/systems one can still count with fingers. We can also no longer get anything interesting with a budget GPU, can we?! [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
+Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion... [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
 
 <br> 
 
@@ -99,7 +99,7 @@ Starting around 2017 some very powerful deep networks appear: Transformers-BERT-
 PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
 
-Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them up, stuyding the theory of stochastic gradient to reduce the complexity of the MDS updates. This was a wrong turn. A few years later I would learn about AlphaFold and know what I was missing.
+Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them up. A few years later I would learn about AlphaFold and know what I was missing. Too late.
 
 <br>
 
@@ -148,7 +148,7 @@ It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)**
 
 May 2000.
 
-After starting my first job at the CIS lab in Finland (working with Jorma Laaksonen), I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but I believe it was the only useful research code that I ever wrote.
+My first job: At the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of fscanf with loops to read data the way it was stored. No recursion, grammars, fancy libs, types, pointers, error handling... 25 years later I believe it was the only useful research code that I ever wrote.
 
 <br>
 

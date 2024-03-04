@@ -25,22 +25,14 @@
 <p><a href="https://aabbtree77.github.io/contact/contact.html">Contact</a>, <a href="https://github.com/aabbtree77?tab=repositories">Github</a>, <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Résumé</a>, <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV</a></p>
 
 <div style="display: flex; justify-content: flex-start">
-  <div style="font-size: 1rem;">Last Update: January 2024</div>
+  <div style="font-size: 1rem;">Last Update: March 2024</div>
 </div>
 
 <p><strong>&ldquo;For the record, I&rsquo;m not a vagrant. I&rsquo;m a hobo.&rdquo; - <a href="https://screenrant.com/why-reacher-hobo-not-vagrant/">Reacher (2022)</a></strong></p>
 
 <h1>Introduction</h1>
 
-<p>I studied electrical engineering in Vilnius (Lithuania) from 1994 to 1999, followed by research in <a href="https://ieeexplore.ieee.org/document/1555991">machine learning</a> and <a href="https://hal.archives-ouvertes.fr/hal-00723427">industrial optimization</a>. See my <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">résumé</a> or <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV</a> for more details.</p>
-
-<p>Since 2014 I have been living in Vilnius, aiming to improve my software engineering skills. Take a look at some of my reports on <a href="https://github.com/aabbtree77?tab=repositories">github</a>.</p>
-
-<h1>Skills</h1>
-
-<p>1999 - 2014: Matlab, LaTeX. Math: Linear algebra, calculus.</p>
-
-<p>2014 - Now: HTML, CSS, Js. A bit of C (avr-gcc), C++ (3D libs, OpenGL), Go (libp2p), Python (Matplotlib, PyTorch, Blender), git.  Math: <a href="https://en.wikipedia.org/wiki/Grid_method_multiplication">Box method</a> and its <a href="https://youtu.be/z5-EEkgnvAY?t=1077">inverse</a>.</p>
+<p>I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer. Take a look at some of my work: <a href="https://github.com/aabbtree77/twinpeekz2">3D effects</a>, <a href="https://github.com/aabbtree77/adast">embedded software</a>, <a href="https://github.com/aabbtree77/esp32-vpn">IoT with P2P</a>, and <a href="https://github.com/aabbtree77/law2">web development</a>. Please download my CV or resume files (links above), or better read a more informal online summary below.</p>
 
 <p><br></p>
 
@@ -50,7 +42,15 @@
 
 <p>Vilnius, Now.</p>
 
-<p>Building a web service which would help teachers automate student testing. Still in the early stages, evaluating <a href="https://www.youtube.com/watch?v=27hMNWcsa-Y">Next with Clerk and Convex</a>.</p>
+<p>Building a web service which would help teachers automate student testing. Still in the early stages evaluating various tech stacks.</p>
+
+<p><a href="https://www.youtube.com/watch?v=27hMNWcsa-Y">Next with Clerk and Convex</a> would be ideal, if not for the truth that Clerk is insanely expensive or even dangerous with its 2-cents-per-user-month after 10K users. Assume a teacher works with 300 monthly authenticated users (MAUs). 100 teachers = 30100 MAUs, (30100-10000)*2 cents=20100*2=402 USD extra monthly payment. 1000 teachers: (301000-10000)*2 cents = 5820 USD extra monthly payment!</p>
+
+<p>Imagine Thibault Duplessis, the creator of lichess.org, used Clerk to authenticate 4M users. We would not have lichess.org at all.</p>
+
+<p>These estimates will also hold for any Clerk-authenticated web app with a 301:1 user conversion rate. Wonderful DX: React components, integration with Convex, multi-tenancy, youtube tutorials (brilliant marketing), the authentication problem is solved. Except it is not.</p>
+
+<p>TBC&hellip;</p>
 
 <p><br></p>
 
@@ -66,7 +66,7 @@
 
 <p>Vilnius, 2023-2024.</p>
 
-<p>A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas as a database, render.com for a server, and github pages (frontend).</p>
+<p>A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas as a database, render.com for a server, github pages (frontend). ipify.org and geoip-lite API for the GeoLite data from MaxMind.</p>
 
 <p><br></p>
 
@@ -74,7 +74,7 @@
 
 <p>Vilnius, 2020 - 2024.</p>
 
-<p>A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a complete microcontroller code in C (avr-gcc), from scratch.</p>
+<p>A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a microcontroller code in C (avr-gcc).</p>
 
 <p><br></p>
 
@@ -82,15 +82,15 @@
 
 <p>Vilnius, 2021 - 2022.</p>
 
-<p>A joint work with Saulius Rakauskas (Infovega): IoT with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and <a href="https://github.com/anywherelan/awl">awl</a>. Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).</p>
+<p>A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and <a href="https://github.com/anywherelan/awl">awl</a>. Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).</p>
 
 <p><br></p>
 
 <h2><a href="https://github.com/aabbtree77/twinpeekz2">Volumetrically-Lit Sponza (Go, Nim)</a></h2>
 
-<p>Vilnius, 2020 - 2021.</p>
+<p>Vilnius, 2020 - 2022.</p>
 
-<p>Implemented volumetric lighting in <a href="https://github.com/aabbtree77/twinpeekz">Go</a> and <a href="https://github.com/aabbtree77/twinpeekz2">Nim</a> (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of <a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a>, and <a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a>. The volumetric light method is computationally very demanding, 3D backends are horrid.</p>
+<p>Implemented volumetric lighting in <a href="https://github.com/aabbtree77/twinpeekz">Go</a> and <a href="https://github.com/aabbtree77/twinpeekz2">Nim</a> (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of <a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a>, and <a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a>.</p>
 
 <p><br></p>
 
@@ -98,7 +98,7 @@
 
 <p>Vilnius, 2015 - 2020.</p>
 
-<p>Verified several tensor algebras of Donn G. Shankland, got lost with spinors and QFT.</p>
+<p>Verified several tensor algebras of Donn G. Shankland, got lost with spinors.</p>
 
 <p><a href="https://www.youtube.com/watch?v=18rZv8qWZqA">&ldquo;Après la montagne, il y a la montagne&hellip;&rdquo; − Desireless, Hari om Ramakrishna (1989)</a></p>
 
@@ -112,7 +112,7 @@
 
 <p>The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but an entire image recognition problem got solved with AlexNet-2012, unexpectedly.</p>
 
-<p>Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion, but these great experiments/systems one can still count with fingers. We can also no longer get anything interesting with a budget GPU, can we?! <a href="https://www.youtube.com/watch?v=1aK2u_fdiIY">Alexander Skidanov</a> and <a href="https://www.youtube.com/watch?v=-xh_XXlX0kE&amp;t=8977s">Igor Ganichev</a> mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: <a href="https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html">&ldquo;All human proofs are shallow&rdquo;</a>.</p>
+<p>Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion&hellip; <a href="https://www.youtube.com/watch?v=1aK2u_fdiIY">Alexander Skidanov</a> and <a href="https://www.youtube.com/watch?v=-xh_XXlX0kE&amp;t=8977s">Igor Ganichev</a> mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: <a href="https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html">&ldquo;All human proofs are shallow&rdquo;</a>.</p>
 
 <p><br></p>
 
@@ -121,7 +121,7 @@
 <p>PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the &ldquo;Unroll the Swiss Roll&rdquo; problem to the fast multipole method-based electrostatics with an approximate distance
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.</p>
 
-<p>Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on <a href="https://www.rcsb.org/">the protein data bank</a>, trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them up, stuyding the theory of stochastic gradient to reduce the complexity of the MDS updates. This was a wrong turn. A few years later I would learn about AlphaFold and know what I was missing.</p>
+<p>Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on <a href="https://www.rcsb.org/">the protein data bank</a>, trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them up. A few years later I would learn about AlphaFold and know what I was missing. Too late.</p>
 
 <p><br></p>
 
@@ -170,7 +170,7 @@ constraint handling (simple projections ala Karmarkar and Cimmino in linear alge
 
 <p>May 2000.</p>
 
-<p>After starting my first job at the CIS lab in Finland (working with Jorma Laaksonen), I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but I believe it was the only useful research code that I ever wrote.</p>
+<p>My first job: At the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of fscanf with loops to read data the way it was stored. No recursion, grammars, fancy libs, types, pointers, error handling&hellip; 25 years later I believe it was the only useful research code that I ever wrote.</p>
 
 <p><br></p>
 
