@@ -20,11 +20,7 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate student testing. Still in the early stages evaluating technology stacks. 
-
-[Next with Clerk and Convex](https://www.youtube.com/watch?v=27hMNWcsa-Y) would be ideal, if not for the truth that Clerk is insanely expensive. As zenmasterdev has succinctly put it on Reddit: "Not every user is paying you, but you will be paying for every user". 
-
-TBC...
+Building a web service which would help teachers automate student testing. Still in the early stages. SvelteKit, Lucia v3, Drizzle, SQLite, VPS.
  
 <br>
 
@@ -48,7 +44,7 @@ A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB 
 
 Vilnius, 2020 - 2024.
 
-A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 up to now (February 2024). I wrote a microcontroller code in C (avr-gcc).
+A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 (last update February 2024). I wrote a microcontroller code in C (avr-gcc).
 
 <br>
 
@@ -84,9 +80,9 @@ Vilnius, 2014 - 2015, 2020.
 
 Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition. A reproducible research!
 
-The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but an entire image recognition problem got solved with AlexNet-2012, unexpectedly.
+The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, and the entire image recognition problem got solved with AlexNet-2012, unexpectedly.
 
-Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT-Gemini, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion... [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
+Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion... [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
 
 <br> 
 
@@ -105,7 +101,7 @@ PostDoc Chronicles 2: Saint-Étienne, 2012-2013.
 
 Optimization of the fluid flow which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as the meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf).
 
-This was a special time as new French cloud computing networks were emerging. It took some effort to run the code on the PACA cloud, but once the project ended, we all got disconnected, including the project leader Rodolphe Le Riche.
+This was a special time as new French cloud computing networks were emerging. It took some effort to learn how to run the code on the PACA cloud, but once the project ended, we all got disconnected, including the project leader Rodolphe Le Riche.
 
 <br> 
  
@@ -115,7 +111,7 @@ PostDoc Chronicles 1: Los Angeles, 2008-2009.
 
 Neurobiology... Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called "syzygies", but algebraic geometry was beyond me.
 
-The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on TV, without a machine gun, reporting about a fiscal quarter. The death of Michael Jackson. My neighbor was hit with a baseball bat by the robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay.
+The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on TV, without a machine gun, reporting about a fiscal quarter. The death of Michael Jackson. My neighbor was hit with a baseball bat by the robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay which is nothing there.
 
 <br> 
  
@@ -144,7 +140,7 @@ It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)**
 
 May 2000.
 
-My first job: At the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of fscanf with loops to read data the way it was stored. No recursion, grammars, fancy libs, types, pointers, error handling... 25 years later I believe it was the only useful research code that I ever wrote.
+My first job: At the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of fscanf with loops to read data the way it was stored. The only useful research code that I ever wrote...
 
 <br>
 
