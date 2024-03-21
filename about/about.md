@@ -20,7 +20,7 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate student testing. Still in the early stages. SvelteKit, Lucia v3, Drizzle, SQLite, VPS.
+Building a web service which would help teachers automate massive student testing. Still in the early stages. TypeScript, Next.js, user name and password login with session-based authorization (Lucia v3), Drizzle, VPS, a self-hosted SQLite or something managed? If managed, MongoDB Atlas or Turso?
  
 <br>
 
@@ -80,7 +80,7 @@ Vilnius, 2014 - 2015, 2020.
 
 Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition. A reproducible research!
 
-The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, and the entire image recognition problem got solved with AlexNet-2012, unexpectedly.
+The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but the entire image recognition problem got solved with AlexNet-2012, unexpectedly.
 
 Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion... [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
 
@@ -91,7 +91,7 @@ Starting around 2017 some very powerful deep networks appear: Transformers-BERT-
 PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
 
-Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them up. A few years later I would learn about AlphaFold and know what I was missing. Too late.
+Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them. A few years later I would learn about AlphaFold...
 
 <br>
 
@@ -109,9 +109,9 @@ This was a special time as new French cloud computing networks were emerging. It
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. 
 
-Neurobiology... Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called "syzygies", but algebraic geometry was beyond me.
+Neurobiology. Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something big called [syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but algebraic geometry was beyond me.
 
-The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on TV, without a machine gun, reporting about a fiscal quarter. The death of Michael Jackson. My neighbor was hit with a baseball bat by the robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay which is nothing there.
+The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on TV, without a machine gun, reporting about a fiscal quarter. The death of Michael Jackson. My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay which is nothing in the US.
 
 <br> 
  
@@ -119,7 +119,7 @@ The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on 
 
 My DSc (PhD) thesis, Espoo 2002-2008.
 
-It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)** paper further polished in **[ICCV2007](https://ieeexplore.ieee.org/document/4408895)** and **[ACCV2007](https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77)**. A pretty test case could have been the bilateral upscaling stage in volumetric light rendering, but diffusions are too slow for millisecond time-frames.
+The problem of revealing an edge in an additive Gaussian noise with the optimally stopped diffusion of the observed values. It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)** paper further polished in **[ICCV2007](https://ieeexplore.ieee.org/document/4408895)** and **[ACCV2007](https://link.springer.com/chapter/10.1007/978-3-540-76386-4_77)**. 
  
   <div class="blockquote">
 
@@ -127,7 +127,7 @@ It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)**
   <br>
 
   Daffertshofer-Haken-1994 as a strategically wrong, but inspiring paper,
-  E.T. Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
+  E.T. Jaynes, machine learning in 2000s, thinking about thinking, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
   Mykola Ivanchenko, Elia Liitiäinen, Jan-Hendrik Schleimer, Jarrod Creado, Leo Michael, 
   Jaakko Martti Johannes Miettinen, Ville Rantamaula, Dexter He, 
   Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis, 
@@ -140,7 +140,7 @@ It is mostly this **[IJCNN-2005](https://ieeexplore.ieee.org/document/1555991)**
 
 May 2000.
 
-My first job: At the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was the use of fscanf with loops to read data the way it was stored. The only useful research code that I ever wrote...
+My first job: The CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was a simple use of fscanf to read data the way it was stored. No recursion, CFG or PEG grammars, parsing algorithms. The only useful research code that I ever wrote...
 
 <br>
 
