@@ -20,15 +20,15 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate massive student testing. Still in the early stages. TypeScript, Next.js, user name and password login with session-based authorization (Lucia v3), Drizzle, VPS, a self-hosted SQLite or something managed? If managed, MongoDB Atlas or Turso?
+Building a web service which would help teachers automate massive student testing. Still in early stages. Learning TypeScript, Next.js, session-based authorization (Lucia v3), Drizzle, VPS.
  
 <br>
 
 ## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) [Improved](https://github.com/aabbtree77/law2)
 
-Vilnius, 2024.
+Vilnius, February 2024.
 
-Applied Tailwind CSS and Go string substitution to build a multilingual website for a lawyer who speaks nine different languages. Porkbun.com and github pages.
+Applied Tailwind CSS and Go string substitution to build a multilingual website for a lawyer who speaks nine languages. Porkbun.com and github pages.
 
 <br>
 
@@ -36,7 +36,7 @@ Applied Tailwind CSS and Go string substitution to build a multilingual website 
 
 Vilnius, 2023-2024.
 
-A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas as a database, render.com for a server, github pages (frontend). ipify.org and geoip-lite API for the GeoLite data from MaxMind.
+A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas, render.com, github pages, ipify.org, and geoip-lite API for the GeoLite data from MaxMind.
 
 <br>
 
@@ -52,7 +52,7 @@ A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real 
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of hole punching through layers of routers and the use of the P2P network other than torrents (golibp2p).
+A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of [hole punching](https://en.wikipedia.org/wiki/Hole_punching_(networking)) through layers of routers and the use of the P2P network other than torrents (golibp2p).
 
 <br> 
 
@@ -78,11 +78,7 @@ Verified several tensor algebras of Donn G. Shankland, got lost with spinors.
 
 Vilnius, 2014 - 2015, 2020. 
 
-Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition. A reproducible research!
-
-The MNIST digits are known to me since around 1999, my BSc times guided by Dalius Navakauskas in Vilnius. MNIST is not as interesting as CIFAR, but the entire image recognition problem got solved with AlexNet-2012, unexpectedly.
-
-Starting around 2017 some very powerful deep networks appear: Transformers-BERT-ChatGPT, Alpha-(Go, Zero, Fold), NNUE, Stable Diffusion... [Alexander Skidanov](https://www.youtube.com/watch?v=1aK2u_fdiIY) and [Igor Ganichev](https://www.youtube.com/watch?v=-xh_XXlX0kE&t=8977s) mention their failures to teach deep networks mathematics and logical reasoning. Doron Zeilberger: ["All human proofs are shallow"](https://sites.math.rutgers.edu/~zeilberg/OPINIONS.html).
+Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in the MNIST digit recognition.
 
 <br> 
 
@@ -91,7 +87,7 @@ Starting around 2017 some very powerful deep networks appear: Transformers-BERT-
 PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
 
-Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geometry. I had a certain focus on [the protein data bank](https://www.rcsb.org/), trying to find data that was more physics-based and low dimensional, assuming atomic locations were erroneous and MDS-like methods would help cleaning them. A few years later I would learn about AlphaFold...
+I have also applied MDS-like methods to clean [the protein data bank](https://www.rcsb.org/) (severely lacking any ground truth knowledge there, work unpublished). A few years later I would learn about AlphaFold which is a far more interesting and ambitious work.
 
 <br>
 
@@ -99,9 +95,9 @@ Prof. Michael Bronstein was mixing machine learning with 3D and Riemannian geome
 
 PostDoc Chronicles 2: Saint-Étienne, 2012-2013. 
 
-Optimization of the fluid flow which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as the meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf).
+Optimization of the fluid flow which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as the meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf). 
 
-This was a special time as new French cloud computing networks were emerging. It took some effort to learn how to run the code on the PACA cloud, but once the project ended, we all got disconnected, including the project leader Rodolphe Le Riche.
+The project was organized as a competition between French universities and their automotive industry. This was also a special time, as new French cloud computing networks were emerging.
 
 <br> 
  
@@ -109,9 +105,9 @@ This was a special time as new French cloud computing networks were emerging. It
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. 
 
-Neurobiology. Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something big called [syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but algebraic geometry was beyond me.
+Neurobiology turned out to be a deep forest, but Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called [syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but algebraic geometry was beyond me.
 
-The UCLA libraries were amazing, and so was the ocean. Arnold Schwarzenegger on TV, without a machine gun, reporting about a fiscal quarter. The death of Michael Jackson. My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay which is nothing in the US.
+My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay.
 
 <br> 
  
@@ -140,7 +136,7 @@ The problem of revealing an edge in an additive Gaussian noise with the optimall
 
 May 2000.
 
-My first job: The CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was a simple use of fscanf to read data the way it was stored. No recursion, CFG or PEG grammars, parsing algorithms. The only useful research code that I ever wrote...
+My first job, at the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was a simple use of fscanf to read data the way it was stored. The only useful research code that I ever wrote...
 
 <br>
 
