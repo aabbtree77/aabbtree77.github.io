@@ -105,7 +105,7 @@ The project was organized as a competition between French universities and their
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. 
 
-Neurobiology turned out to be a deep forest, but Prof. Dario Ringach later suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)), and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called [syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but algebraic geometry was beyond me.
+Neurobiology turned out to be a deep forest, Prof. Dario Ringach suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)) instead, and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called [syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but algebraic geometry was beyond me.
 
 My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay.
 
@@ -123,7 +123,7 @@ The problem of revealing an edge in an additive Gaussian noise with the optimall
   <br>
 
   Daffertshofer-Haken-1994 as a strategically wrong, but inspiring paper,
-  E.T. Jaynes, machine learning in 2000s, thinking about thinking, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
+  E.T. Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena... Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha, 
   Mykola Ivanchenko, Elia Liitiäinen, Jan-Hendrik Schleimer, Jarrod Creado, Leo Michael, 
   Jaakko Martti Johannes Miettinen, Ville Rantamaula, Dexter He, 
   Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis, 
