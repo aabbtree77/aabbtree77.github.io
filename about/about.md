@@ -60,7 +60,7 @@ A joint work with Saulius Rakauskas (Infovega): A remote plant watering system w
 
 Vilnius, 2020 - 2022.
 
-Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following the amazing works of [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume).
+Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume).
 
 <br>
 
@@ -68,7 +68,7 @@ Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz)
 
 Vilnius, 2015 - 2020. 
 
-Verified several tensor algebras of Donn G. Shankland, got lost with spinors.
+Verified several tensor algebras of Donn G. Shankland.
 
 ["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
@@ -87,17 +87,13 @@ Confirmed that Jonas Matuzas' CNN model is one of the most convincing results in
 PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the "Unroll the Swiss Roll" problem to the fast multipole method-based electrostatics with an approximate distance 
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.
 
-I have also applied MDS-like methods to clean [the protein data bank](https://www.rcsb.org/) (severely lacking any ground truth knowledge there, work unpublished). A few years later I would learn about AlphaFold which is a far more interesting and ambitious work.
-
 <br>
 
 ## [Cloud Computing (Scilab)](https://hal.archives-ouvertes.fr/hal-00723427)
 
 PostDoc Chronicles 2: Saint-Étienne, 2012-2013. 
 
-Optimization of the fluid flow which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as the meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf). 
-
-The project was organized as a competition between French universities and their automotive industry. This was also a special time, as new French cloud computing networks were emerging.
+Optimization of the fluid flow which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as the meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the [slides](https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf).
 
 <br> 
  
@@ -105,7 +101,7 @@ The project was organized as a competition between French universities and their
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. 
 
-Neurobiology turned out to be a deep forest, Prof. Dario Ringach suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson)) instead, and I did the analysis. Eq. 30 in the unpublished report came up somewhat unexpectedly. The ability to linearize a problem and investigate its Jacobian structure is underrated, but I could not extend it to a bigger program. I hit something called [syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but algebraic geometry was beyond me.
+Prof. Dario Ringach suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) who discovered the electron, not Lord Kelvin), which led to [Hilbert's syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but it all got discontinued due to irrelevance to neurobiology. See the unpublished beginnings in the title link.
 
 My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay.
 
@@ -136,7 +132,7 @@ The problem of revealing an edge in an additive Gaussian noise with the optimall
 
 May 2000.
 
-My first job, at the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was a simple use of fscanf to read data the way it was stored. The only useful research code that I ever wrote...
+My first job, at the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was a non-recursive use of fscanf to read data the way it was stored.
 
 <br>
 

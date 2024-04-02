@@ -10,6 +10,8 @@
 
 # FR-1970
 
+[La dame de Monsoreau (1971)](https://www.imdb.com/title/tt0224857/)
+
 [Du côté d'Orouët (1971)](https://www.imdb.com/title/tt0070007/)
 
 [Un peu de soleil dans l'eau froide (1971)](https://www.imdb.com/title/tt0067901/)
@@ -102,6 +104,8 @@
 
 [Secret défense (2008)](https://www.imdb.com/title/tt1003052/)
 
+[La journée de la jupe (2008)](https://www.imdb.com/title/tt1286809/)
+
 [De la guerre (2008)](https://www.imdb.com/title/tt1064861/)
 
 # FR-2010
@@ -143,5 +147,7 @@
 [Les Olympiades, Paris 13e (2021)](https://www.imdb.com/title/tt12708658/)
 
 [Les trois mousquetaires: D'Artagnan (2023)](https://www.imdb.com/title/tt12672536/)
+
+[Les Trois Mousquetaires: Milady (2023)](https://www.imdb.com/title/tt12672620/)
 
 TBC...
