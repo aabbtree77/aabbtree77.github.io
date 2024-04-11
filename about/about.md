@@ -10,7 +10,7 @@
 
 # Introduction
 
-I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer. Take a look at some of my work: [3D effects](https://github.com/aabbtree77/twinpeekz2), [embedded software](https://github.com/aabbtree77/adast), [IoT with P2P](https://github.com/aabbtree77/esp32-vpn), and [web development](https://github.com/aabbtree77/law2).
+I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a [1x engineer](https://1x.engineer/). Take a look at some of my work: [3D effects](https://github.com/aabbtree77/twinpeekz2), [embedded software](https://github.com/aabbtree77/adast), [IoT with P2P](https://github.com/aabbtree77/esp32-vpn), and [web development](https://github.com/aabbtree77/law2).
 
 <br>
 
@@ -20,7 +20,7 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate massive student testing. Still in early stages. Learning TypeScript, Next.js, session-based authorization (Lucia v3), Drizzle, VPS.
+Building a web service which would help teachers automate massive student testing. Still in the early stages testing the waters. Marked [Next.js](https://github.com/ugurkellecioglu/next-14-lucia-auth-postgresql-drizzle-typescript-example/issues/1) and [SvelteKit](https://github.com/edwardspresume/sveltekit-lucia-auth-v3-example/issues/3) as unreliable, looking for something more solid. 
  
 <br>
 
