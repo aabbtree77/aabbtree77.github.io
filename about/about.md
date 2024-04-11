@@ -20,7 +20,7 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate massive student testing. Still in the early stages testing the waters. Marked [Next.js](https://github.com/ugurkellecioglu/next-14-lucia-auth-postgresql-drizzle-typescript-example/issues/1) and [SvelteKit](https://github.com/edwardspresume/sveltekit-lucia-auth-v3-example/issues/3) as unreliable, looking for something more solid. 
+Building a web service which would help teachers automate massive student testing. Still in the early stages testing the waters. Marked [Next.js](https://github.com/ugurkellecioglu/next-14-lucia-auth-postgresql-drizzle-typescript-example/issues/1) and [SvelteKit](https://github.com/edwardspresume/sveltekit-lucia-auth-v3-example/issues/3) as unreliable. 
  
 <br>
 
@@ -101,7 +101,7 @@ Optimization of the fluid flow which was implemented before me with OpenFOAM, CA
 
 PostDoc Chronicles 1: Los Angeles, 2008-2009. 
 
-Prof. Dario Ringach suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) who discovered the electron, not Lord Kelvin), which led to [Hilbert's syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem), but it all got discontinued due to irrelevance to neurobiology. See the unpublished beginnings in the title link.
+Prof. Dario Ringach suggested the modified Thomson problem (after [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) who discovered the electron, not Lord Kelvin), which nearly led to [Hilbert's syzygies](https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem). It all got discontinued due to irrelevance to neurobiology. See the unpublished beginnings in the title link.
 
 My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay.
 
