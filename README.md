@@ -1,4 +1,8 @@
-## Some HTML Notes/Links
+# Notes
+
+## HTML
+
+- [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/).
  
 - [flex-basis is 50% of what?](https://teamtreehouse.com/community/flexbasis-is-50-of-what)
 
@@ -7,32 +11,6 @@
 - [CSS](https://www.youtube.com/watch?v=7kVeCqQCxlk) [Grid](https://robertcooper.me/post/grid-does-not-replace-flexbox).
 
 - [The Best Of CSS by Theo - t3․gg](https://www.youtube.com/watch?v=CQuTF-bkOgc&t=1595s).
-
-- [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/).
-
-- [Mermaid](https://mermaid-js.github.io/mermaid/#/) &#8801; automated node placement and nonintersecting lines, unlike [diagrams.net](https://www.diagrams.net/blog), but the automated text placement is horrid. Multi-line labels are displayed in the editor, but not in png. svg may even miss text entirely, bugs. Mermaid saves time, but I always regret using it.
-
-  On Ubuntu 22.04, install nodejs and npm/yarn via [volta](https://docs.volta.sh/guide/getting-started) (uninstall them by simply removing .volta, .npm, .yarn):
-
-  ```bash
-  curl https://get.volta.sh | bash
-  volta install node
-  volta install yarn
-  git clone https://github.com/mermaid-js/mermaid-live-editor.git
-  cd mermaid-live-editor
-  yarn install
-  yarn dev -- --open
-  ```
-
-  This will open the editor at http://localhost:3000/. The entire folder with node_modules is 437MB.
-
-- [shower](https://github.com/shower/shower) for slides? Neat raw HTML/CSS/Js template to start growing, but too slow just like LaTeX and Beamer.
-
-- [Excalidraw](https://excalidraw.com/)? [Excalidraw Slides](https://excalidraw-slides.netlify.app/#)?
-
-- [How to create a presentation in draw.io](https://community.tmpdir.org/t/how-to-create-a-presentation-in-draw-io/488). See also [the draw.io blog](https://drawio-app.com/blog/building-presentations-team-members-will-%F0%9F%A7%A1/). This could be the best way.
-
-- [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) is also mildly interesting.
 
 - Android would produce tiny font bugs in a few places, [this line](https://stackoverflow.com/questions/25685265/how-to-set-equal-font-size-in-table-cells-for-mobile-device-html-pages) fixes them:
   ```html
@@ -53,7 +31,37 @@
 
 - Markdown and LaTeX/MathJax make a very dubious combo, but it is nice to have immediate rendering instead of linking a pdf, clicking on it, downloading, opening.
 
-## Go
+I do not use any fancy flex features anymore, just Tailwind `flex flex-col`. Mix stuff with grid and empty `<div></div>` whenever "basis" is needed.
+
+## Diagrams
+
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) &#8801; automated node placement and nonintersecting lines, unlike [diagrams.net](https://www.diagrams.net/blog), but the automated text placement is horrid. Multi-line labels are displayed in the editor, but not in png. svg may even miss text entirely, bugs. Mermaid saves time, but I always regret using it.
+
+  On Ubuntu 22.04, install nodejs and npm/yarn via [volta](https://docs.volta.sh/guide/getting-started) (uninstall them by simply removing .volta, .npm, .yarn):
+
+  ```bash
+  curl https://get.volta.sh | bash
+  volta install node
+  volta install yarn
+  git clone https://github.com/mermaid-js/mermaid-live-editor.git
+  cd mermaid-live-editor
+  yarn install
+  yarn dev -- --open
+  ```
+
+  This will open the editor at http://localhost:3000/. The entire folder with node_modules is 437MB.
+
+- [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) is also mildly interesting.
+
+## Presentations
+
+- [shower](https://github.com/shower/shower)? Neat raw HTML/CSS/Js template to start growing, but too slow just like LaTeX and Beamer.
+
+- [Excalidraw](https://excalidraw.com/)? [Excalidraw Slides](https://excalidraw-slides.netlify.app/#)?
+
+- [How to create a presentation in draw.io](https://community.tmpdir.org/t/how-to-create-a-presentation-in-draw-io/488). See also [the draw.io blog](https://drawio-app.com/blog/building-presentations-team-members-will-%F0%9F%A7%A1/). This could be the best way.
+
+## This Web Site
 
 First time, install [Go](https://go.dev/doc/install), followed by
 
@@ -121,4 +129,11 @@ My github "workflow":
     git log --pretty=format:"%h - %ad : %s"
     git reset --hard hash#
     ```
+
+## Github Pages, Custom Domain
+
+[A and CNAME Records.](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+
+[Tech White. How to Add a Custom Domain with GitHub Pages in 2024.](https://www.youtube.com/watch?v=k3Y3c5WlAfc)
+
 
