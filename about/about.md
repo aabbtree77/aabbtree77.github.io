@@ -3,7 +3,7 @@
 [Contact](https://aabbtree77.github.io/contact/contact.html), [Github](https://github.com/aabbtree77?tab=repositories), [Résumé](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [CV](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
 
 <div style="display: flex; justify-content: flex-start">
-  <div style="font-size: 1rem;">Last Update: March 2024</div>
+  <div style="font-size: 1rem;">Last Update: July 2024</div>
 </div>
 
 **"For the record, I'm not a vagrant. I'm a hobo." - [Reacher (2022)](https://screenrant.com/why-reacher-hobo-not-vagrant/)**
@@ -20,7 +20,7 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Vilnius, Now.
 
-Building a web service which would help teachers automate massive student testing. Still in the early stages testing the waters. Marked [Next.js](https://github.com/ugurkellecioglu/next-14-lucia-auth-postgresql-drizzle-typescript-example/issues/1) and [SvelteKit](https://github.com/edwardspresume/sveltekit-lucia-auth-v3-example/issues/3) as unreliable. 
+Looking for ways and learning CRUD-based technology to automate massive tedious tasks, like student testing. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which seems to be a pain-point in the TypeScript/Node ecosystem.
  
 <br>
 
