@@ -21,7 +21,7 @@ func check(e error) {
 
 func main() {
 
-	inputNames := []string{"about", "contact", "french", "shankland", "zhilin", "shpagin"}
+	inputNames := []string{"about", "contact", "french", "shankland", "zhilin", "shpagin", "pcgames"}
 
 	// Create empty lists
 	inputFiles := make([]string, len(inputNames))
