@@ -1,41 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap"
+      rel="stylesheet"
+    />
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap" rel="stylesheet">
+    <link href="../templates/main.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
-<link href="../templates/main.css" rel="stylesheet">
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [
+            ["$", "$"],
+            ["\\(", "\\)"],
+          ],
+        },
+        svg: {
+          fontCache: "global",
+        },
+        loader: { load: ["[tex]/mathtools"] },
+        tex: { packages: { "[+]": ["mathtools"] } },
+      };
+    </script>
+    <script
+      type="text/javascript"
+      id="MathJax-script"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"
+    ></script>
 
-<script>
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  },
-  svg: {
-    fontCache: 'global'
-  },
-  loader: {load: ['[tex]/mathtools']},
-  tex: {packages: {'[+]': ['mathtools']}}
-};
-</script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
-</script>
+    <title>Ramunas Girdziusas</title>
+  </head>
 
-<title>Ramunas Girdziusas</title>
-
-</head>
-
-<body>
-  <main>
-    <div style="color:#918981;text-align:justify;">
-	    <h1><a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%BB%D0%B8%D0%BD,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_(%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA)">Pavel Zhilin (2003)</a></h1>
+  <body>
+    <main>
+      <div class="blog-math-article-container"><h1><a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%BB%D0%B8%D0%BD,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_(%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA)">Pavel Zhilin (2003)</a></h1>
 
 <p><a href="http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_rus.pdf">(2003 Ru)</a>, <a href="http://teormeh.net/Zhilin_New/pdf/Zhilin_Invariant_eng.pdf">(2005 Eng)</a></p>
 
@@ -44,9 +50,7 @@ MathJax = {
 <p>P.A. Zhilin extends the theorem to the functions of multiple transforming objects of different types (vectors and matrices). The invariance requirement is posed as a functional equation. It is solved with a trick which gives a single weight to all the group parameters (I would have differentiated w.r.t. all the parameters independently, only to become lost).</p>
 
 <p>Paradoxically, theoretical mechanics is the only domain where I have found a method to construct invariant functions. A brilliant work which distills Lie theory into a coherent solution chain.</p>
-
-    </div>
-  </main>
-</body>
-
+</div>
+    </main>
+  </body>
 </html>

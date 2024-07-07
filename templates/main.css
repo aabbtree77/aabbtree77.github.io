@@ -1,141 +1,169 @@
-/* * { border: 1px solid red; } */
-
-html { 
-    font-size: 100%;
-    padding-bottom: 0;
+/*
+* {
+  border: 1px solid red;
 }
-   
+*/
+
+html {
+  font-size: 100%;
+  padding-bottom: 0;
+}
+
 body {
-    font-family: 'Source Code Pro', monospace;
-	padding: 0;
-	margin: 0;
-	/*background-color:#616161;*/
-	/*background-color:#1D4056;*/
-	/*background-color:#13374D;*/
-	/*background-color:#173B55;*/
-	/*background-color:#194258;*/
-	/*background-color:#151515;*/
-	/*background-color:#323232;*/
-	background: url('../imgs/chalkboard_texture_mc2015_by_mattiamc_d8dbnac-fullview.jpg') center center / cover no-repeat;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-
-
+  font-family: "Source Code Pro", monospace;
+  padding: 0;
+  margin: 0;
+  /*background-color:#616161;*/
+  /*background-color:#1D4056;*/
+  /*background-color:#13374D;*/
+  /*background-color:#173B55;*/
+  /*background-color:#194258;*/
+  /*background-color:#151515;*/
+  /*background-color:#323232;*/
+  background: url("../imgs/Cumulus_Clouds_Over_Jamaica.jpg") center center /
+    cover no-repeat;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100vw 100vh;
 }
 
-main, footer {
-    max-width: 70ch;
-	margin: auto;
+main,
+footer {
+  max-width: 50ch;
+  margin: auto;
 }
 
 main {
-	box-sizing: border-box;
-    padding-right: 1ch;
-    padding-bottom: 0;
-    padding-left: 1ch;
-	/*margin: 2ch 2ch 2ch;*/
-	min-height: calc(100vh - 12ch);
+  box-sizing: border-box;
+  padding-right: 1ch;
+  padding-bottom: 0;
+  padding-left: 1ch;
+  /*margin: 2ch 2ch 2ch;*/
+  min-height: calc(100vh - 12ch);
 }
 
 a {
-	color: #abafb6;
-	text-decoration: none;
+  color: green;
+  text-decoration: none;
 }
 
+.blog-article-container {
+  color: black;
+  text-align: left;
+}
 
+.blog-math-article-container {
+  color: black;
+  text-align: justify;
+}
 
 @media only screen and (min-width: 768px) {
-    
-    .visibleOnDesktop {
-        /*display: block;*/
-    }
-    
-    .visibleOnMobile {
-        display: none;
-    }
-    
-    main {
-        margin-top: 0rem;
-    } 
-    
-    div {
-        margin-top: 1rem;
-        margin-bottom: 1rem;
-    }   
-    
-    h1 {
-        margin-top: 4rem;
-	    font-size: 3rem;
-	    font-weight: 700;
-    }
-    
-    h2 {
-        margin-top: 2rem;
-	    font-size: 2.5rem;
-	    font-weight: 500;
-    }
-    
-    p {
-	    margin-top: 2rem;
-        margin-bottom: 2rem;
-        margin-right: 0;
-        margin-left: 0;
-	    font-size: 1.5rem;
-	    line-height: calc(1.5rem * 1.7);
-    } 
-    
-    ul, ol {
-		font-size: 1.5rem;
-	}
+  .visibleOnDesktop {
+    /*display: block;*/
+  }
 
-	li > ul, li > ol {
-		padding-left: 2ch;
-	}
-	
-	li + li {
-        margin-top: 1rem;
-    }   
+  .visibleOnMobile {
+    display: none;
+  }
+
+  main {
+    margin-top: 0rem;
+  }
+
+  /*
+  div {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+*/
+
+  h1 {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+
+  h2 {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+
+  p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0;
+    margin-left: 0;
+    font-size: 1rem;
+    line-height: calc(1.5rem * 1.7);
+  }
+
+  ul,
+  ol {
+    font-size: 1rem;
+  }
+
+  li > ul,
+  li > ol {
+    padding-left: 2ch;
+  }
+
+  li + li {
+    margin-top: 1rem;
+  }
 }
 
 @media only screen and (max-width: 767px) {
+  .visibleOnDesktop {
+    display: none;
+  }
 
-    .visibleOnDesktop {
-        display: none;
-    }
-    
-    .visibleOnMobile {
-        display: block;
-    }
-    
-     main {
-        padding-top: 1ch;
-    }    
-    
-    h1 {
-	    font-size: 1.25rem;
-	    font-weight: 700;
-    }
-    
-    p {
-	    margin-top: 1rem;
-        margin-bottom: 1rem;
-        margin-right: 0;
-        margin-left: 0;
-	    font-size: 1rem;
-	    line-height: calc(1rem * 1.7);
-    }  
-    
-    ul, ol {
-		font-size: 1rem;
-	}
+  .visibleOnMobile {
+    display: block;
+  }
 
-	li > ul, li > ol {
-		padding-left: 2ch;
-	}
-	
-	li + li {
-        margin-top: 1rem;
-    }     
+  main {
+    padding-top: 1ch;
+  }
+
+  h1 {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+
+  h2 {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+  }
+
+  p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0;
+    margin-left: 0;
+    font-size: 1rem;
+    line-height: calc(1rem * 1.7);
+  }
+
+  ul,
+  ol {
+    font-size: 1rem;
+  }
+
+  li > ul,
+  li > ol {
+    padding-left: 2ch;
+  }
+
+  li + li {
+    margin-top: 1rem;
+  }
 }
 
 /* This removes bottom white space in the last paragraph
@@ -149,27 +177,27 @@ span {
 }
 */
 
-
 img {
-	max-height:100%;
-	/*width: 100%;*/
-	/*height: auto;*/
-	margin: 0;
-	padding: 0;
-	vertical-align: bottom;
-	display: inline-block;
+  max-height: 100%;
+  /*width: 100%;*/
+  /*height: auto;*/
+  margin: 0;
+  padding: 0;
+  vertical-align: bottom;
+  display: inline-block;
 }
 
-th, td {
-    font-size: 2rem;
-    padding: 0 0.5rem 0 0.5rem;
+th,
+td {
+  font-size: 1rem;
+  padding: 0 0.5rem 0 0.5rem;
 }
 
 table {
-    /*border: 1px solid black;*/
-    border: none;
-    border-collapse: collapse;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+  /*border: 1px solid black;*/
+  border: none;
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }

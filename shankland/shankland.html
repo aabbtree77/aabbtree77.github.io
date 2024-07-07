@@ -1,48 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap"
+      rel="stylesheet"
+    />
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap" rel="stylesheet">
+    <link href="../templates/main.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
-<link href="../templates/main.css" rel="stylesheet">
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [
+            ["$", "$"],
+            ["\\(", "\\)"],
+          ],
+        },
+        svg: {
+          fontCache: "global",
+        },
+        loader: { load: ["[tex]/mathtools"] },
+        tex: { packages: { "[+]": ["mathtools"] } },
+      };
+    </script>
+    <script
+      type="text/javascript"
+      id="MathJax-script"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"
+    ></script>
 
-<script>
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  },
-  svg: {
-    fontCache: 'global'
-  },
-  loader: {load: ['[tex]/mathtools']},
-  tex: {packages: {'[+]': ['mathtools']}}
-};
-</script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
-</script>
+    <title>Ramunas Girdziusas</title>
+  </head>
 
-<title>Ramunas Girdziusas</title>
+  <body>
+    <main>
+      <div class="blog-math-article-container"><h1><a href="https://aapt.scitation.org/doi/10.1119/1.1976018">Donn G. Shankland (1970)</a></h1>
 
-</head>
-
-<body>
-  <main>
-    <div style="color:#918981;text-align:justify;">
-	    <h1><a href="https://aapt.scitation.org/doi/10.1119/1.1976018">Donn G. Shankland (1970)</a></h1>
-
-<p><a href="https://aapt.scitation.org/doi/10.1119/1.1976018">Donn G. Shankland (1970)</a> reveals one way to parse mysterious phrases such as (i) &ldquo;tensor fields contain irreducible representations of the Lorentz group&rdquo;, (ii) &ldquo;antisymmetric two-tensor field can carry two particle triplets&rdquo;, and (iii) &ldquo;a free-field equation is nothing but an invariant record of which components are superfluous&rdquo;. I will add here a few notes that might help one to decipher this paper.</p>
+<p>This work reveals one way to parse mysterious phrases such as (i) &ldquo;tensor fields contain irreducible representations of the Lorentz group&rdquo;, (ii) &ldquo;antisymmetric two-tensor field can carry two particle triplets&rdquo;, and (iii) &ldquo;a free-field equation is nothing but an invariant record of which components are superfluous&rdquo;. I will add here a few notes that might help one to decipher this paper.</p>
 
 <p>An archetypical problem that ChatGPT cannot solve: Given the <a href="https://en.wikipedia.org/wiki/Four-vector">four-vector</a> <span class="math inline">\(k_{\mu}\)</span> and <a href="https://en.wikipedia.org/wiki/Metric_tensor">the metric tensor</a> <span class="math inline">\(g_{\mu\nu}\)</span>, write down the most general dimensionless tensor <span class="math inline">\({T_{\mu\nu}}^{\rho \sigma}\)</span> symmetric under the permutations of the covariant indices <span class="math inline">\((\mu, \nu)\)</span>, and also symmetric w.r.t. the permutations of contravariant indices <span class="math inline">\((\rho, \sigma)\)</span>. It should be a sum of linearly independent terms, each with a manifest symmetry, and at most fourth order in <span class="math inline">\(k_{\mu}\)</span>.</p>
 
 <p><a href="https://aapt.scitation.org/doi/10.1119/1.1976018">Shankland (1970)</a> jumps into the answer, which is a linear combination of</p>
-<p><span class="math display">\[ 
+<p><span class="math display">\[
 \begin{align}
 X_{1} &amp; = \frac{1}{4} {g_{(\mu}}^{(\rho} {g_{\nu)}}^{\sigma)}\,,\\
 X_{2} &amp; = g_{\mu \nu} g^{\rho \sigma}\,, \\
@@ -56,7 +62,7 @@ X_{6} &amp; = \frac{1}{k^2} k_{(\mu} {g_{\nu)}}^{(\rho} k^{\sigma)}\,.
 <p>The logic is clear. One groups the combinations of primitives according to their distinct combinatorial types. Linear independence is verified by choosing a few random non-zero elements of a tensor.</p>
 
 <p>One can view tensors as matrices by appending each element with an indicator basis:</p>
-<p><span class="math display">\[ 
+<p><span class="math display">\[
 \begin{align}
 e^{\mu}\otimes e^{\nu}\otimes e_{\rho}\otimes e_{\sigma}\,,
 \end{align}
@@ -102,14 +108,14 @@ k_{\alpha} k^{\alpha} &amp; = k^2 \\
 \begin{align}
 t_{1} &amp; = k_{\mu} {g_{\nu}}^{\alpha} k^{\beta} \cdot k_{\alpha} {g_{\beta}}^{\rho} k^{\sigma} \\
 &amp; = k_{\mu} \big({g_{\nu}}^{\alpha} k_{\alpha}\big) \big({g_{\beta}}^{\rho} k^{\beta}\big) k^{\sigma} \\
-&amp;= k_{\mu} k_{\nu} k^{\rho} k^{\sigma}. 
+&amp;= k_{\mu} k_{\nu} k^{\rho} k^{\sigma}.
 \end{align}
 \]</span></p><p>A page later ;) there will be 8 such terms and a doubled <span class="math inline">\(X_{6}\)</span> left. It is <span class="math inline">\(8 X_{5} + 2 X_{6}\)</span>, not <span class="math inline">\(8 X_{4} + 2 X_{6}\)</span> in <a href="https://aapt.scitation.org/doi/10.1119/1.1976018">Shankland (1970)</a>.</p>
 
 <p>All the computed traces of the algebra of the symmetric two-tensor field are correct. I will only note here the definition of a trace:</p>
-<p><span class="math display">\[ 
+<p><span class="math display">\[
 \begin{align}
-\textit{tr}\,{X_{\mu \nu}}^{\rho \sigma}  \equiv {X_{\mu \nu}}^{\mu \nu}.   
+\textit{tr}\,{X_{\mu \nu}}^{\rho \sigma}  \equiv {X_{\mu \nu}}^{\mu \nu}.
 \end{align}
 \]</span></p><p>In order to calculate these tensorial traces one has to know the values of <span class="math inline">\(g_{ij}\)</span> and the mixed tensor</p>
 <p><span class="math display">\[
@@ -161,7 +167,7 @@ t_{1} &amp; = k_{\mu} {g_{\nu}}^{\alpha} k^{\beta} \cdot k_{\alpha} {g_{\beta}}^
 which splits into a vector and an irreducible component <span class="math inline">\((1,\frac{1}{2}) \oplus (\frac{1}{2},1)\)</span>, clf. Weinberg&rsquo;s QFT, Vol. 1, page 232. We can call the latter a &ldquo;spin <sup>3</sup>&frasl;<sub>2</sub>&rdquo; field. In the Joos-Weinberg formalism, this is a different irreducible component <span class="math inline">\((\frac{3}{2},0) \oplus (0,\frac{3}{2})\)</span>. It could still be produced in Shankland&rsquo;s algebra, but not with one vector and one spinor index.</p>
 
 <p>Why a single &ldquo;spin&rdquo; parameter? <span class="math inline">\((m,n)\)</span> is not the Kronecker product <span class="math inline">\(m\otimes n\)</span> of &ldquo;rotations&rdquo;, but Shankland&rsquo;s eigenvalue multiplicities follow this pattern, and the scalar value <span class="math inline">\(m+m\)</span> also describes the maximal &ldquo;degrees of freedom of a particle&rdquo;. The Kronecker product splits into &ldquo;spin multiplicities&rdquo; <span class="math inline">\(s=|m-n|,\ldots, m+n\)</span>, e.g.</p>
-<p><span class="math display">\[ 
+<p><span class="math display">\[
 \begin{align}
 (1,\frac{1}{2}) = \frac{1}{2}\oplus 1 \oplus \frac{3}{2}\,.
 \end{align}
@@ -182,9 +188,7 @@ which splits into a vector and an irreducible component <span class="math inline
 <p><a href="https://voi.id/en/memori/185165">
 <img src="../imgs/IronMike.png"  title="Iron Mike" width="100%">
 </a></p>
-
-    </div>
-  </main>
-</body>
-
+</div>
+    </main>
+  </body>
 </html>

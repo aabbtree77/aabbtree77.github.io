@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap"
+      rel="stylesheet"
+    />
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap" rel="stylesheet">
+    <link href="../templates/main.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
-<link href="../templates/main.css" rel="stylesheet">
-<link rel="icon" type="image/x-icon" href="favicon.ico">
+    <title>Ramunas Girdziusas</title>
+  </head>
 
-
-<title>Ramunas Girdziusas</title>
-
-</head>
-
-<body>
-  <main>
-    <div style="color:#918981;text-align:left;">
-	    <h1>Ramūnas Girdziušas</h1>
+  <body>
+    <main>
+      <div class="blog-article-container"><h1>Ramūnas Girdziušas</h1>
 
 <p><a href="https://aabbtree77.github.io/contact/contact.html">Contact</a>, <a href="https://github.com/aabbtree77?tab=repositories">Github</a>, <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf">Résumé</a>, <a href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf">CV</a></p>
 
@@ -28,13 +27,7 @@
   <div style="font-size: 1rem;">Last Update: July 2024</div>
 </div>
 
-<p><strong>&ldquo;For the record, I&rsquo;m not a vagrant. I&rsquo;m a hobo.&rdquo; - <a href="https://screenrant.com/why-reacher-hobo-not-vagrant/">Reacher (2022)</a></strong></p>
-
-<h1>Introduction</h1>
-
 <p>I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a <a href="https://1x.engineer/">1x engineer</a>. Take a look at some of my work: <a href="https://github.com/aabbtree77/twinpeekz2">3D effects</a>, <a href="https://github.com/aabbtree77/adast">embedded software</a>, <a href="https://github.com/aabbtree77/esp32-vpn">IoT with P2P</a>, and <a href="https://github.com/aabbtree77/law2">web development</a>.</p>
-
-<p><br></p>
 
 <h1>Selected Projects</h1>
 
@@ -44,15 +37,11 @@
 
 <p>Looking for ways and learning CRUD-based technology to automate massive tedious tasks, like student testing. My interim release includes <a href="https://github.com/aabbtree77/auth-starter-backend">backend</a> and <a href="https://github.com/aabbtree77/auth-starter-frontend">frontend</a> for a 3rd party-free user authentication which seems to be a pain-point in the TypeScript/Node ecosystem.</p>
 
-<p><br></p>
-
 <h2><a href="https://lawtrust.eu/">lawtrust.eu</a>: <a href="http://www.lawlt.eu/">lawlt.eu</a> <a href="https://github.com/aabbtree77/law2">Improved</a></h2>
 
 <p>Vilnius, February 2024.</p>
 
 <p>Applied Tailwind CSS and Go string substitution to build a multilingual website for a lawyer who speaks nine languages. Porkbun.com and github pages.</p>
-
-<p><br></p>
 
 <h2><a href="https://github.com/aabbtree77/miniguestlog">Web-Log</a></h2>
 
@@ -60,15 +49,11 @@
 
 <p>A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas, render.com, github pages, ipify.org, and geoip-lite API for the GeoLite data from MaxMind.</p>
 
-<p><br></p>
-
 <h2><a href="https://github.com/aabbtree77/adast">Paper Guillotine</a></h2>
 
 <p>Vilnius, 2020 - 2024.</p>
 
 <p>A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 (last update February 2024). I wrote a microcontroller code in C (avr-gcc).</p>
-
-<p><br></p>
 
 <h2><a href="https://github.com/aabbtree77/esp32-vpn">P2P Connectivity</a></h2>
 
@@ -76,15 +61,11 @@
 
 <p>A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and <a href="https://github.com/anywherelan/awl">awl</a>. Numerous tests of <a href="https://en.wikipedia.org/wiki/Hole_punching_(networking)">hole punching</a> through layers of routers and the use of the P2P network other than torrents (golibp2p).</p>
 
-<p><br></p>
-
 <h2><a href="https://github.com/aabbtree77/twinpeekz2">Volumetrically-Lit Sponza (Go, Nim)</a></h2>
 
 <p>Vilnius, 2020 - 2022.</p>
 
 <p>Implemented volumetric lighting in <a href="https://github.com/aabbtree77/twinpeekz">Go</a> and <a href="https://github.com/aabbtree77/twinpeekz2">Nim</a> (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following <a href="https://diglib.eg.org/handle/10.2312/egs.20091048.057-060">Balázs Tóth, Tamás Umenhoffer (2009)</a>, and <a href="https://gitlab.com/tomasoh/100_procent_more_volume">Tomas Öhberg (2017)</a>.</p>
-
-<p><br></p>
 
 <h2><a href="https://aabbtree77.github.io/shankland/shankland.html">Tensor Algebras</a></h2>
 
@@ -94,22 +75,16 @@
 
 <p><a href="https://www.youtube.com/watch?v=18rZv8qWZqA">&ldquo;Après la montagne, il y a la montagne&hellip;&rdquo; − Desireless, Hari om Ramakrishna (1989)</a></p>
 
-<p><br></p>
-
 <h2><a href="https://github.com/aabbtree77/MNIST-0.17">MNIST-0.17 (Python)</a></h2>
 
 <p>Vilnius, 2014 - 2015, 2020.</p>
 
 <p>Confirmed that Jonas Matuzas&rsquo; CNN model is one of the most convincing results in the MNIST digit recognition.</p>
 
-<p><br></p>
-
 <h2><a href="https://diglib.eg.org/handle/10.2312/3dor.20141044.009-015">3D Shape Normalization (Matlab)</a></h2>
 
 <p>PostDoc Chronicles 3: Lugano, 2013-2014. Mapped the &ldquo;Unroll the Swiss Roll&rdquo; problem to the fast multipole method-based electrostatics with an approximate distance
 constraint handling (simple projections ala Karmarkar and Cimmino in linear algebra). Davide Boscaini implemented the constraint gradient exactly and pushed the error rates.</p>
-
-<p><br></p>
 
 <h2><a href="https://hal.archives-ouvertes.fr/hal-00723427">Cloud Computing (Scilab)</a></h2>
 
@@ -117,17 +92,13 @@ constraint handling (simple projections ala Karmarkar and Cimmino in linear alge
 
 <p>Optimization of the fluid flow which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The optimization involved kriging and CMA-ES as the meta-optimizer of the expected multi-point improvement whose MC integration I sped up with a specialized unscented transform. See the <a href="https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/optimization2012.pdf">slides</a>.</p>
 
-<p><br></p>
-
 <h2><a href="https://github.com/aabbtree77/aabbtree77.github.io/blob/main/pdfs/ucla2009.pdf">Modified Thomson Problem (Unpublished)</a></h2>
 
 <p>PostDoc Chronicles 1: Los Angeles, 2008-2009.</p>
 
-<p>Prof. Dario Ringach suggested the modified Thomson problem (after <a href="https://en.wikipedia.org/wiki/J._J._Thomson">J.J. Thomson</a> who discovered the electron, not Lord Kelvin), which nearly led to <a href="https://en.wikipedia.org/wiki/Hilbert%27s_syzygy_theorem">Hilbert&rsquo;s syzygies</a>. It all got discontinued due to irrelevance to neurobiology. See the unpublished beginnings in the title link.</p>
+<p>Prof. Dario Ringach suggested the modified Thomson problem which led me to some precise theorems. However, I failed to extend them to a larger program. It all got discontinued due to irrelevance to neurobiology. See the unpublished beginnings in the title link.</p>
 
-<p>My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay.</p>
-
-<p><br></p>
+<p>My neighbor was hit with a baseball bat by some robbers. He spent a week in the hospital and received a twelve-thousand-dollar bill to pay which was covered by the UCLA, but not entirely, if I remember correctly.</p>
 
 <h2><a href="https://aaltodoc.aalto.fi/handle/123456789/2999">Anisotropic Diffusion Filters</a></h2>
 
@@ -137,26 +108,20 @@ constraint handling (simple projections ala Karmarkar and Cimmino in linear alge
 
 <p><div class="blockquote"></p>
 
-<p>R.I.P.
-  <br></p>
-
 <p>Daffertshofer-Haken-1994 as a strategically wrong, but inspiring paper,
-  E.T. Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena&hellip; Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha,
-  Mykola Ivanchenko, Elia Liitiäinen, Jan-Hendrik Schleimer, Jarrod Creado, Leo Michael,
-  Jaakko Martti Johannes Miettinen, Ville Rantamaula, Dexter He,
-  Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis,
-  Anita Bisi, Sergej Doudorov, Maxim Govtva, Paola Huaynate&hellip; I remember you.
-  </div></p>
+E.T. Jaynes, machine learning in 2000s, my great nine years in Finland: Suomenlinna, Serena&hellip; Vaida Rutkauskaitė, Alexander Ilin, Vitaliy Nevdacha,
+Mykola Ivanchenko, Elia Liitiäinen, Jan-Hendrik Schleimer, Jarrod Creado, Leo Michael,
+Jaakko Martti Johannes Miettinen, Ville Rantamaula, Dexter He,
+Mikko Katajamaa, Petteri Räisänen, Jaakko Peltonen, Petri Hyötylä, Matthieu Molinier, Jagdeesh Rajani, Sandro Grech, Ivan Ore, Giedrius Zavadskis,
+Anita Bisi, Sergej Doudorov, Maxim Govtva, Paola Huaynate&hellip; I remember you.</p>
 
-<p><br></p>
+<p></div></p>
 
 <h2>UNIPEN Parser (Matlab)</h2>
 
 <p>May 2000.</p>
 
-<p>My first job, at the CIS Lab in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was a non-recursive use of fscanf to read data the way it was stored.</p>
-
-<p><br></p>
+<p>My first job, at the CIS Lab, Helsinki University of Technology (TKK) in Finland (working with Jorma Laaksonen). During the first two weeks I wrote a parser which loaded UNIPEN data into Matlab structures. The code did not survive, but it was a non-recursive use of fscanf to read data the way it was stored.</p>
 
 <table align="center">
     <tr>
@@ -164,15 +129,13 @@ constraint handling (simple projections ala Karmarkar and Cimmino in linear alge
     </tr>
     <tr>
     <td>
-    <img src="../imgs/IljaKabakov1986.png"  alt="Modern art, USSR" width="100%" >
+    <img src="../imgs/IljaKabakov1986.jpg"  alt="Modern art, USSR" width="100%" >
     </td>
     </tr>
 </table>
 
 <p><br></p>
-
-    </div>
-  </main>
-</body>
-
+</div>
+    </main>
+  </body>
 </html>
