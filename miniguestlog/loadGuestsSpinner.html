@@ -1,87 +1,95 @@
 <!DOCTYPE html>
 
 <html class="notranslate" translate="no">
+  <head>
+    <meta name="google" content="notranslate" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<head>
-<meta name="google" content="notranslate">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap"
+      rel="stylesheet"
+    />
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap" rel="stylesheet">
-
-<link href="../templates/main.css" rel="stylesheet">
-<link rel="icon" type="image/x-icon" href="../favicon.ico">
-<link rel="stylesheet" href="spinner.css" />
-<title>Ramunas Girdziusas</title>
-
-</head>
+    <link href="../templates/main.css" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" />
+    <link rel="stylesheet" href="spinner.css" />
+    <title>Ramunas Girdziusas</title>
+  </head>
 
   <body>
     <main>
-    <div id="loadMessage" class="overlay-text">
-	      Cold start. May take a minute...
-	</div>
-    <div id="spinner" class="spinner"></div>
-    <div id="dataContainer" style="color:#918981;text-align:center;"></div>
+      <div id="loadMessage" class="overlay-text">
+        Cold start. May take a minute...
+      </div>
+      <div id="spinner" class="spinner"></div>
+      <div id="dataContainer" style="color: black; text-align: center"></div>
 
-    <script>
-      // Function to fetch data using the Fetch API
-      function getData(uri) {
-        let loadMessage = document.getElementById("loadMessage");
-        let spinner = document.getElementById("spinner");
-        let dataContainer = document.getElementById("dataContainer");
+      <script>
+        // Function to fetch data using the Fetch API
+        function getData(uri) {
+          let loadMessage = document.getElementById("loadMessage");
+          let spinner = document.getElementById("spinner");
+          let dataContainer = document.getElementById("dataContainer");
 
-        // Show loading spinner and message
-        loadMessage.style.display = "block";
-        spinner.style.display = "block";
-        dataContainer.innerHTML = "";
+          // Show loading spinner and message
+          loadMessage.style.display = "block";
+          spinner.style.display = "block";
+          dataContainer.innerHTML = "";
 
-        fetch(uri)
-          .then((response) => {
-            if (!response.ok) {
-              throw new Error("Network response was not ok");
-            }
-            return response.json();
-          })
-          .then((data) => {
-            // Hide loading spinner and message
-            loadMessage.style.display = "none";
-            spinner.style.display = "none";
+          fetch(uri)
+            .then((response) => {
+              if (!response.ok) {
+                throw new Error("Network response was not ok");
+              }
+              return response.json();
+            })
+            .then((data) => {
+              // Hide loading spinner and message
+              loadMessage.style.display = "none";
+              spinner.style.display = "none";
 
-            // Display the data in the HTML page
-            displayData(data);
-          })
-          .catch((error) => {
-            console.error("Error fetching data:", error);
+              // Display the data in the HTML page
+              displayData(data);
+            })
+            .catch((error) => {
+              console.error("Error fetching data:", error);
 
-            // Hide loading spinner and display an error message
-            spinner.style.display = "none";
-            dataContainer.innerHTML =
-              "<p>Error loading data. Please try again.</p>";
+              // Hide loading spinner and display an error message
+              spinner.style.display = "none";
+              dataContainer.innerHTML =
+                "<p>Error loading data. Please try again.</p>";
+            });
+        }
+
+        // Function to display data in the HTML page
+        function displayData(dataArray) {
+          var dataContainer = document.getElementById("dataContainer");
+
+          // Loop through the array and create paragraphs
+          dataArray.forEach(function (item, ind) {
+            var paragraph = document.createElement("p");
+            paragraph.textContent =
+              ind.toString() +
+              ". " +
+              item.date +
+              " " +
+              item.time +
+              ", " +
+              item.city +
+              ", " +
+              item.country;
+            dataContainer.appendChild(paragraph);
           });
-      }
+        }
 
-      // Function to display data in the HTML page
-      function displayData(dataArray) {
-        var dataContainer = document.getElementById("dataContainer");
-
-        // Loop through the array and create paragraphs
-        dataArray.forEach(function (item, ind) {
-          var paragraph = document.createElement("p");
-          paragraph.textContent =
-            ind.toString() + ". " + item.date + " " + item.time 
-            + ", " + item.city + ", " + item.country;
-          dataContainer.appendChild(paragraph);
-        });
-      }
-
-      // Specify the URI of the server endpoint
-      var serverURI = "https://miniguestlog.onrender.com/guests";
-      // Make the fetch request
-      getData(serverURI);
-    </script>
-  </main>  
+        // Specify the URI of the server endpoint
+        var serverURI = "https://miniguestlog.onrender.com/guests";
+        // Make the fetch request
+        getData(serverURI);
+      </script>
+    </main>
   </body>
 </html>
