@@ -1,67 +1,18 @@
-# Notes
+## Introduction
 
-## HTML
+This is the code of [my homepage](https://aabbtree77.github.io/). Done with vanilla HTML, CSS, and Js, which is likely not the best way anymore in view of Tailwind, React, and TypeScript.
 
-- [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/).
- 
-- [flex-basis is 50% of what?](https://teamtreehouse.com/community/flexbasis-is-50-of-what)
+The page is a nonsymmetric layout that has a grid inside a grid, with a Mike Tyson popup window just for fun. Everything fits into a single viewport. **All of these are really bad ideas and I won't repeat them in the future.** Tables and any horizontal layout activity does not scale, the placement takes ages and is fragile with resizing.
 
-- A flex container itself needs to be centered and scrollbar-free, which can be achieved by setting its parent to [100% width and height](https://stackoverflow.com/questions/12989931/body-height-100-displaying-vertical-scrollbar). 
+Slide shows and snapping turned out to be buggy too, discarded them. Everything breaks as soon as one starts resizing a browser window, using multiple monitors with different resolutions, mobile phones...
 
-- [CSS](https://www.youtube.com/watch?v=7kVeCqQCxlk) [Grid](https://robertcooper.me/post/grid-does-not-replace-flexbox).
+The major lesson to learn is well put in the title of this report:
 
-- [The Best Of CSS by Theo - t3․gg](https://www.youtube.com/watch?v=CQuTF-bkOgc&t=1595s).
+[How I learned to stop worrying and structure all writing as a list.](https://dynomight.net/lists/)
 
-- Android would produce tiny font bugs in a few places, [this line](https://stackoverflow.com/questions/25685265/how-to-set-equal-font-size-in-table-cells-for-mobile-device-html-pages) fixes them:
-  ```html
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  ```
-  
-- [Font sizing with rem](https://snook.ca/archives/html_and_css/font-size-with-rem), [compounding](https://stackoverflow.com/questions/5395544/compounded-relative-font-sizes-a-clean-way-to-adopt-the-font-size-of-the-child).
+This might save one a lot of time. Fancy layouts remain an unsolved problem.
 
-- [You need to fix your line-height](https://www.kevinpowell.co/article/line-height/).
-
-- [Is the Underlined Link Hurting Readability?](https://www.uxbooth.com/articles/is-the-underlined-link-hurting-readability/)
-
-- [Is it possible to apply CSS to half of a character?](https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character)
-
-- [Is Dark Mode Good For Your Eyes?](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
-
-- [How do you write a comment in Markdown?](https://stackoverflow.com/questions/4823468/comments-in-markdown) Answer: You don't.
-
-- Markdown and LaTeX/MathJax make a very dubious combo, but it is nice to have immediate rendering instead of linking a pdf, clicking on it, downloading, opening.
-
-I do not use any fancy flex features anymore, just Tailwind `flex flex-col`. Mix stuff with grid and empty `<div></div>` whenever "basis" is needed.
-
-## Diagrams
-
-- [Mermaid](https://mermaid-js.github.io/mermaid/#/) &#8801; automated node placement and nonintersecting lines, unlike [diagrams.net](https://www.diagrams.net/blog), but the automated text placement is horrid. Multi-line labels are displayed in the editor, but not in png. svg may even miss text entirely, bugs. Mermaid saves time, but I always regret using it.
-
-  On Ubuntu 22.04, install nodejs and npm/yarn via [volta](https://docs.volta.sh/guide/getting-started) (uninstall them by simply removing .volta, .npm, .yarn):
-
-  ```bash
-  curl https://get.volta.sh | bash
-  volta install node
-  volta install yarn
-  git clone https://github.com/mermaid-js/mermaid-live-editor.git
-  cd mermaid-live-editor
-  yarn install
-  yarn dev -- --open
-  ```
-
-  This will open the editor at http://localhost:3000/. The entire folder with node_modules is 437MB.
-
-- [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) is also mildly interesting.
-
-## Presentations
-
-- [shower](https://github.com/shower/shower)? Neat raw HTML/CSS/Js template to start growing, but too slow just like LaTeX and Beamer.
-
-- [Excalidraw](https://excalidraw.com/)? [Excalidraw Slides](https://excalidraw-slides.netlify.app/#)?
-
-- [How to create a presentation in draw.io](https://community.tmpdir.org/t/how-to-create-a-presentation-in-draw-io/488). See also [the draw.io blog](https://drawio-app.com/blog/building-presentations-team-members-will-%F0%9F%A7%A1/). This could be the best way.
-
-## This Web Site
+## Details for Personal Use (Myself)
 
 First time, install [Go](https://go.dev/doc/install), followed by
 
@@ -130,10 +81,62 @@ My github "workflow":
     git reset --hard hash#
     ```
 
-## Github Pages, Custom Domain
+## References and Further Observations
 
-[A and CNAME Records.](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+- [How I learned to stop worrying and structure all writing as a list.](https://dynomight.net/lists/)
 
-[Tech White. How to Add a Custom Domain with GitHub Pages in 2024.](https://www.youtube.com/watch?v=k3Y3c5WlAfc)
+- [A and CNAME Records.](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 
+- [Tech White. How to Add a Custom Domain with GitHub Pages in 2024.](https://www.youtube.com/watch?v=k3Y3c5WlAfc)
+
+- [Flex is troublesome](https://teamtreehouse.com/community/flexbasis-is-50-of-what). Isolate the problem and use ChatGTP to generate some parts of the code like a header with a content list with the right sizes in percentages and a background image. Backgrounds and scrollbars are also fragile on mobile. I do not use any fancy flex features anymore, just Tailwind `flex flex-col`. Mix stuff with grid and empty `<div></div>` whenever "basis" is needed. A flex container itself needs to be centered and scrollbar-free, which can be achieved by setting its parent to [100% width and height](https://stackoverflow.com/questions/12989931/body-height-100-displaying-vertical-scrollbar). 
+
+- [CSS](https://www.youtube.com/watch?v=7kVeCqQCxlk) [Grid.](https://robertcooper.me/post/grid-does-not-replace-flexbox)
+
+- [The Best Of CSS by Theo - t3․gg.](https://www.youtube.com/watch?v=CQuTF-bkOgc&t=1595s)
+
+- Android would produce tiny font bugs in a few places, [this line](https://stackoverflow.com/questions/25685265/how-to-set-equal-font-size-in-table-cells-for-mobile-device-html-pages) fixes them:
+  ```html
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  ```
+  
+- [Font sizing with rem](https://snook.ca/archives/html_and_css/font-size-with-rem), [compounding.](https://stackoverflow.com/questions/5395544/compounded-relative-font-sizes-a-clean-way-to-adopt-the-font-size-of-the-child)
+
+- [You need to fix your line-height.](https://www.kevinpowell.co/article/line-height/)
+
+- [Is the Underlined Link Hurting Readability?](https://www.uxbooth.com/articles/is-the-underlined-link-hurting-readability/)
+
+- [Is it possible to apply CSS to half of a character?](https://stackoverflow.com/questions/23569441/is-it-possible-to-apply-css-to-half-of-a-character)
+
+- [Is Dark Mode Good For Your Eyes?](https://kevquirk.com/is-dark-mode-such-a-good-idea/)
+
+- [How do you write a comment in Markdown?](https://stackoverflow.com/questions/4823468/comments-in-markdown) Answer: You don't.
+
+- Markdown and LaTeX/MathJax is not a good idea.
+
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) &#8801; automated node placement and nonintersecting lines, unlike [diagrams.net](https://www.diagrams.net/blog), but the automated text placement is horrid. Multi-line labels are displayed in the editor, but not in png. svg may even miss text entirely, bugs.
+
+  On Ubuntu 22.04, install nodejs and npm/yarn via [volta](https://docs.volta.sh/guide/getting-started) (uninstall them by simply removing .volta, .npm, .yarn):
+
+  ```bash
+  curl https://get.volta.sh | bash
+  volta install node
+  volta install yarn
+  git clone https://github.com/mermaid-js/mermaid-live-editor.git
+  cd mermaid-live-editor
+  yarn install
+  yarn dev -- --open
+  ```
+
+  This will open the editor at http://localhost:3000/. The entire folder with node_modules is 437MB.
+  
+  **Mermaid saves time, but I always regret using it.**
+
+- [projectstorm/react-diagrams](https://github.com/projectstorm/react-diagrams) is mildly interesting.
+
+- [Shower?](https://github.com/shower/shower) A neat raw HTML/CSS/Js template to start growing, but it will be too slow just like LaTeX and Beamer.
+
+- [Excalidraw?](https://excalidraw.com/) [Excalidraw Slides?](https://excalidraw-slides.netlify.app/#)
+
+- [How to create a presentation in draw.io](https://community.tmpdir.org/t/how-to-create-a-presentation-in-draw-io/488). See also [the draw.io blog](https://drawio-app.com/blog/building-presentations-team-members-will-%F0%9F%A7%A1/). This could be the best way to diagram and create presentations.
 
