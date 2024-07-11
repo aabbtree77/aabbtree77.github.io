@@ -6,7 +6,11 @@
   <div style="font-size: 1rem;">Last Update: July 2024</div>
 </div>
 
-I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008. Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a [1x engineer](https://1x.engineer/). Take a look at some of my work in [electronics](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
+I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in computer science in Finland from 2000 to 2008.
+
+Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a [1x engineer](https://1x.engineer/).
+
+Take a look at some of my work in [electronics](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
 
 # Selected Projects
 

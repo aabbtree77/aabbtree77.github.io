@@ -32,6 +32,8 @@
 
 # FR-1980
 
+[Diva (1981)](https://www.imdb.com/title/tt0082269/)
+
 [Possession (1981)](https://www.imdb.com/title/tt0082933/)
 
 [L'été meurtrier (1983)](https://www.imdb.com/title/tt0086655/)
