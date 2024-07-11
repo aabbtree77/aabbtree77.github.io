@@ -2,11 +2,11 @@
 
 Павел Загребельный (Pavel Zagrebelnyy) is the main creator of [Spintires: The Original Game (2014-2020)](https://en.wikipedia.org/wiki/Spintires). This is an amazing game about off-road cargo delivery missions with a hypnotizing level of realism regarding mud and vehicle physics.
 
-[Unbalanced rewards between Pavel Zagrebelnyy, Saber, and Oovee](https://www.ign.com/articles/stuck-in-the-mud-how-a-tiny-beloved-driving-game-sparked-a-bizarre-decade-long-feud) has led them to the mess of three subsequent games which are entirely missing the most interesting question to answer: Will a particular setup will suffice to survive, or not?
+[The mess with unbalanced rewards between Pavel Zagrebelnyy, Saber, and Oovee](https://www.ign.com/articles/stuck-in-the-mud-how-a-tiny-beloved-driving-game-sparked-a-bizarre-decade-long-feud) has led them to three separate games which are entirely missing the most interesting question to answer: Will a particular setup will suffice to survive, or not?
 
 There should be at least several types of mud: (i) the denser swamps which are better handled with tracked vehicles, and (ii) those which can be conquered by the vehicles with very large diameter (>1600mm), low pressure tires.
 
-I would want to see DT-30, Trom-8, and Trom-20, with a proper Sherp/Bigbo or Sherp Ark 10x10 which can get through wilderness for real. Syberia with Putorana Plateau, or even Kamchatka and the North, ultimately. 
+I would want to see DT-30, Trom-8, and Trom-20, with a proper Sherp/Bigbo which can get through mild forests and serious swamps. Syberia with Putorana Plateau, or even Kamchatka and the North, ultimately. Not 30 maps/seasons with 1000 missions of bs to choose from.
 
 Imagine the best of Spintires and [BeamNg.drive](https://en.wikipedia.org/wiki/BeamNG.drive) united into a single game.
 

@@ -4,7 +4,9 @@
   <div style="font-size: 1rem;">Last Update: September 2023</div>
 </div>
 
-Software companies. Native: Vinted, Hostinger, Kilo.Health, Teltonika, NordVPN, Nordcurrent Group, TutoToons, No Brakes Games... Foreign: Most of the banks, Dassault Systèmes, IBM, Canonical, Unity, Wix, Nasdaq, Kayak, Wargaming.
+Native software companies: Vinted, Hostinger, Kilo.Health, Teltonika, NordVPN, Nordcurrent Group, TutoToons, No Brakes Games... 
+
+Foreign branches: Most of the banks, Dassault Systèmes, IBM, Canonical, Unity, Wix, Nasdaq, Kayak, Wargaming...
 
 Cinema. [Žaibo nušviesti (1996)](https://www.imdb.com/title/tt0201195/), [Aš esi tu (2006)](https://www.imdb.com/title/tt0811164/), [Nuodėmės užkalbėjimas (2007)](https://www.imdb.com/title/tt0929806/), [Sangailės vasara (2015)](https://www.imdb.com/title/tt2994832/), [Išgyventi vasarą (2018)](https://www.imdb.com/title/tt7591430/).
 
