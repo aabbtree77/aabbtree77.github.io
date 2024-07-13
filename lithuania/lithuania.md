@@ -6,7 +6,9 @@
 
 Native software companies: Vinted, Hostinger, Kilo.Health, Teltonika, NordVPN, Nordcurrent Group, TutoToons, No Brakes Games... 
 
-Foreign branches: Most of the banks, Dassault Systèmes, IBM, Canonical, Unity, Wix, Nasdaq, Kayak, Wargaming...
+Foreign branches: Dassault Systèmes, IBM, Canonical, Unity, Wix, Nasdaq, Kayak, Wargaming...
+
+Painters: [Mikalojus Konstantinas Čiurlionis](https://www.youtube.com/watch?v=CNcCcQ38Sk4), [Arūnas Žilys](https://www.pinterest.com/pin/225461525066402919/), [Никас Сафронов](https://youtu.be/amZBAYsepjY?t=1763). 
 
 Cinema. [Žaibo nušviesti (1996)](https://www.imdb.com/title/tt0201195/), [Aš esi tu (2006)](https://www.imdb.com/title/tt0811164/), [Nuodėmės užkalbėjimas (2007)](https://www.imdb.com/title/tt0929806/), [Sangailės vasara (2015)](https://www.imdb.com/title/tt2994832/), [Išgyventi vasarą (2018)](https://www.imdb.com/title/tt7591430/).
 

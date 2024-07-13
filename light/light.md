@@ -8,11 +8,13 @@
 
 [Ole Rømer (1671).](https://prideout.net/blog/romer/) Io eclipse times measured on Earth six months apart. It turns out that the value is changing, and the experiment reveals something else.
 
-[Arago White Spot (1818).](https://en.wikipedia.org/wiki/Arago_spot) Shadows are not what they seem. The disk had to be nearly perfect (3% roughness would make the spot vanish). Similarly, one can obtain a black spot when an obstacle is replaced with an aperture. 
+[Arago White Spot (1818).](https://en.wikipedia.org/wiki/Arago_spot) Shadows are not what they seem. The disk had to be nearly perfect (3% roughness would make the spot vanish). Similarly, one can obtain a black spot when an obstacle is replaced with an aperture.
 
-It is very interesting that such experiments emerge only in the 19th cetury, just like most of the experiments with electricity. Just like calculus. Why such a stalemate for thousands of years between say Archimedes (c. 287 – c. 212 BC) and Newton (1642 – 1726)?
+It is very interesting that such experiments emerge only in the 19th century, just like most of the experiments with electricity.
 
-Why does Gutenberg's printing appear only in 1450? Yet another great call for attention to detail.
+Why does Gutenberg's printing appear only in 1450?
+
+Why such a stalemate for 2000 years between Archimedes (c. 287 – c. 212 BC) and Newton (1642 – 1726)?
 
 [P.N. Lebedev (1899).](https://youtu.be/8qVLMHW5cbY?t=783) Light exerts a mechanical pressure. Pavlo Victor shows the radiometric effect which P.N. Lebedev had to suppress along with the thermal convection.
 

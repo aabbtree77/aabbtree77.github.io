@@ -36,6 +36,8 @@
 
 [Possession (1981)](https://www.imdb.com/title/tt0082933/)
 
+[La balance (1982)](https://www.imdb.com/title/tt0083611/)
+
 [L'été meurtrier (1983)](https://www.imdb.com/title/tt0086655/)
 
 [Subway (1985)](https://www.imdb.com/title/tt0090095/)
@@ -43,6 +45,8 @@
 [L'amour braque (1985)](https://www.imdb.com/title/tt0088714/)
 
 [Mauvais sang (1986)](https://www.imdb.com/title/tt0091497/)
+
+[Les fugitifs (1986)](https://www.imdb.com/title/tt0091093/)
 
 [L'ami de mon amie (1987)](https://www.imdb.com/title/tt0092550/)
 
