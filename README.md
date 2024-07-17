@@ -1,16 +1,16 @@
 ## Introduction
 
-This is the code of [my homepage](https://aabbtree77.github.io/). It is created with vanilla HTML, CSS, and Js, which is likely not the best way anymore in view of Tailwind, React, and TypeScript. The code also includes [the frontend part](https://github.com/aabbtree77/aabbtree77.github.io/tree/main/miniguestlog) for the guest logging. The backend is in [a separate github repo](https://github.com/aabbtree77/miniguestlog) hosted on [render.com](https://render.com/).
+This is the code of [aabbtree77.github.io](https://aabbtree77.github.io/): Vanilla HTML, CSS, and Js. The code also includes [the frontend part](https://github.com/aabbtree77/aabbtree77.github.io/tree/main/miniguestlog) for the guest logging whose backend is in [a separate github repo](https://github.com/aabbtree77/miniguestlog) hosted on [render.com](https://render.com/).
 
-The page is a nonsymmetric layout that has a grid inside a grid, with a Mike Tyson popup window just for fun. Everything fits into a single viewport. **All of these are really bad ideas and I won't repeat them in the future.** Tables and any horizontal layout activity does not scale, the placement takes ages and is fragile on mobile devices.
+The page is a nonsymmetric layout that has a grid inside a grid, with a popup window for fun. Everything fits into a single viewport. **All of these are really bad ideas and I won't repeat them in the future.** Grids/tables do not scale, adaptation to multiple screen resolutions takes ages.
 
-Slide shows and snapping turned out to be buggy too, discarded them. Everything breaks as soon as one starts resizing a browser window, using multiple monitors with different resolutions, mobile phones...
+Slide shows and snapping turned out to be buggy too, discarded them.
 
 The major lesson to learn is well put in the title of this report:
 
 [How I learned to stop worrying and structure all writing as a list.](https://dynomight.net/lists/)
 
-This might save one a lot of time. Fancy layouts remain an unsolved problem.
+This might save one a lot of time. Fancy reliable layouts remain an unsolved problem.
 
 ## Details for Personal Use (Myself)
 
@@ -81,7 +81,7 @@ My github "workflow":
   git reset --hard hash#
   ```
 
-## References and Further Observations
+## References
 
 - [How I learned to stop worrying and structure all writing as a list.](https://dynomight.net/lists/)
 
