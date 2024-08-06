@@ -21,7 +21,7 @@ func check(e error) {
 
 func main() {
 
-	inputNames := []string{"about", "contact", "french", "shankland", "zhilin", "shpagin", "zagrebelnyy", "light", "lithuania"}
+	inputNames := []string{".", "contact"}
 
 	// Create empty lists
 	inputFiles := make([]string, len(inputNames))
@@ -31,19 +31,9 @@ func main() {
 	// Fill them
 	for i, name := range inputNames {
 		
-		inputFiles[i] = name + "/" + name + ".md"
-		
-		if ((i==0) || (i==1)) {
-		    templateFiles[i] = "templates/" + name + "_template.html"
-		} else if i==2 {
-		    templateFiles[i] = "templates/" + "notransl_article" + "_template.html"
-		} else if ((i==3) || (i==4)) {
-		    templateFiles[i] = "templates/" + "math_article" + "_template.html"    
-		} else {
-		    templateFiles[i] = "templates/" + "article" + "_template.html"
-		}
-		
-		outputFiles[i] = name + "/" + name + ".html"
+		inputFiles[i] = name + "/" + "index.md"
+		templateFiles[i] = name + "/" + "index_template.html"
+		outputFiles[i] = name + "/" + "index.html"
 	}
 
 	// Convert each Markdown file to HTML and save to the corresponding output file

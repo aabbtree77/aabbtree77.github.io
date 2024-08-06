@@ -1,6 +1,6 @@
 # Ramūnas Girdziušas
 
-[Contact](https://aabbtree77.github.io/contact/contact.html), [Github](https://github.com/aabbtree77?tab=repositories), [Résumé](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [CV](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
+[Contact](https://aabbtree77.github.io/contact/index.html), [Github](https://github.com/aabbtree77?tab=repositories), [Résumé](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [CV](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf), [Log](https://aabbtree77.github.io/miniguestlog/loadGuestsSpinner.html)
 
 <div style="display: flex; justify-content: flex-start">
   <div style="font-size: 1rem;">Last Update: July 2024</div>
@@ -18,7 +18,7 @@ Take a look at some of my work in [electronics](https://github.com/aabbtree77/mo
 
 Vilnius, Now.
 
-Looking for ways and learning CRUD-based technology to automate massive tedious tasks, like student testing. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which is a pain-point in the TypeScript/Node ecosystem.
+Looking for ways to apply the CRUD-based web to automate massive tedious tasks and build services. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which is a pain point in Node.
 
 ## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) [Improved](https://github.com/aabbtree77/law2)
 
@@ -105,7 +105,7 @@ My first job at the CIS Lab, Helsinki University of Technology (TKK) in Finland 
     </tr>
     <tr>
     <td>
-    <img src="../imgs/IljaKabakov1986.jpg"  alt="Modern art, USSR" width="100%" >
+    <img src="imgs/IljaKabakov1986.jpg"  alt="Modern art, USSR" width="100%" >
     </td>
     </tr>
 </table>
