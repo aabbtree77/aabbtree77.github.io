@@ -50,7 +50,7 @@ Vilnius, 2020 - 2022.
 
 Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume).
 
-## [Tensor Algebras](https://aabbtree77.github.io/shankland/shankland.html)
+## [Tensor Algebra](https://aabbtree77.github.io/blog/)
 
 Vilnius, 2015 - 2020.
 
