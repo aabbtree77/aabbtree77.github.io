@@ -1,6 +1,6 @@
 # Ramūnas Girdziušas
 
-[Contact](https://aabbtree77.github.io/contact/index.html), [Github](https://github.com/aabbtree77?tab=repositories), [WebCV](https://aabbtree77.github.io/cv/), [résumé.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [cv.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf), [Log](https://aabbtree77.github.io/miniguestlog/loadGuestsSpinner.html)
+[Contact](https://aabbtree77.github.io/contact/index.html), [Github](https://github.com/aabbtree77?tab=repositories), [WebCV](https://aabbtree77.github.io/cv/), [Blog](https://aabbtree77.github.io/blog/), [résumé.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [cv.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
 
 <div style="display: flex; justify-content: flex-start">
   <div style="font-size: 1rem;">Last Update: July 2024</div>
@@ -8,7 +8,7 @@
 
 I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in machine learning in Finland from 2000 to 2008.
 
-Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer, [1x engineer](https://1x.engineer/) to be precise.
+Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer, a [1x engineer](https://1x.engineer/) to be precise.
 
 Take a look at some of my work in [electronics](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
 
@@ -24,13 +24,13 @@ Looking for ways to apply the CRUD-based web to automate massive tedious tasks a
 
 Vilnius, February 2024.
 
-Applied Tailwind CSS and Go string substitution to build a multilingual website for a lawyer who speaks nine languages. Porkbun.com and github pages.
+Tailwind CSS and Go string substitution applied to build a multilingual website for a lawyer who speaks nine languages. Porkbun.com and github pages.
 
 ## [Web-Log](https://github.com/aabbtree77/miniguestlog)
 
 Vilnius, 2023-2024.
 
-A MERN app to log geolocation of the last 50 visitors of this homepage. MongoDB Atlas, Compass, render.com, github pages, ipify.org, and geoip-lite API for the GeoLite data from MaxMind.
+A MERN app to [log](https://aabbtree77.github.io/miniguestlog/loadGuestsSpinner.html) geolocation of the last 50 visitors of this homepage. MongoDB Atlas, Compass, render.com, github pages, ipify.org, and geoip-lite API for the GeoLite data from MaxMind.
 
 ## [Paper Guillotine](https://github.com/aabbtree77/adast)
 
