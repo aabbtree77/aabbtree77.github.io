@@ -18,37 +18,37 @@ Take a look at some of my work in [electronics](https://github.com/aabbtree77/mo
 
 Vilnius, Now.
 
-Looking for ways to apply the CRUD-based web to automate massive tedious tasks and build services. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which is a pain point in Node.
+Looking for some ways to automate tedious tasks and build services. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which is a pain point in Node.
 
 ## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) [Improved](https://github.com/aabbtree77/law2)
 
 Vilnius, February 2024.
 
-Tailwind CSS and Go string substitution applied to build a multilingual website for a lawyer who speaks nine languages. Porkbun.com and github pages.
+Tailwind CSS and Go string substitution applied to build a multilingual website for a lawyer who speaks nine languages. Porkbun.com and github pages. This is where I learned that SEO and SSL do mean anything per se. Pay Google Ads and they will make a website visible, the rest is not even secondary effects.
 
 ## [Web-Log](https://github.com/aabbtree77/miniguestlog)
 
 Vilnius, 2023-2024.
 
-A MERN app to [log](https://aabbtree77.github.io/miniguestlog/loadGuestsSpinner.html) geolocation of the last 50 visitors of this homepage. MongoDB Atlas, Compass, render.com, github pages, ipify.org, and geoip-lite API for the GeoLite data from MaxMind.
+A MERN app to [log](https://aabbtree77.github.io/miniguestlog/loadGuestsSpinner.html) geolocation of the last 50 visitors of this homepage. MongoDB Atlas, Compass, render.com, github pages, ipify.org, and geoip-lite API for the GeoLite data from MaxMind. MERN is a very productive stack, but one would have to write the authentication part oneself. The bigger problem is a lack of convergence. A critical mass is now dropping vanilla Js and Express entirely and concentrating around Next.js. The latter is about two or three different versions of it, with users treated as beta testers.
 
 ## [Paper Guillotine](https://github.com/aabbtree77/adast)
 
 Vilnius, 2020 - 2024.
 
-A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 (last update: February 2024). I wrote a microcontroller code in C (avr-gcc).
+A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real factory machine since February 2020 (last update: February 2024). I wrote a microcontroller code in C (avr-gcc). This is the first time in my life where I really helped someone with my coding skill, made the world a better place. Most of the time it is just "projects" and "experience".
 
 ## [P2P Connectivity](https://github.com/aabbtree77/esp32-vpn)
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of [hole punching](<https://en.wikipedia.org/wiki/Hole_punching_(networking)>) through layers of routers and the use of the P2P network other than torrents (golibp2p).
+A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of [hole punching](<https://en.wikipedia.org/wiki/Hole_punching_(networking)>) through layers of routers with the use of the P2P network other than torrents, to control an ESP32 device globally, without obscure 3rd party services. The P2P technology is still very little used in the IoT because it is not suitable for real time critical applications that demand, say, video streaming or fast response times. On the other hand, it allows to remove all this paid 3rd party clutter admirably. The problem with paid 3rd party services is not that they are paid. They add complexity, they are not reliable, transparent, debuggable.
 
 ## [Volumetrically-Lit Sponza (Go, Nim)](https://github.com/aabbtree77/twinpeekz2)
 
 Vilnius, 2020 - 2022.
 
-Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume).
+Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Go and Nim are amazing projects, but their advantages (build systems, readability) barely matter where a 3D backend is a real horror story. Static types do not catch much, and the only way to make progress is to move extremely slowly. Resort to runtime tools like RenderDoc when getting stuck staring at a black sreen. C++, Nim, or Rust/Zig/XYZ? OpenGL, Vulkan, or WebGPU? Gave up on this.
 
 ## [Tensor Algebra](https://aabbtree77.github.io/blog/)
 
