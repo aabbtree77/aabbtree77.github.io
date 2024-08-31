@@ -8,7 +8,7 @@
 
 I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in machine learning in Finland from 2000 to 2008.
 
-Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer, a [1x engineer](https://1x.engineer/) to be precise.
+Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer, a [1x engineer](https://1x.engineer/) more or less.
 
 Take a look at some of my work in [electronics](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
 
@@ -18,13 +18,13 @@ Take a look at some of my work in [electronics](https://github.com/aabbtree77/mo
 
 Vilnius, Now.
 
-Looking for some ways to automate tedious tasks and build services. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which is a pain point in Node.
+Learning some ways to build web GUIs and services. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which is a pain point in Node.
 
 ## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) [Improved](https://github.com/aabbtree77/law2)
 
 Vilnius, February 2024.
 
-Tailwind CSS and Go string substitution applied to build a multilingual website for a lawyer who speaks nine languages. Porkbun.com and github pages.
+A multilingual website for a lawyer who speaks nine languages. Static HTML, Tailwind CSS, [gomarkdown](https://github.com/gomarkdown/markdown), porkbun.com and github pages.
 
 ## [Web-Log](https://github.com/aabbtree77/miniguestlog)
 
@@ -42,19 +42,19 @@ A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real 
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of [hole punching](<https://en.wikipedia.org/wiki/Hole_punching_(networking)>) through layers of routers with the use of the P2P network other than torrents, to control an ESP32 device globally, without obscure 3rd party services. The P2P technology is still very little used in the IoT because it is not suitable for real time critical applications which demand video streaming or fast response times. On the other hand, it allows to remove all this paid 3rd party clutter admirably. The problem with paid 3rd party services is not that they are paid. They are seldom reliable, transparent, debuggable.
+A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of [hole punching](<https://en.wikipedia.org/wiki/Hole_punching_(networking)>) through layers of routers with the use of the P2P network other than torrents, to control an ESP32 device globally, without obscure 3rd party services. The ESP32 may have its use in massive local wireless sensor networks, but it could be cheaper, with more RAM and more reliable software.
 
 ## [Volumetrically-Lit Sponza (Go, Nim)](https://github.com/aabbtree77/twinpeekz2)
 
 Vilnius, 2020 - 2022.
 
-Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Go and Nim are amazing projects, but their advantages (build systems, readability) barely matter where a 3D backend is a real horror story. Static types do not catch much, one must code slowly, resorting to runtime tools like RenderDoc. C++, Nim, or Rust/Zig/XYZ? OpenGL, Vulkan, or WebGPU? Gave up on this.
+Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Go and Nim are amazing projects, but their advantages (build systems, code readability) barely matter where a 3D backend is a horror story and one must resort to runtime tools like RenderDoc. OpenGL, Vulkan, or WebGPU? Gave up on this.
 
 ## [The Algebra of Tensor Fields](https://aabbtree77.github.io/blog/)
 
 Vilnius, 2015 - 2020.
 
-Verified tensor algebras of Donn G. Shankland. I doubt mathematicians are aware of them, and they are probably little known even in physics. An incredible thing about them: They are just enumerations of certain combinations with degree matching, with linear algebra, but how long and sophisticated is the main chain of these computations, and how many unclear points still remain (why algebra, what is the connection with Lorentz irreps as in Weinberg's QFT Vol.1). Consider this as "Theoretical Physics: The Missing Manual", but this is all hopeless.
+Verified tensor algebras of Donn G. Shankland. Consider this as "Tensors: The Missing Manual", but this is all hopeless.
 
 ["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
