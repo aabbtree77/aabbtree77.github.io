@@ -1,6 +1,6 @@
 # Ramūnas Girdziušas
 
-[Contact](https://aabbtree77.github.io/contact/index.html), [Github](https://github.com/aabbtree77?tab=repositories), [WebCV](https://aabbtree77.github.io/cv/), [Blog](https://aabbtree77.github.io/blog/), [résumé.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [cv.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
+[Contact](https://aabbtree77.github.io/contact/index.html), [Github](https://github.com/aabbtree77?tab=repositories), [WebCV](https://aabbtree77.github.io/cv/), [Blog](https://aabbtree77.github.io/blog/), [resume.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [cv.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
 
 <div style="display: flex; justify-content: flex-start">
   <div style="font-size: 1rem;">Last Update: July 2024</div>
@@ -8,9 +8,9 @@
 
 I studied electrical engineering in Lithuania from 1994 to 1999, followed by research in machine learning in Finland from 2000 to 2008.
 
-Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software engineer, a [1x engineer](https://1x.engineer/) more or less.
+Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software [engineer](https://1x.engineer/).
 
-Take a look at some of my work in [electronics](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
+Take a look at some of my work with [hardware](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
 
 # Selected Projects
 
@@ -42,19 +42,19 @@ A joint work with Saulius Rakauskas (Infovega). We have been maintaining a real 
 
 Vilnius, 2021 - 2022.
 
-A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl). Numerous tests of [hole punching](<https://en.wikipedia.org/wiki/Hole_punching_(networking)>) through layers of routers with the use of the P2P network other than torrents, to control an ESP32 device globally, without obscure 3rd party services. The ESP32 may have its use in massive local wireless sensor networks, but it could be cheaper, with more RAM and more reliable software.
+A joint work with Saulius Rakauskas (Infovega): A remote plant watering system with ESP32, MicroPython, Mosquitto MQTT, Ubuntu and [awl](https://github.com/anywherelan/awl) with golibp2p. Numerous tests of [hole punching](<https://en.wikipedia.org/wiki/Hole_punching_(networking)>) through layers of routers with the use of the P2P network other than torrents, to control an ESP32 device globally, without obscure 3rd party services.
 
 ## [Volumetrically-Lit Sponza (Go, Nim)](https://github.com/aabbtree77/twinpeekz2)
 
 Vilnius, 2020 - 2022.
 
-Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Go and Nim are amazing projects, but their advantages (build systems, code readability) barely matter where a 3D backend is a horror story and one must resort to runtime tools like RenderDoc. OpenGL, Vulkan, or WebGPU? Gave up on this.
+Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Go and Nim are amazing projects, but their advantages (build systems, code readability) barely matter where a 3D backend is a horror story and one must resort to runtime tools like RenderDoc. OpenGL, Vulkan, or WebGPU? Gave up on this, but note that Vulkan already helps to run [d3d9-d3d11 on Linux](https://github.com/doitsujin/dxvk/issues/3789).
 
 ## [The Algebra of Tensor Fields](https://aabbtree77.github.io/blog/)
 
 Vilnius, 2015 - 2020.
 
-Verified tensor algebras of Donn G. Shankland. Consider this as "Tensors: The Missing Manual", but this is all hopeless.
+Verified tensor algebras of Donn G. Shankland. Consider this as "Tensors: The Missing Manual", or a motivation to write Part II of David Kay's [Tensor Calculus](https://www.amazon.com/Schaums-Outline-Tensor-Calculus/dp/0070334846).
 
 ["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
