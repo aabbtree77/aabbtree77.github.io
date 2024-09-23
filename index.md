@@ -10,7 +10,7 @@ I studied electrical engineering in Lithuania from 1994 to 1999, followed by res
 
 Later I did three postdoc projects and came back to Vilnius (Lithuania) in 2014 with the goal to become a software [engineer](https://1x.engineer/).
 
-Take a look at some of my work with [hardware](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
+Take a look at some of my work in [hardware](https://github.com/aabbtree77/mona-lisa), [embedded software](https://github.com/aabbtree77/adast), [IoT](https://github.com/aabbtree77/esp32-vpn), [3D](https://github.com/aabbtree77/twinpeekz2), and [webdev](https://github.com/aabbtree77/auth-starter-backend).
 
 # Selected Projects
 
@@ -18,7 +18,7 @@ Take a look at some of my work with [hardware](https://github.com/aabbtree77/mon
 
 Vilnius, Now.
 
-Learning some ways to build web GUIs and services. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication which is a pain point in Node.
+Learning some ways to build web GUIs and services. My interim release includes [backend](https://github.com/aabbtree77/auth-starter-backend) and [frontend](https://github.com/aabbtree77/auth-starter-frontend) for a 3rd party-free user authentication.
 
 ## [lawtrust.eu](https://lawtrust.eu/): [lawlt.eu](http://www.lawlt.eu/) [Improved](https://github.com/aabbtree77/law2)
 
@@ -54,7 +54,7 @@ Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz)
 
 Vilnius, 2015 - 2020.
 
-Verified tensor algebras of Donn G. Shankland. Consider this as "Tensors: The Missing Manual", or a motivation to write Part II of David Kay's [Tensor Calculus](https://www.amazon.com/Schaums-Outline-Tensor-Calculus/dp/0070334846).
+Verified tensor algebras of Donn G. Shankland.
 
 ["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
