@@ -1,6 +1,6 @@
 # Ramūnas Girdziušas
 
-[Contact](https://aabbtree77.github.io/contact/index.html), [Github](https://github.com/aabbtree77?tab=repositories), [WebCV](https://aabbtree77.github.io/cv/), [Blog](https://aabbtree77.github.io/blog/), [resume.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [cv.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
+[Contact](https://aabbtree77.github.io/contact/index.html), [Github](https://github.com/aabbtree77?tab=repositories), [CV (React Show-off)](https://aabbtree77.github.io/cv/), [resume.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf), [cv.pdf](https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf)
 
 <div style="display: flex; justify-content: flex-start">
   <div style="font-size: 1rem;">Last Update: July 2024</div>
@@ -50,11 +50,11 @@ Vilnius, 2020 - 2022.
 
 Implemented volumetric lighting in [Go](https://github.com/aabbtree77/twinpeekz) and [Nim](https://github.com/aabbtree77/twinpeekz2) (forward rendering, shadow mapping, PBR, 3D ray marching, OpenGL) following [Balázs Tóth, Tamás Umenhoffer (2009)](https://diglib.eg.org/handle/10.2312/egs.20091048.057-060), and [Tomas Öhberg (2017)](https://gitlab.com/tomasoh/100_procent_more_volume). Go and Nim are amazing projects, but their advantages (build systems, code readability) barely matter where a 3D backend is a horror story and one must resort to runtime tools like RenderDoc. OpenGL, Vulkan, or WebGPU? Gave up on this, but note that Vulkan already helps to run [d3d9-d3d11 on Linux](https://github.com/doitsujin/dxvk/issues/3789).
 
-## [The Algebra of Tensor Fields](https://aabbtree77.github.io/blog/)
+## [The Algebra of Tensor Fields](https://aabbtree77.github.io/tensors/)
 
-Vilnius, 2015 - 2020.
+Vilnius, 2015 - 2024.
 
-Verified tensor algebras of Donn G. Shankland.
+Verified tensor algebras of Donn G. Shankland (1970).
 
 ["Après la montagne, il y a la montagne..." &#8722; Desireless, Hari om Ramakrishna (1989)](https://www.youtube.com/watch?v=18rZv8qWZqA)
 
