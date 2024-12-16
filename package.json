@@ -1,0 +1,14 @@
+{
+  "name": "aabbtree77.github.io",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Work and Life</title>
+  <link href="output.css" rel="stylesheet" />
+  
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+
+  <style>
+    @keyframes swipe-in {
+      from {
+        transform: translateX(100%);
+      }
+
+      to {
+        transform: translateX(0);
+      }
+    }
+  </style>
+</head>
+
+<body class="bg-gradient-to-b from-gray-800 to-gray-900 text-yellow-800 h-screen flex items-center justify-center">
+  <div class="flex flex-col justify-between w-[90vw] h-[90vw] md:w-1/2 md:h-1/2 md:transform md:rotate-[-15deg]">
+    <ul class="flex justify-evenly">
+      <li
+        class="tab relative cursor-pointer text-center text-xl flex items-center justify-center transition-all hover:scale-110 text-blue-400 hover:text-blue-600"
+        data-content="<ul class='list-disc text-left pl-6'>
+              <li>Ramūnas Girdziušas, DSc (Tech)</li>
+              <li>Studied EENG and machine vision</li>
+              <li>Interested in <a href='https://1x.engineer/' target='_blank'
+                class='text-blue-400 hover:text-blue-600'>programming</a></li>
+              <li><a href='https://github.com/aabbtree77/aabbtree77-projects/' target='_blank'
+                class='text-blue-400 hover:text-blue-600'>Anything</a> from the <a href='https://github.com/aabbtree77/adast/' target='_blank'
+                class='text-blue-400 hover:text-blue-600'>MCU</a> to <a href='https://github.com/aabbtree77/twinpeekz/' target='_blank'
+                class='text-blue-400 hover:text-blue-600'>3D</a></li>
+                <li>Ping me: aabbtree77 at gmail.com</li>  
+            </ul>">
+        About
+      </li>
+      <li
+        class="tab relative cursor-pointer text-center text-xl flex items-center justify-center transition-all hover:scale-110 text-blue-400 hover:text-blue-600"
+        data-content="         
+        <div class='grid grid-cols-2 gap-4'>
+          <a href='https://github.com/aabbtree77?tab=repositories' target='_blank' class='flex items-center text-blue-400 hover:text-blue-600'>
+            <svg class='w-6 h-6 fill-current mr-2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor'>
+              <path d='M12 0C5.372 0 0 5.372 0 12c0 5.302 3.438 9.8 8.205 11.387.6.111.82-.26.82-.577v-2.234c-3.338.726-4.042-1.415-4.042-1.415-.546-1.387-1.333-1.757-1.333-1.757-1.09-.745.083-.729.083-.729 1.205.084 1.839 1.238 1.839 1.238 1.07 1.835 2.805 1.305 3.492.998.107-.774.419-1.305.762-1.605-2.665-.303-5.467-1.333-5.467-5.931 0-1.31.467-2.382 1.235-3.221-.124-.303-.535-1.523.117-3.176 0 0 1.008-.322 3.302 1.23a11.53 11.53 0 013.006-.404c1.02.005 2.047.138 3.006.404 2.292-1.552 3.298-1.23 3.298-1.23.653 1.653.243 2.873.12 3.176.77.84 1.233 1.911 1.233 3.221 0 4.61-2.807 5.624-5.479 5.921.43.37.823 1.103.823 2.222v3.293c0 .32.217.694.825.576C20.565 21.798 24 17.3 24 12c0-6.628-5.372-12-12-12z'/>
+            </svg>
+            GitHub
+          </a>
+          <a href='https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf' target='_blank'
+          class='text-blue-400 hover:text-blue-600'>resume.pdf</a>
+        <a href='https://aabbtree77.github.io/cv/' target='_blank' class='text-blue-400 hover:text-blue-600'>cv (React)</a>
+        <a href='https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf' target='_blank'
+          class='text-blue-400 hover:text-blue-600'>cv.pdf</a>
+
+  </div>"
+  >
+  cv
+  </li>
+  </ul>
+  <div id="main-content" class="flex-grow flex items-center justify-center text-2xl font-bold relative overflow-hidden">
+    <!-- Start with no content initially rendered -->
+  </div>
+  </div>
+  <script>
+    const tabs = document.querySelectorAll(".tab");
+    const mainContent = document.getElementById("main-content");
+    let lastActiveTab = null;
+
+    // Set up Web Audio API for sound effect
+    const audioContext = new (window.AudioContext ||
+      window.webkitAudioContext)();
+
+    function playBeepSound() {
+      const oscillator = audioContext.createOscillator();
+      const gainNode = audioContext.createGain();
+
+      oscillator.type = "sine";
+      oscillator.frequency.setValueAtTime(440, audioContext.currentTime); // 440 Hz (A4)
+      gainNode.gain.setValueAtTime(0.1, audioContext.currentTime); // Volume control
+
+      oscillator.connect(gainNode);
+      gainNode.connect(audioContext.destination);
+
+      oscillator.start();
+      oscillator.stop(audioContext.currentTime + 0.1); // Play for 0.1 seconds
+    }
+
+    function highlightTab(tab) {
+      tabs.forEach((t) =>
+        t.classList.remove("text-yellow-800", "font-bold", "underline")
+      );
+      tab.classList.add("text-blue-400", "font-bold", "underline");
+    }
+
+    function updateContent(tab) {
+      const newText = tab.dataset.content;
+
+      // Remove all existing content to prevent overlap
+      mainContent.innerHTML = "";
+
+      // Create a new div for animation
+      const newContent = document.createElement("div");
+      newContent.innerHTML = newText;
+      newContent.className =
+        "absolute inset-0 flex items-center justify-center animate-[swipe-in_0.5s_ease-out_forwards]";
+
+      // Append the new content
+      mainContent.appendChild(newContent);
+    }
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("mouseenter", () => {
+        if (lastActiveTab !== tab) {
+          playBeepSound();
+
+          updateContent(tab);
+          highlightTab(tab);
+          lastActiveTab = tab;
+        }
+      });
+    });
+
+    // Initialize the first tab as active
+    const defaultTab = tabs[0];
+    lastActiveTab = defaultTab;
+    highlightTab(defaultTab);
+    updateContent(defaultTab);
+  </script>
+</body>
+
+</html>
