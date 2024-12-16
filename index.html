@@ -1,13 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>aabbtree77</title>
-  <link href="output.css" rel="stylesheet" />
-  
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <meta
+      name="description"
+      content="Personal homepage of Ramunas Girdziusas (Ramūnas Girdziušas), D.Sc. (Tech.). 
+      Includes a desire to work in software engineering and links to curriculum vitae, resume, and online projects.
+      Plays 0.1s. sound on mouseenter events."
+    />
+    <meta
+      name="keywords"
+      content="Ramunas Girdziusas, Ramūnas Girdziušas, software engineering, programming, 
+      Adast, ATmega microcontrollers, aabbtree77, github projects, OpenGL full pipeline, 
+      volumetric light, IoT, 3D, Web, Go, Nim."
+    />
+    <meta name="author" content="Ramunas Girdziusas" />
+    <meta name="google" content="notranslate" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>aabbtree77</title>
+    <link href="output.css" rel="stylesheet" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap"
@@ -16,25 +32,29 @@
 
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
-  <style>
-    @keyframes swipe-in {
-      from {
-        transform: translateX(100%);
-      }
+    <style>
+      @keyframes swipe-in {
+        from {
+          transform: translateX(100%);
+        }
 
-      to {
-        transform: translateX(0);
+        to {
+          transform: translateX(0);
+        }
       }
-    }
-  </style>
-</head>
+    </style>
+  </head>
 
-<body class="bg-gradient-to-b from-gray-800 to-gray-900 text-yellow-800 h-screen flex items-center justify-center">
-  <div class="flex flex-col justify-between w-[90vw] h-[90vw] md:w-1/2 md:h-1/2 md:transform md:rotate-[-15deg]">
-    <ul class="flex justify-evenly">
-      <li
-        class="tab relative cursor-pointer text-center text-xl flex items-center justify-center transition-all hover:scale-110 text-blue-400 hover:text-blue-600"
-        data-content="<ul class='list-disc text-left pl-6'>
+  <body
+    class="bg-gradient-to-b from-gray-800 to-gray-900 text-yellow-800 h-screen flex items-center justify-center font-code"
+  >
+    <div
+      class="flex flex-col justify-between w-[90vw] h-[90vw] md:w-1/2 md:h-1/2 md:transform md:rotate-[-15deg]"
+    >
+      <ul class="flex justify-evenly">
+        <li
+          class="tab relative cursor-pointer text-center text-xl flex items-center justify-center transition-all hover:scale-110 text-blue-400 hover:text-blue-600"
+          data-content="<ul class='list-disc text-left pl-6'>
               <li>Ramūnas Girdziušas, DSc (Tech)</li>
               <li>Studied EENG and machine vision</li>
               <li>Interested in <a href='https://1x.engineer/' target='_blank'
@@ -44,12 +64,13 @@
                 class='text-blue-400 hover:text-blue-600'>MCU</a> to <a href='https://github.com/aabbtree77/twinpeekz/' target='_blank'
                 class='text-blue-400 hover:text-blue-600'>3D</a></li>
                 <li>Ping me: aabbtree77 at gmail.com</li>  
-            </ul>">
-        About
-      </li>
-      <li
-        class="tab relative cursor-pointer text-center text-xl flex items-center justify-center transition-all hover:scale-110 text-blue-400 hover:text-blue-600"
-        data-content="         
+            </ul>"
+        >
+          About
+        </li>
+        <li
+          class="tab relative cursor-pointer text-center text-xl flex items-center justify-center transition-all hover:scale-110 text-blue-400 hover:text-blue-600"
+          data-content="         
         <div class='grid grid-cols-2 gap-4'>
           <a href='https://github.com/aabbtree77?tab=repositories' target='_blank' class='flex items-center text-blue-400 hover:text-blue-600'>
             <svg class='w-6 h-6 fill-current mr-2' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='currentColor'>
@@ -64,79 +85,81 @@
           class='text-blue-400 hover:text-blue-600'>cv.pdf</a>
 
   </div>"
-  >
-  cv
-  </li>
-  </ul>
-  <div id="main-content" class="flex-grow flex items-center justify-center text-2xl font-bold relative overflow-hidden">
-    <!-- Start with no content initially rendered -->
-  </div>
-  </div>
-  <script>
-    const tabs = document.querySelectorAll(".tab");
-    const mainContent = document.getElementById("main-content");
-    let lastActiveTab = null;
+        >
+          cv
+        </li>
+      </ul>
+      <div
+        id="main-content"
+        class="flex-grow flex items-center justify-center text-2xl font-bold relative overflow-hidden"
+      >
+        <!-- Start with no content initially rendered -->
+      </div>
+    </div>
+    <script>
+      const tabs = document.querySelectorAll(".tab");
+      const mainContent = document.getElementById("main-content");
+      let lastActiveTab = null;
 
-    // Set up Web Audio API for sound effect
-    const audioContext = new (window.AudioContext ||
-      window.webkitAudioContext)();
+      // Set up Web Audio API for sound effect
+      const audioContext = new (window.AudioContext ||
+        window.webkitAudioContext)();
 
-    function playBeepSound() {
-      const oscillator = audioContext.createOscillator();
-      const gainNode = audioContext.createGain();
+      function playBeepSound() {
+        const oscillator = audioContext.createOscillator();
+        const gainNode = audioContext.createGain();
 
-      oscillator.type = "sine";
-      oscillator.frequency.setValueAtTime(440, audioContext.currentTime); // 440 Hz (A4)
-      gainNode.gain.setValueAtTime(0.1, audioContext.currentTime); // Volume control
+        oscillator.type = "sine";
+        oscillator.frequency.setValueAtTime(440, audioContext.currentTime); // 440 Hz (A4)
+        gainNode.gain.setValueAtTime(0.1, audioContext.currentTime); // Volume control
 
-      oscillator.connect(gainNode);
-      gainNode.connect(audioContext.destination);
+        oscillator.connect(gainNode);
+        gainNode.connect(audioContext.destination);
 
-      oscillator.start();
-      oscillator.stop(audioContext.currentTime + 0.1); // Play for 0.1 seconds
-    }
+        oscillator.start();
+        oscillator.stop(audioContext.currentTime + 0.1); // Play for 0.1 seconds
+      }
 
-    function highlightTab(tab) {
-      tabs.forEach((t) =>
-        t.classList.remove("text-yellow-800", "font-bold", "underline")
-      );
-      tab.classList.add("text-blue-400", "font-bold", "underline");
-    }
+      function highlightTab(tab) {
+        tabs.forEach((t) =>
+          t.classList.remove("text-yellow-800", "font-bold", "underline")
+        );
+        tab.classList.add("text-blue-400", "font-bold", "underline");
+      }
 
-    function updateContent(tab) {
-      const newText = tab.dataset.content;
+      function updateContent(tab) {
+        const newText = tab.dataset.content;
 
-      // Remove all existing content to prevent overlap
-      mainContent.innerHTML = "";
+        // Remove all existing content to prevent overlap
+        mainContent.innerHTML = "";
 
-      // Create a new div for animation
-      const newContent = document.createElement("div");
-      newContent.innerHTML = newText;
-      newContent.className =
-        "absolute inset-0 flex items-center justify-center animate-[swipe-in_0.5s_ease-out_forwards]";
+        // Create a new div for animation
+        const newContent = document.createElement("div");
+        newContent.innerHTML = newText;
+        newContent.className =
+          "absolute inset-0 flex items-center justify-center animate-[swipe-in_0.5s_ease-out_forwards]";
 
-      // Append the new content
-      mainContent.appendChild(newContent);
-    }
+        // Append the new content
+        mainContent.appendChild(newContent);
+      }
 
-    tabs.forEach((tab) => {
-      tab.addEventListener("mouseenter", () => {
-        if (lastActiveTab !== tab) {
-          playBeepSound();
+      tabs.forEach((tab) => {
+        tab.addEventListener("mouseenter", () => {
+          if (lastActiveTab !== tab) {
+            playBeepSound();
 
-          updateContent(tab);
-          highlightTab(tab);
-          lastActiveTab = tab;
-        }
+            updateContent(tab);
+            highlightTab(tab);
+            lastActiveTab = tab;
+          }
+        });
       });
-    });
 
-    // Initialize the first tab as active
-    const defaultTab = tabs[0];
-    lastActiveTab = defaultTab;
-    highlightTab(defaultTab);
-    updateContent(defaultTab);
-  </script>
-</body>
-
+      // Initialize the first tab as active
+      const defaultTab = tabs[0];
+      lastActiveTab = defaultTab;
+      highlightTab(defaultTab);
+      updateContent(defaultTab);
+    </script>
+  </body>
 </html>
