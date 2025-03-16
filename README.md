@@ -92,6 +92,14 @@
 
 - An average Google font takes 20-30KB.  
 
+## miniguestlog
+
+The CV section contains [a link](https://aabbtree77.github.io/miniguestlog/loadGuestsSpinner.html) which shows the last 50 visitors (guests) of this page. It is a minimal MERN app whose frontend is located in the directory `miniguestlog` in the same folder as this README.md. The backend is in [aabbtree77/miniguestlog](https://github.com/aabbtree77/miniguestlog), hosted at render.com. To activate this app, add this line manually inside `<head></head>` of `index.html`:
+
+```html
+<script type="text/javascript" src="miniguestlog/sendGuestTimeLoc.js"></script>
+```
+
 ## Git
 
 - Set up [tokens](http://www.compciv.org/recipes/devops/git-and-github-setup/) with .bashrc.
