@@ -18,16 +18,12 @@ const ProjectsList: React.FC = () => {
             Schatzhauser: A Go Backend for Web Apps
           </a>
           <p className="mt-3 text-base text-left">
-            This is a minimalist backend with middleware to help fighting bots.
-            The latter is implemented without composition games. Think of Ruby
-            Rack, but simpler. The unsung hero is sqlc.
-          </p>
-          <p className="mt-3 text-base text-left">
-            Go runtime is natural for BE. Each request is handled by a goroutine
-            which owns its DB transaction. Multiple transactions are handled by
-            SQLite. One can play with mutexes to protect maps from concurrent
-            updates, apply Go's context signal system to ensure graceful
-            shutdowns. This is less clear in Ts.
+            This one comes with middleware to fight bots. Think of Ruby Rack,
+            but simpler. There is also a cli to manage users. Go is natural for
+            backend. Each request is handled by a goroutine which owns its DB
+            transaction. Multiple requests/transactions are delegated to SQLite.
+            One can play with mutexes to protect maps from concurrent updates,
+            apply Go's context signal system to ensure graceful shutdowns.
           </p>
         </div>
 
@@ -38,22 +34,13 @@ const ProjectsList: React.FC = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Volumetric Sponza
+            Volumetric Light (God Rays)
           </a>
           <p className="mt-3 text-base text-left">
-            Shadow mapping is a billion times faster than ray tracing.
-            Surprisingly, one can go one step further and capture particle
-            scattering with it. I have implemented volumetric lighting in Go and
-            Nim using forward rendering, shadow mapping, PBR, and 3D ray
-            marching with OpenGL. The work follows techniques described by
-            Balázs Tóth, Tamás Umenhoffer (2009), and Tomas Öhberg (2017). These
-            are the most beautiful scientific works and 3D simulations I have
-            ever seen.
-          </p>
-          <p className="mt-3 text-base text-left">
-            Debugging OpenGL (or any other 3D backend) is a horror story.
-            RenderDoc becomes essential, static types are of little help, there
-            is no printf, a 3D API (GPU) is so alien to rays and geometry.
+            A complete OpenGL real-time rendering pipeline from glTF2 to fully
+            3D ray marched volumetric light squeezed into milliseconds per
+            frame. Tired of Unreal/Unity? Choose C or Go and push this to the
+            limit. Note that GC enabled Minecraft...
           </p>
         </div>
 
@@ -64,15 +51,13 @@ const ProjectsList: React.FC = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Paper Guillotine
+            Paper Guillotine Adast Maxima MS80
           </a>
           <p className="mt-3 text-base text-left">
             Joint work with Saulius Rakauskas (Infovega). We have maintained a
             real factory machine since February 2020, I wrote firmware in C
-            (avr-gcc).
-          </p>
-          <p className="mt-3 text-base text-left">
-            C is outstanding. After 50+ years we have nothing close to it.
+            (avr-gcc). C is outstanding. After 50+ years nothing comes close to
+            it.
           </p>
         </div>
       </div>

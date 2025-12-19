@@ -22,8 +22,8 @@ const PortfolioTimeline: React.FC = () => {
         <div className="text-base lg:text-xl timeline-end mb-10">
           <time className="font-mono italic">2014 - Now</time>
           <div className="text-xl lg:text-2xl font-black">
-          Street: C, Go, SQLite, React.
-          </div>        
+            Street: C, Go, SQLite, React.
+          </div>
         </div>
         <hr />
       </li>
@@ -46,8 +46,8 @@ const PortfolioTimeline: React.FC = () => {
         <div className="text-base lg:text-xl timeline-start md:text-end mb-10">
           <time className="font-mono italic">2000 - 2014</time>
           <div className="text-xl lg:text-2xl font-black">
-            University: machine learning, 3D.
-          </div>   
+            University: ML, 3D.
+          </div>
         </div>
         <hr />
       </li>

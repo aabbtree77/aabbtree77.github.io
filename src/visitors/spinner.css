@@ -1,0 +1,71 @@
+.spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 60vmin;
+    width: 60vmin;
+    box-sizing: border-box;
+    background: conic-gradient(
+      from 90deg at 50% 50%,
+      rgba(39, 39, 39, 0) 0deg,
+      rgba(144, 144, 144, 0) 0.04deg,
+      #918981 360deg
+    );
+    border-radius: 60vmin;
+    /* previous code */
+    animation: 2s rotate infinite linear;
+    display: none;
+  }
+  .spinner::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 55vmin;
+    width: 55vmin;
+    /*background: #323232;*/
+    background: transparent;
+    border-radius: 55vmin;
+  }
+  .spinner::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 2.5vmin;
+    width: 2.5vmin;
+    /*background: #1f90ff;*/
+    background: transparent;
+    border-radius: 2.5vmin;
+  }
+  @keyframes rotate {
+    0% {
+      transform: translateX(-50%) translateY(-50%) rotate(0deg);
+    }
+    100% {
+      transform: translateX(-50%) translateY(-50%) rotate(360deg);
+    }
+  }
+  
+  .overlay-text {
+  z-index: 289;
+  position: absolute;
+  top: 50%; /* Adjust this value to vertically center the text */
+  left: 50%; /* Adjust this value to horizontally center the text */
+  transform: translate(-50%, -50%); /* Center the text precisely */
+  /*background-color: #323232;*/
+  background-color: transparent;
+  color: #92400E; /* Set the text color */
+  font-size: 2.5rem; /* Adjust the font size */
+  text-align: center; /* Center the text horizontally */ 
+  }
+  
+@media only screen and (max-width: 768px) {
+  .overlay-text {
+  font-size: 0.7rem; /* Adjust the font size */
+  }
+}
+  

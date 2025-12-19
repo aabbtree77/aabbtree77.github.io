@@ -1,4 +1,5 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, lazy, Suspense } from "react";
+import { Routes, Route } from "react-router-dom";
 import { sendGuestTimeLoc } from "./analytics/sendGuestTimeLoc";
 
 import Header from "./components/Header";
@@ -10,17 +11,9 @@ import Popup from "./components/Popup";
 
 import "./App.css";
 
-function App() {
-  //StrictMode runs effects twice in dev
-  //useRef is here so that POST inside sendGuestTimeLoc() may not fire twice in dev
-  const ran = useRef(false);
+const VisitorsOverlay = lazy(() => import("./visitors/VisitorsOverlay"));
 
-  useEffect(() => {
-    if (ran.current) return;
-    ran.current = true;
-    sendGuestTimeLoc();
-  }, []);
-
+function CV() {
   return (
     <div className="bg-neutral">
       <div className="mx-auto flex w-11/12 flex-col items-center gap-8 text-gray-400 2xl:w-3/5 2xl:gap-24">
@@ -39,4 +32,30 @@ function App() {
   );
 }
 
-export default App;
+export default function App() {
+  /*React gotcha: StrictMode runs effects twice in dev
+  useRef is here so that POST inside sendGuestTimeLoc()
+  may not fire twice in dev*/
+
+  const ran = useRef(false);
+
+  useEffect(() => {
+    if (ran.current) return;
+    ran.current = true;
+    sendGuestTimeLoc();
+  }, []);
+
+  return (
+    <Routes>
+      <Route path="/" element={<CV />} />
+      <Route
+        path="/visitors"
+        element={
+          <Suspense fallback={null}>
+            <VisitorsOverlay />
+          </Suspense>
+        }
+      />
+    </Routes>
+  );
+}
