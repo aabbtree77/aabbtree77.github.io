@@ -1,0 +1,16 @@
+/* src/index.css */
+
+/* Tailwind CSS directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Uncomment to debug bounding boxes */
+
+/*
+
+* {
+  outline: 1px solid tomato;
+}
+
+*/
