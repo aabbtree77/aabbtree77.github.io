@@ -1,3 +1,6 @@
+import { useEffect, useRef } from "react";
+import { sendGuestTimeLoc } from "./analytics/sendGuestTimeLoc";
+
 import Header from "./components/Header";
 import ProjectsList from "./components/ProjectsList";
 import Portfolio from "./components/Portfolio";
@@ -8,6 +11,16 @@ import Popup from "./components/Popup";
 import "./App.css";
 
 function App() {
+  //StrictMode runs effects twice in dev
+  //useRef here is so that POST inside sendGuestTimeLoc() may not fire twice in dev
+  const ran = useRef(false);
+
+  useEffect(() => {
+    if (ran.current) return;
+    ran.current = true;
+    sendGuestTimeLoc();
+  }, []);
+
   return (
     <div className="bg-neutral">
       <div className="mx-auto flex w-11/12 flex-col items-center gap-8 text-gray-400 2xl:w-3/5 2xl:gap-24">
