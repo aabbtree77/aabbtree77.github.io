@@ -10,6 +10,9 @@ export default {
         caveat: ["Caveat", "cursive"],
         scp: ["Source Code Pro", "mono"],
       },
+      screens: {
+        tablet: "720px",
+      },
     },
   },
   plugins: [

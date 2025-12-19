@@ -22,11 +22,13 @@ function CV() {
         <ProjectsList />
         <Contact />
         <Footer />
-        <Popup
-          imageSrc="assets/IronMike.png"
-          link="https://www.youtube.com/watch?v=Y183gJQ9yCY&t=20s&ab_channel=MMAMindset"
-          message="How can I help you?"
-        />
+        <div className="hidden tablet:block">
+          <Popup
+            imageSrc="assets/IronMike.png"
+            link="https://www.youtube.com/watch?v=Y183gJQ9yCY&t=20s&ab_channel=MMAMindset"
+            message="How can I help you?"
+          />
+        </div>
       </div>
     </div>
   );
