@@ -17,7 +17,7 @@ const Header: React.FC = () => {
           </div>
 
           <div className="text-base lg:text-2xl text-center">
-          <a
+            <a
               className="link link-accent no-underline"
               href="https://github.com/aabbtree77?tab=repositories"
             >
@@ -25,13 +25,13 @@ const Header: React.FC = () => {
             </a>
             <a
               className="link link-accent no-underline"
-              href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasResume.pdf"
+              href="/pdfs/RamunasGirdziusasResume.pdf"
             >
               resume.pdf{" "}
             </a>{" "}
             <a
               className="link link-accent no-underline"
-              href="https://aabbtree77.github.io/pdfs/RamunasGirdziusasCV.pdf"
+              href="/pdfs/RamunasGirdziusasCV.pdf"
             >
               cv.pdf
             </a>
