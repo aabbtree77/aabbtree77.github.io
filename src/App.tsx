@@ -12,7 +12,7 @@ import "./App.css";
 
 function App() {
   //StrictMode runs effects twice in dev
-  //useRef here is so that POST inside sendGuestTimeLoc() may not fire twice in dev
+  //useRef is here so that POST inside sendGuestTimeLoc() may not fire twice in dev
   const ran = useRef(false);
 
   useEffect(() => {
