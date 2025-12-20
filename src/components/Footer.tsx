@@ -22,7 +22,8 @@ export default function Footer() {
         {/* list */}
         {open && (
           <div className="mx-auto mt-3 text-left">
-            <Suspense fallback={null}>
+            {/*<Suspense fallback={null}>*/}
+            <Suspense fallback={<p className="mt-3 italic opacity-80">Loading…</p>}>
               <VisitorsInline />
             </Suspense>
           </div>

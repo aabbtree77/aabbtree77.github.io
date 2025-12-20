@@ -37,7 +37,7 @@ export default function VisitorsInline() {
     <div className="mt-3 space-y-1 text-base text-gray-300">
       {data.map((item, i) => (
         <p key={i}>
-          {i}. {item.date} {item.time}, {item.city}, {item.country}
+          {i+1}. {item.date} {item.time}, {item.city}, {item.country}
         </p>
       ))}
     </div>
