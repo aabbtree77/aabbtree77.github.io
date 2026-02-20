@@ -11,19 +11,26 @@ const ProjectsList: React.FC = () => {
         <div>
           <a
             className="link link-accent no-underline hover:underline text-xl lg:text-2xl font-semibold"
-            href="https://github.com/aabbtree77/schatzhauser"
+            href="https://github.com/aabbtree77/opt"
             target="_blank"
             rel="noreferrer"
           >
-            Schatzhauser: A Go Backend for Web Apps
+            opt and opt/initialsdb
           </a>
           <p className="mt-3 text-base text-left">
-            This one comes with middleware to fight bots. Think of Ruby Rack,
-            but simpler. There is also a cli to manage users. Go is natural for
-            backend. Each request is handled by a goroutine which owns its DB
-            transaction. Multiple requests/transactions are delegated to SQLite.
-            One can play with mutexes to protect maps from concurrent updates,
-            apply Go's context signal system to ensure graceful shutdowns.
+            VPS infrastructure + code for{" "}
+            <a
+              className="link link-accent no-underline hover:underline font-semibold"
+              href="https://initials.dev/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              initials.dev
+            </a>
+            , a public bulletin board (message store) implemented as a Go
+            backend serving a React SPA, together with PostgreSQL and Docker
+            Compose. Web-standard, reliable, and debuggable, but less automated,
+            sort of "anti-serverless".
           </p>
         </div>
 
@@ -39,8 +46,8 @@ const ProjectsList: React.FC = () => {
           <p className="mt-3 text-base text-left">
             A complete OpenGL real-time rendering pipeline from glTF2 to fully
             3D ray marched volumetric light squeezed into milliseconds per
-            frame. Tired of Unreal/Unity? Choose C or Go and push this to the
-            limit. Note that GC enabled Minecraft...
+            frame. Tired of Unreal/Unity? Choose C or Go and specialize. Do not
+            be afraid of a GC. Minecraft is Java...
           </p>
         </div>
 
@@ -56,8 +63,50 @@ const ProjectsList: React.FC = () => {
           <p className="mt-3 text-base text-left">
             Joint work with Saulius Rakauskas (Infovega). We have maintained a
             real factory machine since February 2020, I wrote firmware in C
-            (avr-gcc). C is outstanding. After 50+ years nothing comes close to
-            it.
+            (avr-gcc).
+          </p>
+        </div>
+
+        <div>
+          <a
+            className="link link-accent no-underline hover:underline text-xl lg:text-2xl font-semibold"
+            href="https://aabbtree77.github.io/tensors/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Notes taken while reading Shankland (1970)
+          </a>
+          <p className="mt-3 text-base text-left">
+            Very few people know that tensors are not only vector spaces, but
+            also algebras. The product determines their spectrum, even though
+            the object is symbolical, not numerical. Spin comes up as a
+            label/size of an irreducible block in the spectrum of a tensor.
+            Guarded with this hint of Donn G. Shankland, one can rewrite,
+            compress, and better understand Weinberg's QFT Vol.1, completely
+            bottom-up. The reality is, history + experiment are the true
+            ultimate compressors. Gamow/Sakharov, not Landau/Weinberg/Witten.
+          </p>
+        </div>
+
+        <div>
+          <a
+            className="link link-accent no-underline hover:underline text-xl lg:text-2xl font-semibold"
+            href="https://hal.science/hal-00723427"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Parallel Budgeted Optimization for Air Duct Design
+          </a>
+          <p className="mt-3 text-base text-left">
+            PostDoc at Saint-Étienne, 2012-2013. Optimization of the fluid flow
+            which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and
+            ParaView, running on the ProActive PACA Grid cloud (INRIA) via the
+            Scilab-to-Java bridge managed by Fabien Viale. The optimization
+            involved kriging and the CMA-ES as a meta-optimizer of the expected
+            multi-point improvement whose integration I sped up with a
+            specialized unscented transform. David Ginsbourger approached the
+            integral differently, reducing it to Fortran routines which needed
+            to compute multivariate Gaussian quadratures.
           </p>
         </div>
       </div>

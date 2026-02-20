@@ -23,7 +23,9 @@ export default function Footer() {
         {open && (
           <div className="mx-auto mt-3 text-left">
             {/*<Suspense fallback={null}>*/}
-            <Suspense fallback={<p className="mt-3 italic opacity-80">Loading…</p>}>
+            <Suspense
+              fallback={<p className="mt-3 italic opacity-80">Loading…</p>}
+            >
               <VisitorsInline />
             </Suspense>
           </div>
@@ -31,7 +33,7 @@ export default function Footer() {
 
         {/* footer note */}
         <div className="mt-6 text-sm opacity-60">
-          Last update: December 2025
+          Last update: February 2026
         </div>
 
         <div className="h-4" />
