@@ -29,8 +29,9 @@ const ProjectsList: React.FC = () => {
             </a>
             , a public bulletin board (message store) implemented as a Go
             backend serving a React SPA, together with PostgreSQL and Docker
-            Compose. Web-standard, reliable, and debuggable, but less automated,
-            sort of "anti-serverless".
+            Compose. Web-standard, reliable, and debuggable, albeit less
+            automated, sort of anti-serverless. Running 24/7 on Hetzner, but
+            where are the users?
           </p>
         </div>
 
@@ -46,8 +47,8 @@ const ProjectsList: React.FC = () => {
           <p className="mt-3 text-base text-left">
             A complete OpenGL real-time rendering pipeline from glTF2 to fully
             3D ray marched volumetric light squeezed into milliseconds per
-            frame. Tired of Unreal/Unity? Choose C or Go and specialize. Do not
-            be afraid of a GC. Minecraft is Java...
+            frame. Tired of Unreal/Unity/Godot? Choose C or Go and specialize.
+            Do not be afraid of a GC. Minecraft is Java...
           </p>
         </div>
 
@@ -62,8 +63,9 @@ const ProjectsList: React.FC = () => {
           </a>
           <p className="mt-3 text-base text-left">
             Joint work with Saulius Rakauskas (Infovega). We have maintained a
-            real factory machine since February 2020, I wrote firmware in C
-            (avr-gcc).
+            real factory machine since February 2020. A massive steel knife,
+            precision mechanics, heavy factory loads. I wrote firmware in C
+            (avr-gcc), and it does the job, it helps people.
           </p>
         </div>
 
@@ -74,7 +76,7 @@ const ProjectsList: React.FC = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Notes taken while reading Shankland (1970)
+            Reading Donn G. Shankland (1970)
           </a>
           <p className="mt-3 text-base text-left">
             Very few people know that tensors are not only vector spaces, but
@@ -85,6 +87,7 @@ const ProjectsList: React.FC = () => {
             compress, and better understand Weinberg's QFT Vol.1, completely
             bottom-up. The reality is, history + experiment are the true
             ultimate compressors. Gamow/Sakharov, not Landau/Weinberg/Witten.
+            Spinors are still a pain.
           </p>
         </div>
 
@@ -95,18 +98,18 @@ const ProjectsList: React.FC = () => {
             target="_blank"
             rel="noreferrer"
           >
-            Parallel Budgeted Optimization for Air Duct Design
+            Parallel Budgeted Optimization
           </a>
           <p className="mt-3 text-base text-left">
             PostDoc at Saint-Étienne, 2012-2013. Optimization of the fluid flow
-            which was implemented before me with OpenFOAM, CATIA, STAR CCM+ and
-            ParaView, running on the ProActive PACA Grid cloud (INRIA) via the
-            Scilab-to-Java bridge managed by Fabien Viale. The optimization
-            involved kriging and the CMA-ES as a meta-optimizer of the expected
-            multi-point improvement whose integration I sped up with a
-            specialized unscented transform. David Ginsbourger approached the
-            integral differently, reducing it to Fortran routines which needed
-            to compute multivariate Gaussian quadratures.
+            for air duct design. Implemented before me with OpenFOAM, CATIA,
+            STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud
+            (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The
+            optimization involved kriging and the CMA-ES as a meta-optimizer of
+            the expected multi-point improvement whose integration I sped up
+            with a specialized unscented transform. David Ginsbourger approached
+            the integral differently, reducing it to Fortran routines which
+            needed to compute multivariate Gaussian quadratures.
           </p>
         </div>
       </div>
