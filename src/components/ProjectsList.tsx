@@ -29,9 +29,9 @@ const ProjectsList: React.FC = () => {
             </a>
             , a public bulletin board (message store) implemented as a Go
             backend serving a React SPA, together with PostgreSQL and Docker
-            Compose. Web-standard, reliable, and debuggable, albeit less
-            automated, sort of anti-serverless. Running 24/7 on Hetzner, but
-            where are the users?
+            Compose. Verbose (non-magic, reliable, plain), anti-serverless. Running 24/7 on the Hetzner VPS.
+            Still missing a punch/specialization/niche. Will go back to SQLite to emphasize the importance of 
+            prototyping and fewer servers/layers. 
           </p>
         </div>
 
@@ -47,8 +47,8 @@ const ProjectsList: React.FC = () => {
           <p className="mt-3 text-base text-left">
             A complete OpenGL real-time rendering pipeline from glTF2 to fully
             3D ray marched volumetric light squeezed into milliseconds per
-            frame. Tired of Unreal/Unity/Godot? Choose C or Go and specialize.
-            Do not be afraid of a GC. Minecraft is Java...
+            frame. Tired of Unreal/Unity/Godot? Choose C, Nim, or Go, specialize.
+            Do not be afraid of a GC: Minecraft is Java...
           </p>
         </div>
 
@@ -79,15 +79,13 @@ const ProjectsList: React.FC = () => {
             Reading Donn G. Shankland (1970)
           </a>
           <p className="mt-3 text-base text-left">
-            Very few people know that tensors are not only vector spaces, but
-            also algebras. The product determines their spectrum, even though
-            the object is symbolical, not numerical. Spin comes up as a
-            label/size of an irreducible block in the spectrum of a tensor.
-            Guarded with this hint of Donn G. Shankland, one can rewrite,
-            compress, and better understand Weinberg's QFT Vol.1, completely
-            bottom-up. The reality is, history + experiment are the true
-            ultimate compressors. Gamow/Sakharov, not Landau/Weinberg/Witten.
-            Spinors are still a pain.
+            Verified Shankland's algebras. Tensors, spinors, novel definition of a spin of the tensor field, 
+            unexpected tensor product split or simplification, 
+            QFT: the missing manual, irreducibility, tree invariants, 
+            symbolic algebra, Faddeev–LeVerrier algorithm, gauge condition, bottom up constructions, 
+            theoretical physics machoism and masochism, man's search for meaning. 
+            Better trace the most significant experiments historically, esp. the ones with light. Keep the theory at bay. 
+            Gamow, Sakharov, Bojarshinov, estimates, mechanisms, shortcuts, not invariance frameworks.
           </p>
         </div>
 
@@ -102,14 +100,9 @@ const ProjectsList: React.FC = () => {
           </a>
           <p className="mt-3 text-base text-left">
             PostDoc at Saint-Étienne, 2012-2013. Optimization of the fluid flow
-            for air duct design. Implemented before me with OpenFOAM, CATIA,
-            STAR CCM+ and ParaView, running on the ProActive PACA Grid cloud
-            (INRIA) via the Scilab-to-Java bridge managed by Fabien Viale. The
-            optimization involved kriging and the CMA-ES as a meta-optimizer of
-            the expected multi-point improvement whose integration I sped up
-            with a specialized unscented transform. David Ginsbourger approached
-            the integral differently, reducing it to Fortran routines which
-            needed to compute multivariate Gaussian quadratures.
+            for automotive industry. OpenFOAM, CATIA,STAR CCM+, ParaView, ProActive PACA Grid cloud
+            (INRIA), Scilab, Python, CMA-ES, 24/7 runs, asynchrony. I sped up the multivariate expected 
+            improvement integral evaluation with a specialized unscented transform.
           </p>
         </div>
       </div>
