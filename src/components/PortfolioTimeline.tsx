@@ -21,7 +21,7 @@ const PortfolioTimeline: React.FC = () => {
         </div>
         <div className="text-base lg:text-xl timeline-end mb-10">
           <time className="font-mono italic">2014 - Now</time>
-          <div className="text-xl lg:text-2xl font-black">Street: C, ATmega, Linux, MQTT, Blender 3D, OpenGL, Nim, REST APIs, SQLite, PostgreSQL, Go, React, MERN, git, Docker Compose, VPS, prototyping, consulting, leetcoding, applying...</div>
+          <div className="text-xl lg:text-2xl font-black">Go, SQLite, React.</div>
         </div>
         <hr />
       </li>
@@ -44,8 +44,7 @@ const PortfolioTimeline: React.FC = () => {
         <div className="text-base lg:text-xl timeline-start md:text-end mb-10">
           <time className="font-mono italic">2000 - 2014</time>
           <div className="text-xl lg:text-2xl font-black">
-            Universities: Matlab, Scilab, Python, LaTeX, C, calculus, linear algebra, Bayesianism/Jaynes, Gaussian processes (kriging), 
-            CART, CMA-ES, MDS, MNIST, CIFAR, machine learning, ICCV-2007, Lie groups, Pavel Zhilin, tensors, Donn G. Shankland...  
+            Matlab, LaTeX.  
           </div>
         </div>
         <hr />
