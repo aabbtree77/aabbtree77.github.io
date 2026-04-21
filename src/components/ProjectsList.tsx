@@ -29,9 +29,7 @@ const ProjectsList: React.FC = () => {
             </a>
             , a public bulletin board (message store) implemented as a Go
             backend serving a React SPA, together with PostgreSQL and Docker
-            Compose. Verbose (non-magic, reliable, plain), anti-serverless. Running 24/7 on the Hetzner VPS.
-            Still missing a punch/specialization/niche. Will go back to SQLite to emphasize the importance of 
-            prototyping and fewer servers/layers. 
+            Compose, 24/7 on Hetzner.
           </p>
         </div>
 
@@ -47,8 +45,7 @@ const ProjectsList: React.FC = () => {
           <p className="mt-3 text-base text-left">
             A complete OpenGL real-time rendering pipeline from glTF2 to fully
             3D ray marched volumetric light squeezed into milliseconds per
-            frame. Tired of Unreal/Unity/Godot? Choose C, Nim, or Go, specialize.
-            Do not be afraid of a GC: Minecraft is Java...
+            frame.
           </p>
         </div>
 
@@ -79,13 +76,7 @@ const ProjectsList: React.FC = () => {
             Reading Donn G. Shankland (1970)
           </a>
           <p className="mt-3 text-base text-left">
-            Verified Shankland's algebras. Tensors, spinors, novel definition of a spin of the tensor field, 
-            unexpected tensor product split or simplification, 
-            QFT: the missing manual, irreducibility, tree invariants, 
-            symbolic algebra, Faddeev–LeVerrier algorithm, gauge condition, bottom up constructions, 
-            theoretical physics machoism and masochism, man's search for meaning. 
-            Better trace the most significant experiments historically, esp. the ones with light. Keep the theory at bay. 
-            Gamow, Sakharov, Bojarshinov, estimates, mechanisms, shortcuts, not invariance frameworks.
+            Verified Shankland's algebras.
           </p>
         </div>
 
@@ -102,7 +93,7 @@ const ProjectsList: React.FC = () => {
             PostDoc at Saint-Étienne, 2012-2013. Optimization of the fluid flow
             for automotive industry. OpenFOAM, CATIA,STAR CCM+, ParaView, ProActive PACA Grid cloud
             (INRIA), Scilab, Python, CMA-ES, 24/7 runs, asynchrony. I sped up the multivariate expected 
-            improvement integral evaluation with a specialized unscented transform.
+            improvement integration with a specialized unscented transform.
           </p>
         </div>
       </div>
