@@ -25,7 +25,7 @@ const ProjectsList: React.FC = () => {
               target="_blank"
               rel="noreferrer"
             >
-              initials.dev
+              <s>initials.dev</s> (Discontinued, May 9th, 2026)
             </a>
             , a public bulletin board (message store) implemented as a Go
             backend serving a React SPA, together with PostgreSQL and Docker
