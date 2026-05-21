@@ -8,31 +8,7 @@ const ProjectsList: React.FC = () => {
       </h2>
 
       <div className="mx-auto flex flex-col gap-10 w-full sm:w-2/3 lg:w-1/2">
-        <div>
-          <a
-            className="link link-accent no-underline hover:underline text-xl lg:text-2xl font-semibold"
-            href="https://github.com/aabbtree77/opt"
-            target="_blank"
-            rel="noreferrer"
-          >
-            opt and opt/initialsdb
-          </a>
-          <p className="mt-3 text-base text-left">
-            VPS infrastructure + code for{" "}
-            <a
-              className="link link-accent no-underline hover:underline font-semibold"
-              href="https://initials.dev/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <s>initials.dev</s>
-            </a>
-            (discontinued, May 9th 2026), a public bulletin board (message store) implemented as a Go
-            backend serving a React SPA, together with PostgreSQL and Docker
-            Compose, 24/7 on Hetzner.
-          </p>
-        </div>
-
+        
         <div>
           <a
             className="link link-accent no-underline hover:underline text-xl lg:text-2xl font-semibold"
