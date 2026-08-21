@@ -22,13 +22,19 @@ const Header: React.FC = () => {
               className="link link-accent no-underline"
               href="https://github.com/aabbtree77?tab=repositories"
             >
-              Github{" "}
+              Github{"  "}
             </a>
             <a
               className="link link-accent no-underline"
-              href="/pdfs/RamunasGirdziusasResume.pdf"
+              href="/pdfs/RamunasGirdziusasResumeUni.pdf"
             >
-              resume.pdf{" "}
+              resume_uni.pdf{"  "}
+            </a>{" "}
+            <a
+              className="link link-accent no-underline"
+              href="/pdfs/RamunasGirdziusasResumeSWE.pdf"
+            >
+              resume_swe.pdf{"  "}
             </a>{" "}
             <a
               className="link link-accent no-underline"
