@@ -14,7 +14,7 @@ const Header: React.FC = () => {
           <div className="flex flex-col lg:flex-row items-center justify-evenly gap-2 xl:gap-4">
             <p className="text-2xl lg:text-4xl font-bold">Ramunas</p>
             <p className="text-2xl lg:text-4xl font-bold">Girdziusas,</p>
-            <p className="text-2xl lg:text-4xl font-bold">D.Sc. (Tech)</p>
+            <p className="text-2xl lg:text-4xl font-bold">DSc (Tech)</p>
           </div>
 
           <div className="text-base lg:text-2xl text-center">
@@ -26,15 +26,9 @@ const Header: React.FC = () => {
             </a>
             <a
               className="link link-accent no-underline"
-              href="/pdfs/RamunasGirdziusasResumeUni.pdf"
+              href="/pdfs/RamunasGirdziusasResume.pdf"
             >
-              resume_uni.pdf{"  "}
-            </a>{" "}
-            <a
-              className="link link-accent no-underline"
-              href="/pdfs/RamunasGirdziusasResumeSWE.pdf"
-            >
-              resume_swe.pdf{"  "}
+              resume.pdf{"  "}
             </a>{" "}
             <a
               className="link link-accent no-underline"
